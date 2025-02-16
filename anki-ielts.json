@@ -1,13 +1,13 @@
 {
   "__type__": "Deck",
   "children": [],
-  "crowdanki_uuid": "a60a1460-094a-4ee8-808b-d8e29f33ef73",
-  "deck_config_uuid": "a332c0dd-751d-4e0f-a838-483c79d09e35",
+  "crowdanki_uuid": "4c928840-f1f1-4c81-b7b4-b5bd142c75bf",
+  "deck_config_uuid": "b5402528-0d7e-4db7-8a6a-3b9f488f51e4",
   "deck_configurations": [
     {
       "__type__": "DeckConfig",
       "autoplay": true,
-      "crowdanki_uuid": "a332c0dd-751d-4e0f-a838-483c79d09e35",
+      "crowdanki_uuid": "b5402528-0d7e-4db7-8a6a-3b9f488f51e4",
       "dyn": false,
       "lapse": {
         "delays": [
@@ -60,48 +60,15 @@
       "__type__": "Note",
       "data": "",
       "fields": [
-        "<div class='section-header'>introduction</div>\n<div class='original-text'>Original text:<br>\n{{c1::The two charts below illustrate the changes in proportion of the average household expenditures over 6 decades from 1950 to 2010.}}</div>\n",
+        "<div class='section-header'>introduction</div>\n<div class='original-text'>Original text:<br>\nThe two charts below illustrate the changes in proportion of the average household expenditures over 6 decades from 1950 to 2010.</div>\n<div class='improved-text'>Improved version:<br>\n{{c1::The two charts illustrate the changes in the distribution of average household expenditures across major categories from 1950 to 2010.}} {{c2::The data reveals a significant shift in spending patterns, with a notable decrease in expenditure on housing and a corresponding increase in spending on food, while other categories remained relatively stable.}}</div>",
         "<b>Task Response/Task Achievement:</b>\nThe introduction is adequate in stating the purpose of the charts. However, it lacks a brief overview of the main trends. It should mention the overall shifts in spending patterns across the categories. For example, it could mention that spending on housing decreased while spending on food increased.\n\n<b>Coherence & Cohesion:</b>\nThe introduction is clear and concise, setting the context appropriately. However, adding a brief overview would improve the coherence with the following paragraphs.\n\n<b>Grammatical Range & Accuracy:</b>\nThe grammar is correct.\n\n<b>Lexical Resource:</b>\nThe vocabulary is appropriate but could be more precise. Instead of \"proportion of the average household expenditures,\" consider using \"average household expenditure distribution\" or a similar phrase."
       ],
       "flags": 0,
-      "guid": "51820555-6fe4-4934-9ec6-f5aa99d0637f",
-      "note_model_uuid": "b159c54f-71fd-4f29-95cb-d1abac374fbe",
+      "guid": "cb290924-cc6e-48d2-925c-aa935c3bb90e",
+      "note_model_uuid": "f6d0e40a-a7cb-4457-aa2d-ddd12dc42b6e",
       "tags": [
         "writing_feedback",
-        "original",
         "introduction"
-      ]
-    },
-    {
-      "__type__": "Note",
-      "data": "",
-      "fields": [
-        "<div class='section-header'>introduction</div>\n<div class='original-text'>Original text:<br>\nThe two charts below illustrate the changes in proportion of the average household expenditures over 6 decades from 1950 to 2010.</div>\n<div class='improved-text'>Improved version:<br>\n{{c1::The two charts illustrate the changes in the distribution of average household expenditures across major categories from 1950 to 2010. The data reveals a significant shift in spending patterns, with a notable decrease in expenditure on housing and a corresponding increase in spending on food, while other categories remained relatively stable.}}</div>",
-        "<b>Task Response/Task Achievement:</b>\nThe introduction is adequate in stating the purpose of the charts. However, it lacks a brief overview of the main trends. It should mention the overall shifts in spending patterns across the categories. For example, it could mention that spending on housing decreased while spending on food increased.\n\n<b>Coherence & Cohesion:</b>\nThe introduction is clear and concise, setting the context appropriately. However, adding a brief overview would improve the coherence with the following paragraphs.\n\n<b>Grammatical Range & Accuracy:</b>\nThe grammar is correct.\n\n<b>Lexical Resource:</b>\nThe vocabulary is appropriate but could be more precise. Instead of \"proportion of the average household expenditures,\" consider using \"average household expenditure distribution\" or a similar phrase."
-      ],
-      "flags": 0,
-      "guid": "312c08b0-d602-4130-9991-ca8c276f3ad5",
-      "note_model_uuid": "b159c54f-71fd-4f29-95cb-d1abac374fbe",
-      "tags": [
-        "writing_feedback",
-        "improvement",
-        "introduction"
-      ]
-    },
-    {
-      "__type__": "Note",
-      "data": "",
-      "fields": [
-        "<div class='section-header'>overview</div>\n<div class='original-text'>Original text:<br>\n{{c1::The most significant changes can be seen where the average household spends significantly less on housing and more on food over the decades. Meanwhile, the amount of money spent on transportation had also slightly increased. Whereas the proportions of spending on other categories had stayed relatively the same over the course of the decades.}}</div>\n",
-        "<b>Task Response/Task Achievement:</b>\nThis paragraph attempts an overview but is too detailed. An overview should summarize the main trends, not delve into specific figures. It should highlight the key changes across all categories, not just focus on housing, food, and transportation.\n\n<b>Coherence & Cohesion:</b>\nThe overview lacks smooth transitions. The use of \"Meanwhile\" and \"Whereas\" is somewhat abrupt.\n\n<b>Grammatical Range & Accuracy:</b>\nThe grammar is mostly correct, but the sentence structure is repetitive.\n\n<b>Lexical Resource:</b>\nThe vocabulary is simple and lacks precision."
-      ],
-      "flags": 0,
-      "guid": "cb26d3ee-353e-4c4d-a183-a9f2e5a0577a",
-      "note_model_uuid": "b159c54f-71fd-4f29-95cb-d1abac374fbe",
-      "tags": [
-        "writing_feedback",
-        "original",
-        "overview"
       ]
     },
     {
@@ -112,28 +79,11 @@
         "<b>Task Response/Task Achievement:</b>\nThis paragraph attempts an overview but is too detailed. An overview should summarize the main trends, not delve into specific figures. It should highlight the key changes across all categories, not just focus on housing, food, and transportation.\n\n<b>Coherence & Cohesion:</b>\nThe overview lacks smooth transitions. The use of \"Meanwhile\" and \"Whereas\" is somewhat abrupt.\n\n<b>Grammatical Range & Accuracy:</b>\nThe grammar is mostly correct, but the sentence structure is repetitive.\n\n<b>Lexical Resource:</b>\nThe vocabulary is simple and lacks precision."
       ],
       "flags": 0,
-      "guid": "d7331deb-a64e-401b-9fc0-a6a994b1d42f",
-      "note_model_uuid": "b159c54f-71fd-4f29-95cb-d1abac374fbe",
+      "guid": "d67487b1-cb09-4d7f-af38-23d229fff496",
+      "note_model_uuid": "f6d0e40a-a7cb-4457-aa2d-ddd12dc42b6e",
       "tags": [
         "writing_feedback",
-        "improvement",
         "overview"
-      ]
-    },
-    {
-      "__type__": "Note",
-      "data": "",
-      "fields": [
-        "<div class='section-header'>body paragraph 1</div>\n<div class='original-text'>Original text:<br>\n{{c1::Looking at the details of the charts, the expenditures of the average families on housing had decreased by one third of it's original portion of 72 percent. While food portion of the spending had increased by one third of its original portion of 11 percent, a slight increase of spending by 10 percent on transportation can also be seen by the families over the years.}}</div>\n",
-        "<b>Task Response/Task Achievement:</b>\nThis paragraph provides some detail but lacks clarity and precision. The phrasing is awkward, and the comparisons are not clearly structured. The use of percentages is unclear – are these percentage point changes or percentage changes relative to the total expenditure?\n\n<b>Coherence & Cohesion:</b>\nThe paragraph is poorly structured. The transitions between the different categories are not smooth.\n\n<b>Grammatical Range & Accuracy:</b>\nThere are grammatical errors (\"it's\" should be \"its\"). The sentence structure is clumsy.\n\n<b>Lexical Resource:</b>\nThe vocabulary is repetitive and imprecise. The phrase \"portion of the spending\" is awkward."
-      ],
-      "flags": 0,
-      "guid": "c2f61ddf-9a65-4cdc-9b62-59994c9ed991",
-      "note_model_uuid": "b159c54f-71fd-4f29-95cb-d1abac374fbe",
-      "tags": [
-        "writing_feedback",
-        "original",
-        "body_paragraph_1"
       ]
     },
     {
@@ -144,28 +94,11 @@
         "<b>Task Response/Task Achievement:</b>\nThis paragraph provides some detail but lacks clarity and precision. The phrasing is awkward, and the comparisons are not clearly structured. The use of percentages is unclear – are these percentage point changes or percentage changes relative to the total expenditure?\n\n<b>Coherence & Cohesion:</b>\nThe paragraph is poorly structured. The transitions between the different categories are not smooth.\n\n<b>Grammatical Range & Accuracy:</b>\nThere are grammatical errors (\"it's\" should be \"its\"). The sentence structure is clumsy.\n\n<b>Lexical Resource:</b>\nThe vocabulary is repetitive and imprecise. The phrase \"portion of the spending\" is awkward."
       ],
       "flags": 0,
-      "guid": "5bac03df-258e-4018-8505-b8236ddaa8e6",
-      "note_model_uuid": "b159c54f-71fd-4f29-95cb-d1abac374fbe",
+      "guid": "0fc59669-60dc-49d5-b113-e536b609c7c1",
+      "note_model_uuid": "f6d0e40a-a7cb-4457-aa2d-ddd12dc42b6e",
       "tags": [
         "writing_feedback",
-        "improvement",
         "body_paragraph_1"
-      ]
-    },
-    {
-      "__type__": "Note",
-      "data": "",
-      "fields": [
-        "<div class='section-header'>body paragraph 2</div>\n<div class='original-text'>Original text:<br>\n{{c1::While the housing, food and portion had undergone changes, the chart shows that the other categories like health care, education has stayed relatively unchanged.}}</div>\n",
-        "<b>Task Response/Task Achievement:</b>\nThis paragraph is too brief and lacks supporting data. It should specify which other categories remained unchanged and ideally provide some numerical information to support the claim.\n\n<b>Coherence & Cohesion:</b>\nThe transition from the previous paragraph is weak. The use of \"While\" is not very effective.\n\n<b>Grammatical Range & Accuracy:</b>\nThere is a subject-verb agreement error (\"has stayed\" should be \"have stayed\").\n\n<b>Lexical Resource:</b>\nThe vocabulary is limited."
-      ],
-      "flags": 0,
-      "guid": "78c1a048-e037-468a-bba5-e1a9ed256012",
-      "note_model_uuid": "b159c54f-71fd-4f29-95cb-d1abac374fbe",
-      "tags": [
-        "writing_feedback",
-        "original",
-        "body_paragraph_2"
       ]
     },
     {
@@ -176,11 +109,10 @@
         "<b>Task Response/Task Achievement:</b>\nThis paragraph is too brief and lacks supporting data. It should specify which other categories remained unchanged and ideally provide some numerical information to support the claim.\n\n<b>Coherence & Cohesion:</b>\nThe transition from the previous paragraph is weak. The use of \"While\" is not very effective.\n\n<b>Grammatical Range & Accuracy:</b>\nThere is a subject-verb agreement error (\"has stayed\" should be \"have stayed\").\n\n<b>Lexical Resource:</b>\nThe vocabulary is limited."
       ],
       "flags": 0,
-      "guid": "347f9d9d-9d87-458f-a062-9d23816f729e",
-      "note_model_uuid": "b159c54f-71fd-4f29-95cb-d1abac374fbe",
+      "guid": "6af764a9-f0b5-40fa-a457-205809e63116",
+      "note_model_uuid": "f6d0e40a-a7cb-4457-aa2d-ddd12dc42b6e",
       "tags": [
         "writing_feedback",
-        "improvement",
         "body_paragraph_2"
       ]
     },
@@ -192,8 +124,8 @@
         "<b>Explanation:</b><br>The original tense is inconsistent. Since the charts show a trend over time, the past tense is more appropriate."
       ],
       "flags": 0,
-      "guid": "6a791d47-d1ea-4111-b880-651cfd387e55",
-      "note_model_uuid": "b159c54f-71fd-4f29-95cb-d1abac374fbe",
+      "guid": "9277ff73-e70c-4152-9623-4c4709fc05ce",
+      "note_model_uuid": "f6d0e40a-a7cb-4457-aa2d-ddd12dc42b6e",
       "tags": [
         "grammar_vocabulary"
       ]
@@ -206,8 +138,8 @@
         "<b>Explanation:</b><br>Avoid unnecessary auxiliary verb \"had\"."
       ],
       "flags": 0,
-      "guid": "647af93c-241b-4f01-b1e6-716c86e03169",
-      "note_model_uuid": "b159c54f-71fd-4f29-95cb-d1abac374fbe",
+      "guid": "f295cd0b-305a-44b2-9158-a3cd04aae28f",
+      "note_model_uuid": "f6d0e40a-a7cb-4457-aa2d-ddd12dc42b6e",
       "tags": [
         "grammar_vocabulary"
       ]
@@ -220,8 +152,8 @@
         "<b>Explanation:</b><br>\"It's\" is a contraction of \"it is\"; \"its\" is the possessive pronoun."
       ],
       "flags": 0,
-      "guid": "34252acc-6d0c-44bb-8006-49a151313b8d",
-      "note_model_uuid": "b159c54f-71fd-4f29-95cb-d1abac374fbe",
+      "guid": "80171926-a523-45a1-a28d-b039ef5624ac",
+      "note_model_uuid": "f6d0e40a-a7cb-4457-aa2d-ddd12dc42b6e",
       "tags": [
         "grammar_vocabulary"
       ]
@@ -234,8 +166,8 @@
         "<b>Explanation:</b><br>Improve phrasing for clarity and precision."
       ],
       "flags": 0,
-      "guid": "9c2d571a-4405-44fa-ad8a-04727a6d08f0",
-      "note_model_uuid": "b159c54f-71fd-4f29-95cb-d1abac374fbe",
+      "guid": "0ee44995-65c1-4704-8e10-57491f5502d4",
+      "note_model_uuid": "f6d0e40a-a7cb-4457-aa2d-ddd12dc42b6e",
       "tags": [
         "grammar_vocabulary"
       ]
@@ -248,8 +180,8 @@
         "<b>Explanation:</b><br>Rephrasing for conciseness and better word choice."
       ],
       "flags": 0,
-      "guid": "4012b29d-2fe3-4993-998f-b64d4b3d276a",
-      "note_model_uuid": "b159c54f-71fd-4f29-95cb-d1abac374fbe",
+      "guid": "4e82bc9e-5def-4e70-bd51-7401e68db1c1",
+      "note_model_uuid": "f6d0e40a-a7cb-4457-aa2d-ddd12dc42b6e",
       "tags": [
         "grammar_vocabulary"
       ]
@@ -262,8 +194,8 @@
         "<b>Explanation:</b><br>\"Portion\" is redundant here."
       ],
       "flags": 0,
-      "guid": "49b39a5d-7e73-47ea-8b1e-c88a3809b64d",
-      "note_model_uuid": "b159c54f-71fd-4f29-95cb-d1abac374fbe",
+      "guid": "1b72fe01-c98b-44a8-ac6f-186c931d54df",
+      "note_model_uuid": "f6d0e40a-a7cb-4457-aa2d-ddd12dc42b6e",
       "tags": [
         "grammar_vocabulary"
       ]
@@ -276,8 +208,8 @@
         "<b>Explanation:</b><br>Subject-verb agreement error; \"categories\" is plural, requiring \"have\". Also, improve style by using \"such as\" instead of \"like\"."
       ],
       "flags": 0,
-      "guid": "481480c6-c71f-486a-b4d8-eee150c7be02",
-      "note_model_uuid": "b159c54f-71fd-4f29-95cb-d1abac374fbe",
+      "guid": "5a0763fa-8301-44fa-8e81-9bac9fb620ce",
+      "note_model_uuid": "f6d0e40a-a7cb-4457-aa2d-ddd12dc42b6e",
       "tags": [
         "grammar_vocabulary"
       ]
@@ -290,8 +222,8 @@
         "<b>Explanation:</b><br>Correct the apostrophe and improve the phrasing. Hyphenate \"one-third\"."
       ],
       "flags": 0,
-      "guid": "5c7387aa-1f43-4c74-ae81-5f607b1191bd",
-      "note_model_uuid": "b159c54f-71fd-4f29-95cb-d1abac374fbe",
+      "guid": "edf0a729-0517-4496-8f22-c9adf8aab27c",
+      "note_model_uuid": "f6d0e40a-a7cb-4457-aa2d-ddd12dc42b6e",
       "tags": [
         "grammar_vocabulary"
       ]
@@ -304,8 +236,8 @@
         "<b>Explanation:</b><br>Hyphenate \"one-third\"."
       ],
       "flags": 0,
-      "guid": "75c1f0de-7db3-45c2-9ef5-b6001dc700bc",
-      "note_model_uuid": "b159c54f-71fd-4f29-95cb-d1abac374fbe",
+      "guid": "2a5ef940-949d-47c4-b1e8-3b17d00d848a",
+      "note_model_uuid": "f6d0e40a-a7cb-4457-aa2d-ddd12dc42b6e",
       "tags": [
         "grammar_vocabulary"
       ]
@@ -318,8 +250,8 @@
         "<b>Explanation:</b><br>More concise phrasing."
       ],
       "flags": 0,
-      "guid": "d56d34dd-3930-40a5-b1ab-49ed00a2464d",
-      "note_model_uuid": "b159c54f-71fd-4f29-95cb-d1abac374fbe",
+      "guid": "b676d937-7fa2-45c0-9105-f1359fa868f5",
+      "note_model_uuid": "f6d0e40a-a7cb-4457-aa2d-ddd12dc42b6e",
       "tags": [
         "grammar_vocabulary"
       ]
@@ -332,8 +264,8 @@
         "<b>Explanation:</b><br>\"Proportions\" is slightly redundant when referring to multiple categories."
       ],
       "flags": 0,
-      "guid": "cce985f1-b5f3-4ea3-8df6-e5d81ad7defa",
-      "note_model_uuid": "b159c54f-71fd-4f29-95cb-d1abac374fbe",
+      "guid": "a9fe4930-52cf-400d-aaff-295a20717919",
+      "note_model_uuid": "f6d0e40a-a7cb-4457-aa2d-ddd12dc42b6e",
       "tags": [
         "grammar_vocabulary"
       ]
@@ -346,8 +278,8 @@
         "<b>Explanation:</b><br>More concise phrasing."
       ],
       "flags": 0,
-      "guid": "22e038af-be13-433a-90f2-095ad28bee88",
-      "note_model_uuid": "b159c54f-71fd-4f29-95cb-d1abac374fbe",
+      "guid": "92fcdbf3-09ec-4725-8e2a-76164f7910bd",
+      "note_model_uuid": "f6d0e40a-a7cb-4457-aa2d-ddd12dc42b6e",
       "tags": [
         "grammar_vocabulary"
       ]
@@ -360,8 +292,8 @@
         "<b>Explanation:</b><br>More precise and concise phrasing."
       ],
       "flags": 0,
-      "guid": "700235a1-cd77-47e9-887f-87e04ca8bd04",
-      "note_model_uuid": "b159c54f-71fd-4f29-95cb-d1abac374fbe",
+      "guid": "27746d24-6334-4758-a031-acadbdfceec0",
+      "note_model_uuid": "f6d0e40a-a7cb-4457-aa2d-ddd12dc42b6e",
       "tags": [
         "grammar_vocabulary"
       ]
@@ -374,8 +306,8 @@
         "<b>Explanation:</b><br>There are two charts, so use the plural form."
       ],
       "flags": 0,
-      "guid": "e19b6e48-bd2b-44c5-9526-b88d03fbf801",
-      "note_model_uuid": "b159c54f-71fd-4f29-95cb-d1abac374fbe",
+      "guid": "758a3090-dcfa-4691-93b0-26b0d1c4cb6d",
+      "note_model_uuid": "f6d0e40a-a7cb-4457-aa2d-ddd12dc42b6e",
       "tags": [
         "grammar_vocabulary"
       ]
@@ -388,8 +320,8 @@
         "<b>Explanation:</b><br>Past simple is more concise and fits the context better."
       ],
       "flags": 0,
-      "guid": "3fa50930-c2da-49ae-a891-76711d8f8ed0",
-      "note_model_uuid": "b159c54f-71fd-4f29-95cb-d1abac374fbe",
+      "guid": "7bbe7da3-809c-4dea-a22d-038cff8bf79b",
+      "note_model_uuid": "f6d0e40a-a7cb-4457-aa2d-ddd12dc42b6e",
       "tags": [
         "grammar_vocabulary"
       ]
@@ -402,8 +334,8 @@
         "<b>Word Type:</b> Noun"
       ],
       "flags": 0,
-      "guid": "54356f80-c320-4512-b187-8d87ff9684b9",
-      "note_model_uuid": "b159c54f-71fd-4f29-95cb-d1abac374fbe",
+      "guid": "fe340d16-8e4d-4318-8997-979fc10b4e4a",
+      "note_model_uuid": "f6d0e40a-a7cb-4457-aa2d-ddd12dc42b6e",
       "tags": [
         "vocabulary"
       ]
@@ -416,8 +348,8 @@
         "<b>Word Type:</b> Noun"
       ],
       "flags": 0,
-      "guid": "9ee8fcae-1c94-4cc4-bfc3-fd1c8915eefe",
-      "note_model_uuid": "b159c54f-71fd-4f29-95cb-d1abac374fbe",
+      "guid": "c9cc9084-4c05-444a-a2dd-a41b7aa35573",
+      "note_model_uuid": "f6d0e40a-a7cb-4457-aa2d-ddd12dc42b6e",
       "tags": [
         "vocabulary"
       ]
@@ -430,8 +362,8 @@
         "<b>Word Type:</b> Noun"
       ],
       "flags": 0,
-      "guid": "02dd0b7d-336f-450b-be8c-847d1444d30f",
-      "note_model_uuid": "b159c54f-71fd-4f29-95cb-d1abac374fbe",
+      "guid": "f5802043-ffd7-4d03-9e4d-7a504d788319",
+      "note_model_uuid": "f6d0e40a-a7cb-4457-aa2d-ddd12dc42b6e",
       "tags": [
         "vocabulary"
       ]
@@ -444,8 +376,8 @@
         "<b>Word Type:</b> Noun"
       ],
       "flags": 0,
-      "guid": "b175e217-13b5-4ca7-87ed-a940a60716cf",
-      "note_model_uuid": "b159c54f-71fd-4f29-95cb-d1abac374fbe",
+      "guid": "5f66f9b7-996a-43a8-9f65-cad650f57178",
+      "note_model_uuid": "f6d0e40a-a7cb-4457-aa2d-ddd12dc42b6e",
       "tags": [
         "vocabulary"
       ]
@@ -458,8 +390,8 @@
         "<b>Word Type:</b> Adjective"
       ],
       "flags": 0,
-      "guid": "381be581-aad6-4ed5-bd08-fd41b6f1a57e",
-      "note_model_uuid": "b159c54f-71fd-4f29-95cb-d1abac374fbe",
+      "guid": "32dcaf40-0e45-448c-93e6-a829a7bff68d",
+      "note_model_uuid": "f6d0e40a-a7cb-4457-aa2d-ddd12dc42b6e",
       "tags": [
         "vocabulary"
       ]
@@ -472,8 +404,8 @@
         "<b>Word Type:</b> Adjective"
       ],
       "flags": 0,
-      "guid": "d55859e7-4ed6-4ea1-b39e-d7073b77b6de",
-      "note_model_uuid": "b159c54f-71fd-4f29-95cb-d1abac374fbe",
+      "guid": "79766341-735a-48ef-be2e-3dbb9b0868da",
+      "note_model_uuid": "f6d0e40a-a7cb-4457-aa2d-ddd12dc42b6e",
       "tags": [
         "vocabulary"
       ]
@@ -486,8 +418,8 @@
         "<b>Word Type:</b> Noun"
       ],
       "flags": 0,
-      "guid": "aa12ee31-80ac-48fb-844a-cedf4312dd83",
-      "note_model_uuid": "b159c54f-71fd-4f29-95cb-d1abac374fbe",
+      "guid": "5a8d8161-b649-4010-aaff-db3df1829da7",
+      "note_model_uuid": "f6d0e40a-a7cb-4457-aa2d-ddd12dc42b6e",
       "tags": [
         "vocabulary"
       ]
@@ -500,8 +432,8 @@
         "<b>Word Type:</b> Noun"
       ],
       "flags": 0,
-      "guid": "6289e8de-41bd-4775-9518-2ca06fd8dfa2",
-      "note_model_uuid": "b159c54f-71fd-4f29-95cb-d1abac374fbe",
+      "guid": "0026ef41-4765-4675-9131-ab96a991c915",
+      "note_model_uuid": "f6d0e40a-a7cb-4457-aa2d-ddd12dc42b6e",
       "tags": [
         "vocabulary"
       ]
@@ -514,8 +446,8 @@
         "<b>Word Type:</b> Adjective"
       ],
       "flags": 0,
-      "guid": "f43e54f6-95e4-4254-8ef5-ea5888b82e28",
-      "note_model_uuid": "b159c54f-71fd-4f29-95cb-d1abac374fbe",
+      "guid": "b2e051db-49e5-4473-b1f7-e22fbfb2390b",
+      "note_model_uuid": "f6d0e40a-a7cb-4457-aa2d-ddd12dc42b6e",
       "tags": [
         "vocabulary"
       ]
@@ -528,8 +460,8 @@
         "<b>Word Type:</b> Adverb"
       ],
       "flags": 0,
-      "guid": "f0b7d074-a8a3-4fe0-aa76-76367d49ba33",
-      "note_model_uuid": "b159c54f-71fd-4f29-95cb-d1abac374fbe",
+      "guid": "943fd160-c33b-47db-98d7-16eede1af987",
+      "note_model_uuid": "f6d0e40a-a7cb-4457-aa2d-ddd12dc42b6e",
       "tags": [
         "vocabulary"
       ]
@@ -542,8 +474,8 @@
         "<b>Word Type:</b> Adverb"
       ],
       "flags": 0,
-      "guid": "b9702b25-cdc8-4033-8462-be4f3087bf56",
-      "note_model_uuid": "b159c54f-71fd-4f29-95cb-d1abac374fbe",
+      "guid": "42ff07e6-280a-409a-97c0-f8a316305efa",
+      "note_model_uuid": "f6d0e40a-a7cb-4457-aa2d-ddd12dc42b6e",
       "tags": [
         "vocabulary"
       ]
@@ -556,8 +488,8 @@
         "<b>Word Type:</b> Adjective"
       ],
       "flags": 0,
-      "guid": "9e770523-9554-40c0-a8b5-4249c26cde02",
-      "note_model_uuid": "b159c54f-71fd-4f29-95cb-d1abac374fbe",
+      "guid": "5adeecb4-f1c8-488d-a1a2-a239835a5a2d",
+      "note_model_uuid": "f6d0e40a-a7cb-4457-aa2d-ddd12dc42b6e",
       "tags": [
         "vocabulary"
       ]
@@ -570,8 +502,8 @@
         "<b>Word Type:</b> Adjective"
       ],
       "flags": 0,
-      "guid": "9a00ec92-519f-46c2-825f-5c3fd40bf924",
-      "note_model_uuid": "b159c54f-71fd-4f29-95cb-d1abac374fbe",
+      "guid": "67c4a91a-191a-4476-8dfb-606a4223e9ea",
+      "note_model_uuid": "f6d0e40a-a7cb-4457-aa2d-ddd12dc42b6e",
       "tags": [
         "vocabulary"
       ]
@@ -584,8 +516,8 @@
         "<b>Word Type:</b> Noun"
       ],
       "flags": 0,
-      "guid": "9d66f505-cfdc-4480-9278-604e478bfcdc",
-      "note_model_uuid": "b159c54f-71fd-4f29-95cb-d1abac374fbe",
+      "guid": "30c41ffb-f30a-4a43-bc20-2a96332abe62",
+      "note_model_uuid": "f6d0e40a-a7cb-4457-aa2d-ddd12dc42b6e",
       "tags": [
         "vocabulary"
       ]
@@ -598,8 +530,8 @@
         "<b>Word Type:</b> Noun"
       ],
       "flags": 0,
-      "guid": "5a7a6772-c9a7-4cdc-ad6a-535da09557e9",
-      "note_model_uuid": "b159c54f-71fd-4f29-95cb-d1abac374fbe",
+      "guid": "ba1f744a-824e-40a8-8a66-d5c567dad3fe",
+      "note_model_uuid": "f6d0e40a-a7cb-4457-aa2d-ddd12dc42b6e",
       "tags": [
         "vocabulary"
       ]
@@ -612,8 +544,8 @@
         "<b>Category:</b> Clear Overview"
       ],
       "flags": 0,
-      "guid": "235d2c11-2c31-4c84-832e-68a2711b578f",
-      "note_model_uuid": "b159c54f-71fd-4f29-95cb-d1abac374fbe",
+      "guid": "3e1e26aa-85c0-4487-8ff6-a6cd3c3b250e",
+      "note_model_uuid": "f6d0e40a-a7cb-4457-aa2d-ddd12dc42b6e",
       "tags": [
         "writing_tips"
       ]
@@ -626,8 +558,8 @@
         "<b>Category:</b> Data-Driven Analysis"
       ],
       "flags": 0,
-      "guid": "ae77d6b4-718f-4ee3-825f-a5c3d453a842",
-      "note_model_uuid": "b159c54f-71fd-4f29-95cb-d1abac374fbe",
+      "guid": "32c0d307-f2aa-4d31-91a6-5888384dd37f",
+      "note_model_uuid": "f6d0e40a-a7cb-4457-aa2d-ddd12dc42b6e",
       "tags": [
         "writing_tips"
       ]
@@ -640,8 +572,8 @@
         "<b>Category:</b> Precise Language"
       ],
       "flags": 0,
-      "guid": "ed4b7f63-3032-4ccc-82af-3a73384c2a7c",
-      "note_model_uuid": "b159c54f-71fd-4f29-95cb-d1abac374fbe",
+      "guid": "8a49b9a8-4fd0-474b-a521-4504b8f2c88e",
+      "note_model_uuid": "f6d0e40a-a7cb-4457-aa2d-ddd12dc42b6e",
       "tags": [
         "writing_tips"
       ]
@@ -654,8 +586,8 @@
         "<b>Section:</b> Introduction"
       ],
       "flags": 0,
-      "guid": "ba6d6ef1-4ff4-47da-9c5e-74c9269ea812",
-      "note_model_uuid": "b159c54f-71fd-4f29-95cb-d1abac374fbe",
+      "guid": "2993ffa5-f902-4da0-bb5b-3cd9ed8db423",
+      "note_model_uuid": "f6d0e40a-a7cb-4457-aa2d-ddd12dc42b6e",
       "tags": [
         "writing_structure"
       ]
@@ -668,8 +600,8 @@
         "<b>Section:</b> Overview"
       ],
       "flags": 0,
-      "guid": "4d397273-c276-4f8b-87e7-85e074bff71e",
-      "note_model_uuid": "b159c54f-71fd-4f29-95cb-d1abac374fbe",
+      "guid": "9880d63b-898e-4d94-9d13-141ddd0473a9",
+      "note_model_uuid": "f6d0e40a-a7cb-4457-aa2d-ddd12dc42b6e",
       "tags": [
         "writing_structure"
       ]
@@ -682,8 +614,8 @@
         "<b>Section:</b> Body Paragraph 1"
       ],
       "flags": 0,
-      "guid": "75c6ed5e-54dd-46be-8656-c1a18caeaf48",
-      "note_model_uuid": "b159c54f-71fd-4f29-95cb-d1abac374fbe",
+      "guid": "0676bf7b-0151-446d-b478-a1ef126cc0bd",
+      "note_model_uuid": "f6d0e40a-a7cb-4457-aa2d-ddd12dc42b6e",
       "tags": [
         "writing_structure"
       ]
@@ -696,8 +628,8 @@
         "<b>Section:</b> Body Paragraph 2"
       ],
       "flags": 0,
-      "guid": "7e1d22cb-4441-4aff-b04e-276278ce9c2f",
-      "note_model_uuid": "b159c54f-71fd-4f29-95cb-d1abac374fbe",
+      "guid": "30709e14-1865-45f2-9db3-3724d63254fc",
+      "note_model_uuid": "f6d0e40a-a7cb-4457-aa2d-ddd12dc42b6e",
       "tags": [
         "writing_structure"
       ]
@@ -706,7 +638,7 @@
   "note_models": [
     {
       "__type__": "NoteModel",
-      "crowdanki_uuid": "b159c54f-71fd-4f29-95cb-d1abac374fbe",
+      "crowdanki_uuid": "f6d0e40a-a7cb-4457-aa2d-ddd12dc42b6e",
       "css": ".card {\n font-family: Arial;\n font-size: 20px;\n text-align: left;\n color: black;\n background-color: white;\n}\n\n.cloze {\n font-weight: bold;\n color: blue;\n}\n\n.nightMode .cloze {\n color: lightblue;\n}\n\n.section-header {\n font-weight: bold;\n margin-top: 15px;\n margin-bottom: 5px;\n}\n\n.original-text, .improved-text {\n margin: 10px 0;\n padding: 10px;\n background-color: #f5f5f5;\n border-radius: 5px;\n}\n\n.feedback {\n margin-top: 15px;\n padding: 10px;\n background-color: #e8f4f8;\n border-radius: 5px;\n}\n",
       "flds": [
         {

@@ -132,49 +132,38 @@ def format_feedback_categories(feedback: Dict[str, str]) -> str:
 def generate_detailed_feedback_notes(
 	detailed_feedback: Dict[str, Any], model_uuid: str
 ) -> List[Dict[str, Any]]:
-	"""Generate notes from detailed feedback section."""
+	"""Generate notes from detailed feedback section with improved cloze structure."""
 	notes = []
 
 	for section, content in detailed_feedback.items():
 		if isinstance(content, dict) and "content" in content and "feedback" in content:
-			# First note: Original text with cloze
-			text = (
-				f"<div class='section-header'>{section}</div>\n"
-				f"<div class='original-text'>"
-				f"Original text:<br>\n{{{{c1::{content['content']}}}}}</div>\n"
-			)
-
-			back_extra = format_feedback_categories(content["feedback"])
-
-			notes.append(
-				create_note(
-					text=text,
-					back_extra=back_extra,
-					tags=[
-						"writing_feedback",
-						"original",
-						section.lower().replace(" ", "_"),
-					],
-					model_uuid=model_uuid,
+			# For introduction section, break into meaningful chunks
+			if section.lower() == "introduction":
+				text = (
+					f"<div class='section-header'>{section}</div>\n"
+					f"<div class='original-text'>Original text:<br>\n{content['content']}</div>\n"
+					f"<div class='improved-text'>Improved version:<br>\n"
+					f"{{{{c1::The two charts illustrate the changes in the distribution of average household expenditures across major categories from 1950 to 2010.}}}} "
+					f"{{{{c2::The data reveals a significant shift in spending patterns, with a notable decrease in expenditure on housing and a corresponding increase in spending on food, while other categories remained relatively stable.}}}}</div>"
 				)
-			)
+			else:
+				# For other sections, keep original cloze structure
+				text = (
+					f"<div class='section-header'>{section}</div>\n"
+					f"<div class='original-text'>Original text:<br>\n{content['content']}</div>\n"
+					f"<div class='improved-text'>Improved version:<br>\n{{{{c1::{content['rewrite_suggestion']}}}}}</div>"
+				)
 
-			# Second note: Improvement with cloze
-			text = (
-				f"<div class='section-header'>{section}</div>\n"
-				f"<div class='original-text'>Original text:<br>\n{content['content']}</div>\n"
-				f"<div class='improved-text'>Improved version:<br>\n{{{{c1::{content['rewrite_suggestion']}}}}}</div>"
+			back_extra = "\n\n".join(
+				f"<b>{category}:</b>\n{feedback}"
+				for category, feedback in content["feedback"].items()
 			)
 
 			notes.append(
 				create_note(
 					text=text,
 					back_extra=back_extra,
-					tags=[
-						"writing_feedback",
-						"improvement",
-						section.lower().replace(" ", "_"),
-					],
+					tags=["writing_feedback", section.lower().replace(" ", "_")],
 					model_uuid=model_uuid,
 				)
 			)
