@@ -51,6 +51,7 @@ def create_deck_structure(deck_name: str) -> Dict[str, Any]:
         "dyn": 0,
         "extendNew": 10,
         "extendRev": 50,
+        "media_files": [],  # Required by CrowdAnki
         "name": deck_name,
         "notes": [],
         "note_models": [
@@ -96,16 +97,18 @@ def create_deck_structure(deck_name: str) -> Dict[str, Any]:
                     }
                 ],
                 "type": 1,
+                "vers": [],  # Required by newer Anki versions
             }
         ],
+        "version": 2  # Added version field for compatibility
     }
 
 def create_note(text: str, back_extra: str, tags: List[str], model_uuid: str) -> Dict[str, Any]:
     """Create a single cloze note."""
     return {
         "__type__": "Note",
-        "data": ["", text, back_extra],
-        "fields": ["Text", "Back Extra"],
+        "data": "",  # Changed from ["", text, back_extra] to match CrowdAnki format
+        "fields": [text, back_extra],  # Changed structure to match CrowdAnki format
         "flags": 0,
         "guid": str(uuid.uuid4()),
         "note_model_uuid": model_uuid,
@@ -228,3 +231,8 @@ def generate_anki_deck(input_data: Dict[str, Any], deck_name: str = "English Wri
     deck["notes"] = notes
     
     return deck
+
+def save_deck_to_file(deck: Dict[str, Any], output_path: str) -> None:
+    """Save the deck to a JSON file in CrowdAnki format."""
+    with open(output_path, 'w', encoding='utf-8') as f:
+        json.dump(deck, f, ensure_ascii=False, indent=2)

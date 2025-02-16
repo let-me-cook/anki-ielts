@@ -5,7 +5,7 @@ import json
 
 if __name__ == "__main__":
 	json_files = Path("raw").glob("*.json")
-	output_filepath = Path("./ielts-maxxing.json")
+	output_filepath = Path("./anki-ielts.json")
 
 	for filepath in json_files:
 
