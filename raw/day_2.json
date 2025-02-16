@@ -1,0 +1,321 @@
+{
+  "detailed_feedback": {
+    "introduction": {
+      "content": "The two charts below illustrate the changes in proportion of the average household expenditures over 6 decades from 1950 to 2010.",
+      "feedback": {
+        "Task Response/Task Achievement": "The introduction is adequate in stating the purpose of the charts. However, it lacks a brief overview of the main trends. It should mention the overall shifts in spending patterns across the categories. For example, it could mention that spending on housing decreased while spending on food increased.",
+        "Coherence & Cohesion": "The introduction is clear and concise, setting the context appropriately. However, adding a brief overview would improve the coherence with the following paragraphs.",
+        "Grammatical Range & Accuracy": "The grammar is correct.",
+        "Lexical Resource": "The vocabulary is appropriate but could be more precise. Instead of \"proportion of the average household expenditures,\" consider using \"average household expenditure distribution\" or a similar phrase."
+      },
+      "rewrite_suggestion": "The two charts illustrate the changes in the distribution of average household expenditures across major categories from 1950 to 2010. The data reveals a significant shift in spending patterns, with a notable decrease in expenditure on housing and a corresponding increase in spending on food, while other categories remained relatively stable."
+    },
+    "overview": {
+      "content": "The most significant changes can be seen where the average household spends significantly less on housing and more on food over the decades. Meanwhile, the amount of money spent on transportation had also slightly increased. Whereas the proportions of spending on other categories had stayed relatively the same over the course of the decades.",
+      "feedback": {
+        "Task Response/Task Achievement": "This paragraph attempts an overview but is too detailed. An overview should summarize the main trends, not delve into specific figures. It should highlight the key changes across all categories, not just focus on housing, food, and transportation.",
+        "Coherence & Cohesion": "The overview lacks smooth transitions. The use of \"Meanwhile\" and \"Whereas\" is somewhat abrupt.",
+        "Grammatical Range & Accuracy": "The grammar is mostly correct, but the sentence structure is repetitive.",
+        "Lexical Resource": "The vocabulary is simple and lacks precision."
+      },
+      "rewrite_suggestion": "Overall, the charts show a dramatic decrease in the proportion of household expenditure allocated to housing and a substantial increase in spending on food between 1950 and 2010. Expenditure on transportation also rose moderately, while spending on other categories remained relatively constant."
+    },
+    "body paragraph 1": {
+      "content": "Looking at the details of the charts, the expenditures of the average families on housing had decreased by one third of it's original portion of 72 percent. While food portion of the spending had increased by one third of its original portion of 11 percent, a slight increase of spending by 10 percent on transportation can also be seen by the families over the years.",
+      "feedback": {
+        "Task Response/Task Achievement": "This paragraph provides some detail but lacks clarity and precision. The phrasing is awkward, and the comparisons are not clearly structured. The use of percentages is unclear – are these percentage point changes or percentage changes relative to the total expenditure?",
+        "Coherence & Cohesion": "The paragraph is poorly structured. The transitions between the different categories are not smooth.",
+        "Grammatical Range & Accuracy": "There are grammatical errors (\"it's\" should be \"its\"). The sentence structure is clumsy.",
+        "Lexical Resource": "The vocabulary is repetitive and imprecise. The phrase \"portion of the spending\" is awkward."
+      },
+      "rewrite_suggestion": "A detailed analysis reveals that housing expenditure decreased by approximately one-third from its initial 72% share, while the proportion allocated to food increased by one-third from its original 11%. Transportation costs also saw a modest 10% increase over the period."
+    },
+    "body paragraph 2": {
+      "content": "While the housing, food and portion had undergone changes, the chart shows that the other categories like health care, education has stayed relatively unchanged.",
+      "feedback": {
+        "Task Response/Task Achievement": "This paragraph is too brief and lacks supporting data. It should specify which other categories remained unchanged and ideally provide some numerical information to support the claim.",
+        "Coherence & Cohesion": "The transition from the previous paragraph is weak. The use of \"While\" is not very effective.",
+        "Grammatical Range & Accuracy": "There is a subject-verb agreement error (\"has stayed\" should be \"have stayed\").",
+        "Lexical Resource": "The vocabulary is limited."
+      },
+      "rewrite_suggestion": "In contrast to the significant changes in housing and food expenditures, the remaining categories, including healthcare and education, showed relatively little change in their share of total household spending throughout the period. Further detailed analysis would be required to confirm the exact percentage changes in these areas."
+    }
+  },
+  "expression_improvement": {
+    "key_tips": [
+      {
+        "title": "Clear Overview",
+        "content": "Begin with a concise overview summarizing the main trends."
+      },
+      {
+        "title": "Data-Driven Analysis",
+        "content": "Support your descriptions with specific data points from the charts."
+      },
+      {
+        "title": "Precise Language",
+        "content": "Use precise vocabulary to describe changes (e.g., \"substantial increase,\" \"marginal decrease\")."
+      }
+    ],
+    "suggested_structure": [
+      {
+        "title": "Introduction",
+        "content": "Introduction: Briefly introduce the charts and state their purpose. Example: \"The\n                provided charts illustrate the shift in average household spending patterns across several key\n                categories between 1950 and 2010.\""
+      },
+      {
+        "title": "Overview",
+        "content": "Overview: Summarize the main trends. Example: \"Overall, the data reveals a significant\n                decrease in the proportion of household income spent on housing, a substantial increase in food\n                expenditure, and relatively minor changes in other categories.\""
+      },
+      {
+        "title": "Body Paragraph 1",
+        "content": "Body Paragraph 1: Focus on the most significant changes. Example: \"The most dramatic\n                shift is observed in housing expenditure, which declined from [original percentage]% in 1950 to [final\n                percentage]% in 2010, representing a decrease of approximately [percentage]% points. Conversely,\n                spending on food increased significantly from [original percentage]% to [final percentage]%,\n                representing a rise of approximately [percentage]% points.\""
+      },
+      {
+        "title": "Body Paragraph 2",
+        "content": "Body Paragraph 2: Discuss the less significant changes or remaining categories. Example:\n                \"In contrast to the substantial changes in housing and food, expenditure on transportation experienced a\n                more modest increase, rising from [original percentage]% to [final percentage]%. Other categories, such\n                as healthcare and education, showed relatively little change over the six decades.\""
+      }
+    ]
+  },
+  "grammar_vocabulary_correction": [
+    {
+      "error": "...the average household spends significantly less on housing and more on food...",
+      "correction": "...the average household spent significantly less on housing and more on food...",
+      "explanation": "The original tense is inconsistent. Since the charts show a trend over time, the past tense is more appropriate."
+    },
+    {
+      "error": "...the amount of money spent on transportation had also slightly increased.",
+      "correction": "...the amount of money spent on transportation also slightly increased.",
+      "explanation": "Avoid unnecessary auxiliary verb \"had\"."
+    },
+    {
+      "error": "...the expenditures of the average families on housing had decreased by one third of it's original portion...",
+      "correction": "...the expenditures of average families on housing had decreased by one-third of its original portion...",
+      "explanation": "\"It's\" is a contraction of \"it is\"; \"its\" is the possessive pronoun."
+    },
+    {
+      "error": "...While food portion of the spending had increased by one third of its original portion of 11 percent,...",
+      "correction": "...While the proportion of spending on food increased by one-third from its original 11 percent,...",
+      "explanation": "Improve phrasing for clarity and precision."
+    },
+    {
+      "error": "...a slight increase of spending by 10 percent on transportation can also be seen by the families over the years.",
+      "correction": "...a slight 10% increase in transportation spending is also evident over the years.",
+      "explanation": "Rephrasing for conciseness and better word choice."
+    },
+    {
+      "error": "...While the housing, food and portion had undergone changes,...",
+      "correction": "...While spending on housing and food had undergone changes,...",
+      "explanation": "\"Portion\" is redundant here."
+    },
+    {
+      "error": "...the chart shows that the other categories like health care, education has stayed relatively unchanged.",
+      "correction": "...the charts show that other categories, such as healthcare and education, have stayed relatively unchanged.",
+      "explanation": "Subject-verb agreement error; \"categories\" is plural, requiring \"have\". Also, improve style by using \"such as\" instead of \"like\"."
+    },
+    {
+      "error": "...decreased by one third of it's original portion...",
+      "correction": "...decreased by one-third of its original portion...",
+      "explanation": "Correct the apostrophe and improve the phrasing. Hyphenate \"one-third\"."
+    },
+    {
+      "error": "...increased by one third of its original portion...",
+      "correction": "...increased by one-third of its original portion...",
+      "explanation": "Hyphenate \"one-third\"."
+    },
+    {
+      "error": "...the amount of money spent on transportation...",
+      "correction": "...spending on transportation...",
+      "explanation": "More concise phrasing."
+    },
+    {
+      "error": "...the proportions of spending on other categories...",
+      "correction": "...the proportion of spending on other categories...",
+      "explanation": "\"Proportions\" is slightly redundant when referring to multiple categories."
+    },
+    {
+      "error": "...over the course of the decades.",
+      "correction": "...over the decades.",
+      "explanation": "More concise phrasing."
+    },
+    {
+      "error": "...the expenditures of the average families on housing...",
+      "correction": "...the average household expenditure on housing...",
+      "explanation": "More precise and concise phrasing."
+    },
+    {
+      "error": "...the chart shows...",
+      "correction": "...the charts show...",
+      "explanation": "There are two charts, so use the plural form."
+    },
+    {
+      "error": "...had undergone changes...",
+      "correction": "...underwent changes...",
+      "explanation": "Past simple is more concise and fits the context better."
+    }
+  ],
+  "topic_related_vocabulary": [
+    {
+      "New Word": "Allocation",
+      "Word Type": "Noun",
+      "Definition": "The action of setting something aside for a purpose"
+    },
+    {
+      "New Word": "Expenditure",
+      "Word Type": "Noun",
+      "Definition": "The act of spending or using money"
+    },
+    {
+      "New Word": "Consumption",
+      "Word Type": "Noun",
+      "Definition": "The using up of goods and services"
+    },
+    {
+      "New Word": "Disbursement",
+      "Word Type": "Noun",
+      "Definition": "The payment of money"
+    },
+    {
+      "New Word": "Discretionary",
+      "Word Type": "Adjective",
+      "Definition": "Available for spending at one's own choice"
+    },
+    {
+      "New Word": "Essential",
+      "Word Type": "Adjective",
+      "Definition": "Absolutely necessary"
+    },
+    {
+      "New Word": "Fluctuation",
+      "Word Type": "Noun",
+      "Definition": "A variation in amount or level"
+    },
+    {
+      "New Word": "Trend",
+      "Word Type": "Noun",
+      "Definition": "A general direction in which something is developing"
+    },
+    {
+      "New Word": "Proportionate",
+      "Word Type": "Adjective",
+      "Definition": "Having a correct or appropriate relationship"
+    },
+    {
+      "New Word": "Substantially",
+      "Word Type": "Adverb",
+      "Definition": "To a great extent"
+    },
+    {
+      "New Word": "Marginally",
+      "Word Type": "Adverb",
+      "Definition": "To a small extent"
+    },
+    {
+      "New Word": "Commensurate",
+      "Word Type": "Adjective",
+      "Definition": "Corresponding in size or degree"
+    },
+    {
+      "New Word": "Incremental",
+      "Word Type": "Adjective",
+      "Definition": "Increasing gradually by regular steps"
+    },
+    {
+      "New Word": "Stagflation",
+      "Word Type": "Noun",
+      "Definition": "Persistent high inflation combined with high unemployment and slow economic growth"
+    },
+    {
+      "New Word": "Demographics",
+      "Word Type": "Noun",
+      "Definition": "Relating to the structure of populations"
+    }
+  ],
+  "grammar_enhancement": [
+    {
+      "Grammar Structure": "Simple Past Tense: Used to describe completed actions in the past.",
+      "Original Sentence": "The most significant changes can be seen where the average household spends significantly less on\n                    housing and more on food over the decades.",
+      "Rephrased Sentence": "The most significant changes were evident in the decreased spending on housing and increased\n                    spending on food over the six decades."
+    },
+    {
+      "Grammar Structure": "Passive Voice: Emphasizes the action rather than the actor.",
+      "Original Sentence": "The expenditures of the average families on housing had decreased by one third of its original\n                    portion of 72 percent.",
+      "Rephrased Sentence": "Average household expenditure on housing decreased by one-third from its original 72 percent."
+    },
+    {
+      "Grammar Structure": "Present Perfect Tense: Shows an action that started in the past and continues to\n                    the present (less suitable here).",
+      "Original Sentence": "While the housing, food and portion had undergone changes, the chart shows that the other categories\n                    like health care, education has stayed relatively unchanged.",
+      "Rephrased Sentence": "Although spending on housing and food changed significantly, other categories, such as healthcare\n                    and education, remained relatively stable."
+    },
+    {
+      "Grammar Structure": "Comparative Structure: Shows a comparison between two things.",
+      "Original Sentence": "The amount of money spent on transportation had also slightly increased.",
+      "Rephrased Sentence": "Spending on transportation also increased slightly."
+    },
+    {
+      "Grammar Structure": "Concise phrasing: Eliminates unnecessary words.",
+      "Original Sentence": "The proportions of spending on other categories had stayed relatively the same over the course of\n                    the decades.",
+      "Rephrased Sentence": "Spending on other categories remained relatively constant over the period."
+    },
+    {
+      "Grammar Structure": "Nominalization: Replacing a verb phrase with a noun phrase.",
+      "Original Sentence": "The charts show that the other categories like health care, education has stayed relatively\n                    unchanged.",
+      "Rephrased Sentence": "The charts indicate relative stability in spending on healthcare and education."
+    },
+    {
+      "Grammar Structure": "Adverbial Clause of Concession: Shows contrast.",
+      "Original Sentence": "While the housing, food and portion had undergone changes, the chart shows that the other categories\n                    like health care, education has stayed relatively unchanged.",
+      "Rephrased Sentence": "Despite significant changes in housing and food expenditure, other categories, such as healthcare\n                    and education, remained relatively stable."
+    },
+    {
+      "Grammar Structure": "Relative Clause: Adds extra information about a noun.",
+      "Original Sentence": "The expenditures of the average families on housing had decreased by one third of its original\n                    portion of 72 percent.",
+      "Rephrased Sentence": "Average household spending on housing, which initially represented 72 percent of expenditure,\n                    decreased by one-third."
+    },
+    {
+      "Grammar Structure": "Participial Phrase: Adds descriptive details concisely.",
+      "Original Sentence": "While the housing, food and portion had undergone changes, the chart shows that the other categories\n                    like health care, education has stayed relatively unchanged.",
+      "Rephrased Sentence": "With housing and food expenditure changing significantly, other categories, such as healthcare and\n                    education, remained relatively unchanged."
+    },
+    {
+      "Grammar Structure": "Compound Sentence: Combines two related ideas.",
+      "Original Sentence": "The most significant changes can be seen where the average household spends significantly less on\n                    housing and more on food over the decades. Meanwhile, the amount of money spent on transportation\n                    had also slightly increased.",
+      "Rephrased Sentence": "Household spending showed significant decreases in housing and increases in food; meanwhile,\n                    transportation spending also rose slightly."
+    }
+  ],
+  "cohesion_enhancement": [
+    {
+      "Original Text": "...the amount of money spent on transportation had also slightly increased.\n                    Whereas the proportions of spending on other categories had stayed relatively the\n                    same...",
+      "Improved Text": "...the amount of money spent on transportation also increased slightly. In\n                        contrast, the proportions of spending on other categories remained relatively stable...",
+      "Explanation": "\"Whereas\" is a formal conjunction that can sound abrupt. \"In contrast\" provides a smoother\n                    transition and highlights the contrast between the increase in transportation spending and the\n                    stability in other categories."
+    },
+    {
+      "Original Text": "...the expenditures of the average families on housing had decreased by one third of its original\n                    portion of 72 percent. While food portion of the spending had increased...",
+      "Improved Text": "...the expenditures of average families on housing had decreased by one-third from its initial 72\n                    percent. Simultaneously, the proportion of spending on food increased...",
+      "Explanation": "\"While\" is acceptable but \"simultaneously\" emphasizes the concurrent nature of the changes,\n                    improving the flow."
+    },
+    {
+      "Original Text": "...the expenditures of average families on housing had decreased by one third of its original\n                    portion of 72 percent. While food portion of the spending had increased...",
+      "Improved Text": "...housing expenditure decreased by one-third from its initial 72 percent.\n                    Moreover, spending on food increased...",
+      "Explanation": "\"Moreover\" adds further information to the already established trend of change."
+    },
+    {
+      "Original Text": "...the amount of money spent on transportation had also slightly increased. Whereas\n                    the proportions of spending on other categories had stayed relatively the same...",
+      "Improved Text": "...transportation spending also increased slightly. However, spending on other\n                    categories remained relatively stable...",
+      "Explanation": "\"However\" is more concise and directly indicates a contrast."
+    },
+    {
+      "Original Text": "...the charts show that the other categories like health care, education has stayed\n                    relatively unchanged.",
+      "Improved Text": "...other categories, such as healthcare and education, remained relatively stable.\n                    Furthermore, these categories did not experience significant shifts in spending.",
+      "Explanation": "\"Furthermore\" adds additional support to the claim of stability in other categories."
+    },
+    {
+      "Original Text": "...the charts show that the other categories like health care, education has stayed\n                    relatively unchanged.",
+      "Improved Text": "...other categories, such as healthcare and education, remained relatively stable.\n                    Consequently, the overall distribution of household expenditures shifted primarily\n                    due to changes in housing and food.",
+      "Explanation": "\"Consequently\" links the stability of other categories to the overall conclusion about the shift in\n                    expenditure distribution."
+    },
+    {
+      "Original Text": "...While the housing, food and portion had undergone changes, the chart shows that the other\n                    categories like health care, education has stayed relatively unchanged.",
+      "Improved Text": "...Although spending on housing and food changed significantly, other categories, such as healthcare\n                    and education, remained relatively stable. This suggests that...",
+      "Explanation": "\"This suggests\" introduces a further inference or implication based on the observed data."
+    }
+  ]
+}
