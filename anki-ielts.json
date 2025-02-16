@@ -1,13 +1,13 @@
 {
   "__type__": "Deck",
   "children": [],
-  "crowdanki_uuid": "4c928840-f1f1-4c81-b7b4-b5bd142c75bf",
-  "deck_config_uuid": "b5402528-0d7e-4db7-8a6a-3b9f488f51e4",
+  "crowdanki_uuid": "9f482f2b-6be7-414e-be3a-5b59b32ef702",
+  "deck_config_uuid": "1cfc73c6-de94-402a-8efc-f3e69fa5c26b",
   "deck_configurations": [
     {
       "__type__": "DeckConfig",
       "autoplay": true,
-      "crowdanki_uuid": "b5402528-0d7e-4db7-8a6a-3b9f488f51e4",
+      "crowdanki_uuid": "1cfc73c6-de94-402a-8efc-f3e69fa5c26b",
       "dyn": false,
       "lapse": {
         "delays": [
@@ -60,12 +60,12 @@
       "__type__": "Note",
       "data": "",
       "fields": [
-        "<div class='section-header'>introduction</div>\n<div class='original-text'>Original text:<br>\nThe two charts below illustrate the changes in proportion of the average household expenditures over 6 decades from 1950 to 2010.</div>\n<div class='improved-text'>Improved version:<br>\n{{c1::The two charts illustrate the changes in the distribution of average household expenditures across major categories from 1950 to 2010.}} {{c2::The data reveals a significant shift in spending patterns, with a notable decrease in expenditure on housing and a corresponding increase in spending on food, while other categories remained relatively stable.}}</div>",
+        "<div class='section-header'>Introduction</div>\n<div class='original-text'>Original text:<br>\nThe two charts below illustrate the changes in proportion of the average household expenditures over 6 decades from 1950 to 2010.</div>\n<div class='improved-text'>Improved version:<br>\n{{c1::The two charts illustrate the changes in the distribution of average household expenditures across major categories from 1950 to 2010.}} {{c2::The data reveals a significant shift in spending patterns, with a notable decrease in expenditure on housing and a corresponding increase in spending on food, while other categories remained relatively stable.}}</div>",
         "<b>Task Response/Task Achievement:</b>\nThe introduction is adequate in stating the purpose of the charts. However, it lacks a brief overview of the main trends. It should mention the overall shifts in spending patterns across the categories. For example, it could mention that spending on housing decreased while spending on food increased.\n\n<b>Coherence & Cohesion:</b>\nThe introduction is clear and concise, setting the context appropriately. However, adding a brief overview would improve the coherence with the following paragraphs.\n\n<b>Grammatical Range & Accuracy:</b>\nThe grammar is correct.\n\n<b>Lexical Resource:</b>\nThe vocabulary is appropriate but could be more precise. Instead of \"proportion of the average household expenditures,\" consider using \"average household expenditure distribution\" or a similar phrase."
       ],
       "flags": 0,
-      "guid": "cb290924-cc6e-48d2-925c-aa935c3bb90e",
-      "note_model_uuid": "f6d0e40a-a7cb-4457-aa2d-ddd12dc42b6e",
+      "guid": "5a1c0c6c-9104-4a72-a4c4-7f59211ee4de",
+      "note_model_uuid": "3ac4ef63-834c-4326-b309-979ce64f061e",
       "tags": [
         "writing_feedback",
         "introduction"
@@ -75,12 +75,12 @@
       "__type__": "Note",
       "data": "",
       "fields": [
-        "<div class='section-header'>overview</div>\n<div class='original-text'>Original text:<br>\nThe most significant changes can be seen where the average household spends significantly less on housing and more on food over the decades. Meanwhile, the amount of money spent on transportation had also slightly increased. Whereas the proportions of spending on other categories had stayed relatively the same over the course of the decades.</div>\n<div class='improved-text'>Improved version:<br>\n{{c1::Overall, the charts show a dramatic decrease in the proportion of household expenditure allocated to housing and a substantial increase in spending on food between 1950 and 2010. Expenditure on transportation also rose moderately, while spending on other categories remained relatively constant.}}</div>",
+        "<div class='section-header'>Overview</div>\n<div class='original-text'>Original text:<br>\nThe most significant changes can be seen where the average household spends significantly less on housing and more on food over the decades. Meanwhile, the amount of money spent on transportation had also slightly increased. Whereas the proportions of spending on other categories had stayed relatively the same over the course of the decades.</div>\n<div class='improved-text'>Improved version:<br>\n{{c1::Overall, the charts show a dramatic decrease in the proportion of household expenditure allocated to housing and a substantial increase in spending on food between 1950 and 2010. Expenditure on transportation also rose moderately, while spending on other categories remained relatively constant.}}</div>",
         "<b>Task Response/Task Achievement:</b>\nThis paragraph attempts an overview but is too detailed. An overview should summarize the main trends, not delve into specific figures. It should highlight the key changes across all categories, not just focus on housing, food, and transportation.\n\n<b>Coherence & Cohesion:</b>\nThe overview lacks smooth transitions. The use of \"Meanwhile\" and \"Whereas\" is somewhat abrupt.\n\n<b>Grammatical Range & Accuracy:</b>\nThe grammar is mostly correct, but the sentence structure is repetitive.\n\n<b>Lexical Resource:</b>\nThe vocabulary is simple and lacks precision."
       ],
       "flags": 0,
-      "guid": "d67487b1-cb09-4d7f-af38-23d229fff496",
-      "note_model_uuid": "f6d0e40a-a7cb-4457-aa2d-ddd12dc42b6e",
+      "guid": "a54e01af-47c7-4d58-99b7-152bd8e2fec9",
+      "note_model_uuid": "3ac4ef63-834c-4326-b309-979ce64f061e",
       "tags": [
         "writing_feedback",
         "overview"
@@ -90,12 +90,12 @@
       "__type__": "Note",
       "data": "",
       "fields": [
-        "<div class='section-header'>body paragraph 1</div>\n<div class='original-text'>Original text:<br>\nLooking at the details of the charts, the expenditures of the average families on housing had decreased by one third of it's original portion of 72 percent. While food portion of the spending had increased by one third of its original portion of 11 percent, a slight increase of spending by 10 percent on transportation can also be seen by the families over the years.</div>\n<div class='improved-text'>Improved version:<br>\n{{c1::A detailed analysis reveals that housing expenditure decreased by approximately one-third from its initial 72% share, while the proportion allocated to food increased by one-third from its original 11%. Transportation costs also saw a modest 10% increase over the period.}}</div>",
+        "<div class='section-header'>Body paragraph 1</div>\n<div class='original-text'>Original text:<br>\nLooking at the details of the charts, the expenditures of the average families on housing had decreased by one third of it's original portion of 72 percent. While food portion of the spending had increased by one third of its original portion of 11 percent, a slight increase of spending by 10 percent on transportation can also be seen by the families over the years.</div>\n<div class='improved-text'>Improved version:<br>\n{{c1::A detailed analysis reveals that housing expenditure decreased by approximately one-third from its initial 72% share, while the proportion allocated to food increased by one-third from its original 11%. Transportation costs also saw a modest 10% increase over the period.}}</div>",
         "<b>Task Response/Task Achievement:</b>\nThis paragraph provides some detail but lacks clarity and precision. The phrasing is awkward, and the comparisons are not clearly structured. The use of percentages is unclear – are these percentage point changes or percentage changes relative to the total expenditure?\n\n<b>Coherence & Cohesion:</b>\nThe paragraph is poorly structured. The transitions between the different categories are not smooth.\n\n<b>Grammatical Range & Accuracy:</b>\nThere are grammatical errors (\"it's\" should be \"its\"). The sentence structure is clumsy.\n\n<b>Lexical Resource:</b>\nThe vocabulary is repetitive and imprecise. The phrase \"portion of the spending\" is awkward."
       ],
       "flags": 0,
-      "guid": "0fc59669-60dc-49d5-b113-e536b609c7c1",
-      "note_model_uuid": "f6d0e40a-a7cb-4457-aa2d-ddd12dc42b6e",
+      "guid": "0e97d509-a348-4790-b8a2-8738871c3065",
+      "note_model_uuid": "3ac4ef63-834c-4326-b309-979ce64f061e",
       "tags": [
         "writing_feedback",
         "body_paragraph_1"
@@ -105,12 +105,12 @@
       "__type__": "Note",
       "data": "",
       "fields": [
-        "<div class='section-header'>body paragraph 2</div>\n<div class='original-text'>Original text:<br>\nWhile the housing, food and portion had undergone changes, the chart shows that the other categories like health care, education has stayed relatively unchanged.</div>\n<div class='improved-text'>Improved version:<br>\n{{c1::In contrast to the significant changes in housing and food expenditures, the remaining categories, including healthcare and education, showed relatively little change in their share of total household spending throughout the period. Further detailed analysis would be required to confirm the exact percentage changes in these areas.}}</div>",
+        "<div class='section-header'>Body paragraph 2</div>\n<div class='original-text'>Original text:<br>\nWhile the housing, food and portion had undergone changes, the chart shows that the other categories like health care, education has stayed relatively unchanged.</div>\n<div class='improved-text'>Improved version:<br>\n{{c1::In contrast to the significant changes in housing and food expenditures, the remaining categories, including healthcare and education, showed relatively little change in their share of total household spending throughout the period. Further detailed analysis would be required to confirm the exact percentage changes in these areas.}}</div>",
         "<b>Task Response/Task Achievement:</b>\nThis paragraph is too brief and lacks supporting data. It should specify which other categories remained unchanged and ideally provide some numerical information to support the claim.\n\n<b>Coherence & Cohesion:</b>\nThe transition from the previous paragraph is weak. The use of \"While\" is not very effective.\n\n<b>Grammatical Range & Accuracy:</b>\nThere is a subject-verb agreement error (\"has stayed\" should be \"have stayed\").\n\n<b>Lexical Resource:</b>\nThe vocabulary is limited."
       ],
       "flags": 0,
-      "guid": "6af764a9-f0b5-40fa-a457-205809e63116",
-      "note_model_uuid": "f6d0e40a-a7cb-4457-aa2d-ddd12dc42b6e",
+      "guid": "a4ff078e-7059-4dbd-9b27-ca47937ae51e",
+      "note_model_uuid": "3ac4ef63-834c-4326-b309-979ce64f061e",
       "tags": [
         "writing_feedback",
         "body_paragraph_2"
@@ -124,8 +124,8 @@
         "<b>Explanation:</b><br>The original tense is inconsistent. Since the charts show a trend over time, the past tense is more appropriate."
       ],
       "flags": 0,
-      "guid": "9277ff73-e70c-4152-9623-4c4709fc05ce",
-      "note_model_uuid": "f6d0e40a-a7cb-4457-aa2d-ddd12dc42b6e",
+      "guid": "065d4365-b903-4cd3-9680-9268c0db1b57",
+      "note_model_uuid": "3ac4ef63-834c-4326-b309-979ce64f061e",
       "tags": [
         "grammar_vocabulary"
       ]
@@ -138,8 +138,8 @@
         "<b>Explanation:</b><br>Avoid unnecessary auxiliary verb \"had\"."
       ],
       "flags": 0,
-      "guid": "f295cd0b-305a-44b2-9158-a3cd04aae28f",
-      "note_model_uuid": "f6d0e40a-a7cb-4457-aa2d-ddd12dc42b6e",
+      "guid": "4ab17702-07b4-4d7e-bf98-b2949ea12cd2",
+      "note_model_uuid": "3ac4ef63-834c-4326-b309-979ce64f061e",
       "tags": [
         "grammar_vocabulary"
       ]
@@ -152,8 +152,8 @@
         "<b>Explanation:</b><br>\"It's\" is a contraction of \"it is\"; \"its\" is the possessive pronoun."
       ],
       "flags": 0,
-      "guid": "80171926-a523-45a1-a28d-b039ef5624ac",
-      "note_model_uuid": "f6d0e40a-a7cb-4457-aa2d-ddd12dc42b6e",
+      "guid": "b25e2c96-fa5a-4d15-92ca-6287d57eb819",
+      "note_model_uuid": "3ac4ef63-834c-4326-b309-979ce64f061e",
       "tags": [
         "grammar_vocabulary"
       ]
@@ -166,8 +166,8 @@
         "<b>Explanation:</b><br>Improve phrasing for clarity and precision."
       ],
       "flags": 0,
-      "guid": "0ee44995-65c1-4704-8e10-57491f5502d4",
-      "note_model_uuid": "f6d0e40a-a7cb-4457-aa2d-ddd12dc42b6e",
+      "guid": "8f0ef2e5-672b-4432-b5e2-b025b88b394a",
+      "note_model_uuid": "3ac4ef63-834c-4326-b309-979ce64f061e",
       "tags": [
         "grammar_vocabulary"
       ]
@@ -180,8 +180,8 @@
         "<b>Explanation:</b><br>Rephrasing for conciseness and better word choice."
       ],
       "flags": 0,
-      "guid": "4e82bc9e-5def-4e70-bd51-7401e68db1c1",
-      "note_model_uuid": "f6d0e40a-a7cb-4457-aa2d-ddd12dc42b6e",
+      "guid": "7b1c7866-a427-4ba4-8e50-e1fcbcb78319",
+      "note_model_uuid": "3ac4ef63-834c-4326-b309-979ce64f061e",
       "tags": [
         "grammar_vocabulary"
       ]
@@ -194,8 +194,8 @@
         "<b>Explanation:</b><br>\"Portion\" is redundant here."
       ],
       "flags": 0,
-      "guid": "1b72fe01-c98b-44a8-ac6f-186c931d54df",
-      "note_model_uuid": "f6d0e40a-a7cb-4457-aa2d-ddd12dc42b6e",
+      "guid": "884fccbc-90d4-4d70-bd56-602cbb505026",
+      "note_model_uuid": "3ac4ef63-834c-4326-b309-979ce64f061e",
       "tags": [
         "grammar_vocabulary"
       ]
@@ -208,8 +208,8 @@
         "<b>Explanation:</b><br>Subject-verb agreement error; \"categories\" is plural, requiring \"have\". Also, improve style by using \"such as\" instead of \"like\"."
       ],
       "flags": 0,
-      "guid": "5a0763fa-8301-44fa-8e81-9bac9fb620ce",
-      "note_model_uuid": "f6d0e40a-a7cb-4457-aa2d-ddd12dc42b6e",
+      "guid": "d51e421b-9123-421f-9e70-24381b4ffa12",
+      "note_model_uuid": "3ac4ef63-834c-4326-b309-979ce64f061e",
       "tags": [
         "grammar_vocabulary"
       ]
@@ -222,8 +222,8 @@
         "<b>Explanation:</b><br>Correct the apostrophe and improve the phrasing. Hyphenate \"one-third\"."
       ],
       "flags": 0,
-      "guid": "edf0a729-0517-4496-8f22-c9adf8aab27c",
-      "note_model_uuid": "f6d0e40a-a7cb-4457-aa2d-ddd12dc42b6e",
+      "guid": "395b9983-716d-48b3-93b8-566a83871b7b",
+      "note_model_uuid": "3ac4ef63-834c-4326-b309-979ce64f061e",
       "tags": [
         "grammar_vocabulary"
       ]
@@ -236,8 +236,8 @@
         "<b>Explanation:</b><br>Hyphenate \"one-third\"."
       ],
       "flags": 0,
-      "guid": "2a5ef940-949d-47c4-b1e8-3b17d00d848a",
-      "note_model_uuid": "f6d0e40a-a7cb-4457-aa2d-ddd12dc42b6e",
+      "guid": "84b175f4-7290-44a9-a4e1-eb1cfd34e54a",
+      "note_model_uuid": "3ac4ef63-834c-4326-b309-979ce64f061e",
       "tags": [
         "grammar_vocabulary"
       ]
@@ -250,8 +250,8 @@
         "<b>Explanation:</b><br>More concise phrasing."
       ],
       "flags": 0,
-      "guid": "b676d937-7fa2-45c0-9105-f1359fa868f5",
-      "note_model_uuid": "f6d0e40a-a7cb-4457-aa2d-ddd12dc42b6e",
+      "guid": "ccfd31b9-14ee-4503-acbf-a7fddf8f69ea",
+      "note_model_uuid": "3ac4ef63-834c-4326-b309-979ce64f061e",
       "tags": [
         "grammar_vocabulary"
       ]
@@ -264,8 +264,8 @@
         "<b>Explanation:</b><br>\"Proportions\" is slightly redundant when referring to multiple categories."
       ],
       "flags": 0,
-      "guid": "a9fe4930-52cf-400d-aaff-295a20717919",
-      "note_model_uuid": "f6d0e40a-a7cb-4457-aa2d-ddd12dc42b6e",
+      "guid": "13bccecf-3318-491b-b5ce-ca357c4a1c3a",
+      "note_model_uuid": "3ac4ef63-834c-4326-b309-979ce64f061e",
       "tags": [
         "grammar_vocabulary"
       ]
@@ -278,8 +278,8 @@
         "<b>Explanation:</b><br>More concise phrasing."
       ],
       "flags": 0,
-      "guid": "92fcdbf3-09ec-4725-8e2a-76164f7910bd",
-      "note_model_uuid": "f6d0e40a-a7cb-4457-aa2d-ddd12dc42b6e",
+      "guid": "5735a254-679b-424a-afa5-212cb84f7832",
+      "note_model_uuid": "3ac4ef63-834c-4326-b309-979ce64f061e",
       "tags": [
         "grammar_vocabulary"
       ]
@@ -292,8 +292,8 @@
         "<b>Explanation:</b><br>More precise and concise phrasing."
       ],
       "flags": 0,
-      "guid": "27746d24-6334-4758-a031-acadbdfceec0",
-      "note_model_uuid": "f6d0e40a-a7cb-4457-aa2d-ddd12dc42b6e",
+      "guid": "8d85ffc3-0bb7-4529-8a29-292531050048",
+      "note_model_uuid": "3ac4ef63-834c-4326-b309-979ce64f061e",
       "tags": [
         "grammar_vocabulary"
       ]
@@ -306,8 +306,8 @@
         "<b>Explanation:</b><br>There are two charts, so use the plural form."
       ],
       "flags": 0,
-      "guid": "758a3090-dcfa-4691-93b0-26b0d1c4cb6d",
-      "note_model_uuid": "f6d0e40a-a7cb-4457-aa2d-ddd12dc42b6e",
+      "guid": "55ed1ea5-20dd-4ccc-a3c9-9621d1cbefb0",
+      "note_model_uuid": "3ac4ef63-834c-4326-b309-979ce64f061e",
       "tags": [
         "grammar_vocabulary"
       ]
@@ -320,8 +320,8 @@
         "<b>Explanation:</b><br>Past simple is more concise and fits the context better."
       ],
       "flags": 0,
-      "guid": "7bbe7da3-809c-4dea-a22d-038cff8bf79b",
-      "note_model_uuid": "f6d0e40a-a7cb-4457-aa2d-ddd12dc42b6e",
+      "guid": "974293ba-7d01-4db5-8db7-c304c9a174c2",
+      "note_model_uuid": "3ac4ef63-834c-4326-b309-979ce64f061e",
       "tags": [
         "grammar_vocabulary"
       ]
@@ -334,8 +334,8 @@
         "<b>Word Type:</b> Noun"
       ],
       "flags": 0,
-      "guid": "fe340d16-8e4d-4318-8997-979fc10b4e4a",
-      "note_model_uuid": "f6d0e40a-a7cb-4457-aa2d-ddd12dc42b6e",
+      "guid": "5e991bdd-7b75-44d9-ab4c-0ccd9316817d",
+      "note_model_uuid": "3ac4ef63-834c-4326-b309-979ce64f061e",
       "tags": [
         "vocabulary"
       ]
@@ -348,8 +348,8 @@
         "<b>Word Type:</b> Noun"
       ],
       "flags": 0,
-      "guid": "c9cc9084-4c05-444a-a2dd-a41b7aa35573",
-      "note_model_uuid": "f6d0e40a-a7cb-4457-aa2d-ddd12dc42b6e",
+      "guid": "3b2a7a11-60fd-4fe6-8c44-46ceab63d3b8",
+      "note_model_uuid": "3ac4ef63-834c-4326-b309-979ce64f061e",
       "tags": [
         "vocabulary"
       ]
@@ -362,8 +362,8 @@
         "<b>Word Type:</b> Noun"
       ],
       "flags": 0,
-      "guid": "f5802043-ffd7-4d03-9e4d-7a504d788319",
-      "note_model_uuid": "f6d0e40a-a7cb-4457-aa2d-ddd12dc42b6e",
+      "guid": "5b84a5f1-f999-40bb-bba9-abd56c4c13d6",
+      "note_model_uuid": "3ac4ef63-834c-4326-b309-979ce64f061e",
       "tags": [
         "vocabulary"
       ]
@@ -376,8 +376,8 @@
         "<b>Word Type:</b> Noun"
       ],
       "flags": 0,
-      "guid": "5f66f9b7-996a-43a8-9f65-cad650f57178",
-      "note_model_uuid": "f6d0e40a-a7cb-4457-aa2d-ddd12dc42b6e",
+      "guid": "6c23315b-09b1-4760-8f21-4ccd17e8fa31",
+      "note_model_uuid": "3ac4ef63-834c-4326-b309-979ce64f061e",
       "tags": [
         "vocabulary"
       ]
@@ -390,8 +390,8 @@
         "<b>Word Type:</b> Adjective"
       ],
       "flags": 0,
-      "guid": "32dcaf40-0e45-448c-93e6-a829a7bff68d",
-      "note_model_uuid": "f6d0e40a-a7cb-4457-aa2d-ddd12dc42b6e",
+      "guid": "410a8cfa-b6a2-4065-ac74-c448aabae3a4",
+      "note_model_uuid": "3ac4ef63-834c-4326-b309-979ce64f061e",
       "tags": [
         "vocabulary"
       ]
@@ -404,8 +404,8 @@
         "<b>Word Type:</b> Adjective"
       ],
       "flags": 0,
-      "guid": "79766341-735a-48ef-be2e-3dbb9b0868da",
-      "note_model_uuid": "f6d0e40a-a7cb-4457-aa2d-ddd12dc42b6e",
+      "guid": "c4253b60-fd7a-4a65-b640-8f1c58d311b5",
+      "note_model_uuid": "3ac4ef63-834c-4326-b309-979ce64f061e",
       "tags": [
         "vocabulary"
       ]
@@ -418,8 +418,8 @@
         "<b>Word Type:</b> Noun"
       ],
       "flags": 0,
-      "guid": "5a8d8161-b649-4010-aaff-db3df1829da7",
-      "note_model_uuid": "f6d0e40a-a7cb-4457-aa2d-ddd12dc42b6e",
+      "guid": "9e7563c7-d33a-46f3-93ce-7116bd40104f",
+      "note_model_uuid": "3ac4ef63-834c-4326-b309-979ce64f061e",
       "tags": [
         "vocabulary"
       ]
@@ -432,8 +432,8 @@
         "<b>Word Type:</b> Noun"
       ],
       "flags": 0,
-      "guid": "0026ef41-4765-4675-9131-ab96a991c915",
-      "note_model_uuid": "f6d0e40a-a7cb-4457-aa2d-ddd12dc42b6e",
+      "guid": "d79fb162-a080-43e0-8495-0d4727021fea",
+      "note_model_uuid": "3ac4ef63-834c-4326-b309-979ce64f061e",
       "tags": [
         "vocabulary"
       ]
@@ -446,8 +446,8 @@
         "<b>Word Type:</b> Adjective"
       ],
       "flags": 0,
-      "guid": "b2e051db-49e5-4473-b1f7-e22fbfb2390b",
-      "note_model_uuid": "f6d0e40a-a7cb-4457-aa2d-ddd12dc42b6e",
+      "guid": "7ddba4cb-0431-4880-b988-ce864756ecce",
+      "note_model_uuid": "3ac4ef63-834c-4326-b309-979ce64f061e",
       "tags": [
         "vocabulary"
       ]
@@ -460,8 +460,8 @@
         "<b>Word Type:</b> Adverb"
       ],
       "flags": 0,
-      "guid": "943fd160-c33b-47db-98d7-16eede1af987",
-      "note_model_uuid": "f6d0e40a-a7cb-4457-aa2d-ddd12dc42b6e",
+      "guid": "f5450f2e-1a43-4df2-a755-9b3a4c543fbb",
+      "note_model_uuid": "3ac4ef63-834c-4326-b309-979ce64f061e",
       "tags": [
         "vocabulary"
       ]
@@ -474,8 +474,8 @@
         "<b>Word Type:</b> Adverb"
       ],
       "flags": 0,
-      "guid": "42ff07e6-280a-409a-97c0-f8a316305efa",
-      "note_model_uuid": "f6d0e40a-a7cb-4457-aa2d-ddd12dc42b6e",
+      "guid": "788ff6af-22e2-45b3-ad7f-b3a1eee0b9d9",
+      "note_model_uuid": "3ac4ef63-834c-4326-b309-979ce64f061e",
       "tags": [
         "vocabulary"
       ]
@@ -488,8 +488,8 @@
         "<b>Word Type:</b> Adjective"
       ],
       "flags": 0,
-      "guid": "5adeecb4-f1c8-488d-a1a2-a239835a5a2d",
-      "note_model_uuid": "f6d0e40a-a7cb-4457-aa2d-ddd12dc42b6e",
+      "guid": "63699adc-5398-4336-af39-37be237d4867",
+      "note_model_uuid": "3ac4ef63-834c-4326-b309-979ce64f061e",
       "tags": [
         "vocabulary"
       ]
@@ -502,8 +502,8 @@
         "<b>Word Type:</b> Adjective"
       ],
       "flags": 0,
-      "guid": "67c4a91a-191a-4476-8dfb-606a4223e9ea",
-      "note_model_uuid": "f6d0e40a-a7cb-4457-aa2d-ddd12dc42b6e",
+      "guid": "1ce77a96-80ce-44d7-986a-0c45b73395e5",
+      "note_model_uuid": "3ac4ef63-834c-4326-b309-979ce64f061e",
       "tags": [
         "vocabulary"
       ]
@@ -516,8 +516,8 @@
         "<b>Word Type:</b> Noun"
       ],
       "flags": 0,
-      "guid": "30c41ffb-f30a-4a43-bc20-2a96332abe62",
-      "note_model_uuid": "f6d0e40a-a7cb-4457-aa2d-ddd12dc42b6e",
+      "guid": "502eb86f-d0d4-4aa7-b9b5-17481df30853",
+      "note_model_uuid": "3ac4ef63-834c-4326-b309-979ce64f061e",
       "tags": [
         "vocabulary"
       ]
@@ -530,8 +530,8 @@
         "<b>Word Type:</b> Noun"
       ],
       "flags": 0,
-      "guid": "ba1f744a-824e-40a8-8a66-d5c567dad3fe",
-      "note_model_uuid": "f6d0e40a-a7cb-4457-aa2d-ddd12dc42b6e",
+      "guid": "21e2e6d6-9623-4886-a880-487da04d4214",
+      "note_model_uuid": "3ac4ef63-834c-4326-b309-979ce64f061e",
       "tags": [
         "vocabulary"
       ]
@@ -544,8 +544,8 @@
         "<b>Category:</b> Clear Overview"
       ],
       "flags": 0,
-      "guid": "3e1e26aa-85c0-4487-8ff6-a6cd3c3b250e",
-      "note_model_uuid": "f6d0e40a-a7cb-4457-aa2d-ddd12dc42b6e",
+      "guid": "5a5f7be8-8f3e-417d-9d6d-cedcaa07e153",
+      "note_model_uuid": "3ac4ef63-834c-4326-b309-979ce64f061e",
       "tags": [
         "writing_tips"
       ]
@@ -558,8 +558,8 @@
         "<b>Category:</b> Data-Driven Analysis"
       ],
       "flags": 0,
-      "guid": "32c0d307-f2aa-4d31-91a6-5888384dd37f",
-      "note_model_uuid": "f6d0e40a-a7cb-4457-aa2d-ddd12dc42b6e",
+      "guid": "3bd7d217-df7e-46dc-8b88-9c2fc49e6fdf",
+      "note_model_uuid": "3ac4ef63-834c-4326-b309-979ce64f061e",
       "tags": [
         "writing_tips"
       ]
@@ -572,8 +572,8 @@
         "<b>Category:</b> Precise Language"
       ],
       "flags": 0,
-      "guid": "8a49b9a8-4fd0-474b-a521-4504b8f2c88e",
-      "note_model_uuid": "f6d0e40a-a7cb-4457-aa2d-ddd12dc42b6e",
+      "guid": "71a1c6b4-eeb6-42f6-b95b-1800bdf299f6",
+      "note_model_uuid": "3ac4ef63-834c-4326-b309-979ce64f061e",
       "tags": [
         "writing_tips"
       ]
@@ -586,8 +586,8 @@
         "<b>Section:</b> Introduction"
       ],
       "flags": 0,
-      "guid": "2993ffa5-f902-4da0-bb5b-3cd9ed8db423",
-      "note_model_uuid": "f6d0e40a-a7cb-4457-aa2d-ddd12dc42b6e",
+      "guid": "815c05e8-99af-4e56-986c-f6d8fba84c0c",
+      "note_model_uuid": "3ac4ef63-834c-4326-b309-979ce64f061e",
       "tags": [
         "writing_structure"
       ]
@@ -600,8 +600,8 @@
         "<b>Section:</b> Overview"
       ],
       "flags": 0,
-      "guid": "9880d63b-898e-4d94-9d13-141ddd0473a9",
-      "note_model_uuid": "f6d0e40a-a7cb-4457-aa2d-ddd12dc42b6e",
+      "guid": "765a6b35-9345-433d-a5db-4a7394e59d59",
+      "note_model_uuid": "3ac4ef63-834c-4326-b309-979ce64f061e",
       "tags": [
         "writing_structure"
       ]
@@ -610,12 +610,12 @@
       "__type__": "Note",
       "data": "",
       "fields": [
-        "<div class='section-header'>Writing Structure</div>\n<b>Body Paragraph 1</b><br>\n{{c1::Body Paragraph 1: Focus on the most significant changes. Example: \"The most dramatic\n                shift is observed in housing expenditure, which declined from [original percentage]% in 1950 to [final\n                percentage]% in 2010, representing a decrease of approximately [percentage]% points. Conversely,\n                spending on food increased significantly from [original percentage]% to [final percentage]%,\n                representing a rise of approximately [percentage]% points.\"}}",
-        "<b>Section:</b> Body Paragraph 1"
+        "<div class='section-header'>Writing Structure</div>\n<b>Body paragraph 1</b><br>\n{{c1::Body Paragraph 1: Focus on the most significant changes. Example: \"The most dramatic\n                shift is observed in housing expenditure, which declined from [original percentage]% in 1950 to [final\n                percentage]% in 2010, representing a decrease of approximately [percentage]% points. Conversely,\n                spending on food increased significantly from [original percentage]% to [final percentage]%,\n                representing a rise of approximately [percentage]% points.\"}}",
+        "<b>Section:</b> Body paragraph 1"
       ],
       "flags": 0,
-      "guid": "0676bf7b-0151-446d-b478-a1ef126cc0bd",
-      "note_model_uuid": "f6d0e40a-a7cb-4457-aa2d-ddd12dc42b6e",
+      "guid": "e5ddb12c-d63e-40aa-9d06-ecbac25387da",
+      "note_model_uuid": "3ac4ef63-834c-4326-b309-979ce64f061e",
       "tags": [
         "writing_structure"
       ]
@@ -624,12 +624,12 @@
       "__type__": "Note",
       "data": "",
       "fields": [
-        "<div class='section-header'>Writing Structure</div>\n<b>Body Paragraph 2</b><br>\n{{c1::Body Paragraph 2: Discuss the less significant changes or remaining categories. Example:\n                \"In contrast to the substantial changes in housing and food, expenditure on transportation experienced a\n                more modest increase, rising from [original percentage]% to [final percentage]%. Other categories, such\n                as healthcare and education, showed relatively little change over the six decades.\"}}",
-        "<b>Section:</b> Body Paragraph 2"
+        "<div class='section-header'>Writing Structure</div>\n<b>Body paragraph 2</b><br>\n{{c1::Body Paragraph 2: Discuss the less significant changes or remaining categories. Example:\n                \"In contrast to the substantial changes in housing and food, expenditure on transportation experienced a\n                more modest increase, rising from [original percentage]% to [final percentage]%. Other categories, such\n                as healthcare and education, showed relatively little change over the six decades.\"}}",
+        "<b>Section:</b> Body paragraph 2"
       ],
       "flags": 0,
-      "guid": "30709e14-1865-45f2-9db3-3724d63254fc",
-      "note_model_uuid": "f6d0e40a-a7cb-4457-aa2d-ddd12dc42b6e",
+      "guid": "89ede72e-a835-47c7-9433-f2c7fa446c4a",
+      "note_model_uuid": "3ac4ef63-834c-4326-b309-979ce64f061e",
       "tags": [
         "writing_structure"
       ]
@@ -638,7 +638,7 @@
   "note_models": [
     {
       "__type__": "NoteModel",
-      "crowdanki_uuid": "f6d0e40a-a7cb-4457-aa2d-ddd12dc42b6e",
+      "crowdanki_uuid": "3ac4ef63-834c-4326-b309-979ce64f061e",
       "css": ".card {\n font-family: Arial;\n font-size: 20px;\n text-align: left;\n color: black;\n background-color: white;\n}\n\n.cloze {\n font-weight: bold;\n color: blue;\n}\n\n.nightMode .cloze {\n color: lightblue;\n}\n\n.section-header {\n font-weight: bold;\n margin-top: 15px;\n margin-bottom: 5px;\n}\n\n.original-text, .improved-text {\n margin: 10px 0;\n padding: 10px;\n background-color: #f5f5f5;\n border-radius: 5px;\n}\n\n.feedback {\n margin-top: 15px;\n padding: 10px;\n background-color: #e8f4f8;\n border-radius: 5px;\n}\n",
       "flds": [
         {

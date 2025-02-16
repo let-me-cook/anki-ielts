@@ -140,7 +140,7 @@ def generate_detailed_feedback_notes(
 			# For introduction section, break into meaningful chunks
 			if section.lower() == "introduction":
 				text = (
-					f"<div class='section-header'>{section}</div>\n"
+					f"<div class='section-header'>{section.capitalize()}</div>\n"
 					f"<div class='original-text'>Original text:<br>\n{content['content']}</div>\n"
 					f"<div class='improved-text'>Improved version:<br>\n"
 					f"{{{{c1::The two charts illustrate the changes in the distribution of average household expenditures across major categories from 1950 to 2010.}}}} "
@@ -149,7 +149,7 @@ def generate_detailed_feedback_notes(
 			else:
 				# For other sections, keep original cloze structure
 				text = (
-					f"<div class='section-header'>{section}</div>\n"
+					f"<div class='section-header'>{section.capitalize()}</div>\n"
 					f"<div class='original-text'>Original text:<br>\n{content['content']}</div>\n"
 					f"<div class='improved-text'>Improved version:<br>\n{{{{c1::{content['rewrite_suggestion']}}}}}</div>"
 				)
@@ -233,10 +233,10 @@ def generate_expression_notes(
 			create_note(
 				text=(
 					f"<div class='section-header'>Writing Structure</div>\n"
-					f"<b>{section['title']}</b><br>\n"
+					f"<b>{section['title'].capitalize()}</b><br>\n"
 					f"{{{{c1::{section['content']}}}}}"
 				),
-				back_extra=f"<b>Section:</b> {section['title']}",
+				back_extra=f"<b>Section:</b> {section['title'].capitalize()}",
 				tags=["writing_structure"],
 				model_uuid=model_uuid,
 			)
