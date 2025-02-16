@@ -4,21 +4,20 @@ import json
 import uuid
 
 
-def create_deck_structure(deck_name: str) -> Dict[str, Any]:
+def create_deck_structure(deck_name: str, uuid_: str) -> Dict[str, Any]:
 	"""Generate basic CrowdAnki deck structure with Cloze note type."""
-	# Create consistent UUIDs
-	deck_config_uuid = str(uuid.uuid4())
+	uuid_ = str(uuid.uuid4())
 
 	return {
 		"__type__": "Deck",
 		"children": [],
 		"crowdanki_uuid": str(uuid.uuid4()),
-		"deck_config_uuid": deck_config_uuid,  # Use the same UUID
+		"deck_config_uuid": uuid_,
 		"deck_configurations": [
 			{
 				"__type__": "DeckConfig",
 				"autoplay": True,
-				"crowdanki_uuid": deck_config_uuid,  # Use the same UUID here
+				"crowdanki_uuid": uuid_,
 				"dyn": False,
 				"lapse": {
 					"delays": [10],
@@ -62,7 +61,7 @@ def create_deck_structure(deck_name: str) -> Dict[str, Any]:
 			{
 				"__type__": "NoteModel",
 				"crowdanki_uuid": str(uuid.uuid4()),
-				"css": "",
+				"css": ".card {\n font-family: Arial;\n font-size: 20px;\n text-align: left;\n color: black;\n background-color: white;\n}\n\n.cloze {\n font-weight: bold;\n color: blue;\n}\n\n.nightMode .cloze {\n color: lightblue;\n}\n\n.section-header {\n font-weight: bold;\n margin-top: 15px;\n margin-bottom: 5px;\n}\n\n.original-text, .improved-text {\n margin: 10px 0;\n padding: 10px;\n background-color: #f5f5f5;\n border-radius: 5px;\n}\n\n.feedback {\n margin-top: 15px;\n padding: 10px;\n background-color: #e8f4f8;\n border-radius: 5px;\n}\n",
 				"flds": [
 					{
 						"font": "Arial",
@@ -91,7 +90,7 @@ def create_deck_structure(deck_name: str) -> Dict[str, Any]:
 				"tags": [],
 				"tmpls": [
 					{
-						"afmt": "{{cloze:Text}}<br><br>{{Back Extra}}",
+						"afmt": "{{cloze:Text}}<br><br><div class='feedback'>{{Back Extra}}</div>",
 						"bafmt": "",
 						"bqfmt": "",
 						"did": None,
@@ -123,6 +122,13 @@ def create_note(
 	}
 
 
+def format_feedback_categories(feedback: Dict[str, str]) -> str:
+	"""Format feedback categories into a readable string."""
+	return "\n\n".join(
+		f"<b>{category}:</b>\n{feedback}" for category, feedback in feedback.items()
+	)
+
+
 def generate_detailed_feedback_notes(
 	detailed_feedback: Dict[str, Any], model_uuid: str
 ) -> List[Dict[str, Any]]:
@@ -131,22 +137,44 @@ def generate_detailed_feedback_notes(
 
 	for section, content in detailed_feedback.items():
 		if isinstance(content, dict) and "content" in content and "feedback" in content:
+			# First note: Original text with cloze
 			text = (
-				f"Section: {section}\n"
-				f"Original: {{{{c1::{content['content']}}}}}\n"
-				f"Improved: {{{{c2::{content['rewrite_suggestion']}}}}}"
+				f"<div class='section-header'>{section}</div>\n"
+				f"<div class='original-text'>"
+				f"Original text:<br>\n{{{{c1::{content['content']}}}}}</div>\n"
 			)
 
-			back_extra = "\n".join(
-				f"{category}: {feedback}"
-				for category, feedback in content["feedback"].items()
+			back_extra = format_feedback_categories(content["feedback"])
+
+			notes.append(
+				create_note(
+					text=text,
+					back_extra=back_extra,
+					tags=[
+						"writing_feedback",
+						"original",
+						section.lower().replace(" ", "_"),
+					],
+					model_uuid=model_uuid,
+				)
+			)
+
+			# Second note: Improvement with cloze
+			text = (
+				f"<div class='section-header'>{section}</div>\n"
+				f"<div class='original-text'>Original text:<br>\n{content['content']}</div>\n"
+				f"<div class='improved-text'>Improved version:<br>\n{{{{c1::{content['rewrite_suggestion']}}}}}</div>"
 			)
 
 			notes.append(
 				create_note(
 					text=text,
 					back_extra=back_extra,
-					tags=["writing_feedback", section.lower().replace(" ", "_")],
+					tags=[
+						"writing_feedback",
+						"improvement",
+						section.lower().replace(" ", "_"),
+					],
 					model_uuid=model_uuid,
 				)
 			)
@@ -161,10 +189,10 @@ def generate_grammar_vocabulary_notes(
 	return [
 		create_note(
 			text=(
-				f"Original: {{{{c1::{item['error']}}}}}\n"
-				f"Corrected: {{{{c2::{item['correction']}}}}}"
+				f"<div class='original-text'>Original text:<br>\n{{{{c1::{item['error']}}}}}</div>\n"
+				f"<div class='improved-text'>Corrected version:<br>\n{{{{c2::{item['correction']}}}}}</div>"
 			),
-			back_extra=f"Explanation: {item['explanation']}",
+			back_extra=f"<b>Explanation:</b><br>{item['explanation']}",
 			tags=["grammar_vocabulary"],
 			model_uuid=model_uuid,
 		)
@@ -178,8 +206,12 @@ def generate_vocabulary_notes(
 	"""Generate vocabulary notes."""
 	return [
 		create_note(
-			text=f"{{{{c1::{item['New Word']}}}}} ({item['Word Type']})\nDefinition: {{{{c2::{item['Definition']}}}}}",
-			back_extra=f"Word Type: {item['Word Type']}",
+			text=(
+				f"<div class='section-header'>Vocabulary Term</div>\n"
+				f"Word: {{{{c1::{item['New Word']}}}}} ({item['Word Type']})<br>\n"
+				f"Definition: {{{{c2::{item['Definition']}}}}}"
+			),
+			back_extra=f"<b>Word Type:</b> {item['Word Type']}",
 			tags=["vocabulary"],
 			model_uuid=model_uuid,
 		)
@@ -196,8 +228,12 @@ def generate_expression_notes(
 	for tip in expression_data.get("key_tips", []):
 		notes.append(
 			create_note(
-				text=f"Writing Tip - {tip['title']}: {{{{c1::{tip['content']}}}}}",
-				back_extra=f"Category: {tip['title']}",
+				text=(
+					f"<div class='section-header'>Writing Tip</div>\n"
+					f"<b>{tip['title']}</b><br>\n"
+					f"{{{{c1::{tip['content']}}}}}"
+				),
+				back_extra=f"<b>Category:</b> {tip['title']}",
 				tags=["writing_tips"],
 				model_uuid=model_uuid,
 			)
@@ -206,8 +242,12 @@ def generate_expression_notes(
 	for section in expression_data.get("suggested_structure", []):
 		notes.append(
 			create_note(
-				text=f"Section: {section['title']}\nContent: {{{{c1::{section['content']}}}}}",
-				back_extra=f"Writing Section: {section['title']}",
+				text=(
+					f"<div class='section-header'>Writing Structure</div>\n"
+					f"<b>{section['title']}</b><br>\n"
+					f"{{{{c1::{section['content']}}}}}"
+				),
+				back_extra=f"<b>Section:</b> {section['title']}",
 				tags=["writing_structure"],
 				model_uuid=model_uuid,
 			)
@@ -217,10 +257,12 @@ def generate_expression_notes(
 
 
 def generate_anki_deck(
-	input_data: Dict[str, Any], deck_name: str = "English Writing Practice"
+	input_data: Dict[str, Any],
+	uuid_: str,
+	deck_name: str = "English Writing Practice",
 ) -> Dict[str, Any]:
 	"""Generate complete Anki deck from input data."""
-	deck = create_deck_structure(deck_name)
+	deck = create_deck_structure(deck_name, uuid_)
 	model_uuid = deck["note_models"][0]["crowdanki_uuid"]
 
 	notes = []

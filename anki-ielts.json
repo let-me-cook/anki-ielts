@@ -1,13 +1,13 @@
 {
   "__type__": "Deck",
   "children": [],
-  "crowdanki_uuid": "88ba04f7-85b2-41fe-95dd-b8d497f33537",
-  "deck_config_uuid": "ee87f425-4713-4b0a-a068-95a2a129af09",
+  "crowdanki_uuid": "a60a1460-094a-4ee8-808b-d8e29f33ef73",
+  "deck_config_uuid": "a332c0dd-751d-4e0f-a838-483c79d09e35",
   "deck_configurations": [
     {
       "__type__": "DeckConfig",
       "autoplay": true,
-      "crowdanki_uuid": "ee87f425-4713-4b0a-a068-95a2a129af09",
+      "crowdanki_uuid": "a332c0dd-751d-4e0f-a838-483c79d09e35",
       "dyn": false,
       "lapse": {
         "delays": [
@@ -60,14 +60,15 @@
       "__type__": "Note",
       "data": "",
       "fields": [
-        "Section: introduction\nOriginal: {{c1::The two charts below illustrate the changes in proportion of the average household expenditures over 6 decades from 1950 to 2010.}}\nImproved: {{c2::The two charts illustrate the changes in the distribution of average household expenditures across major categories from 1950 to 2010. The data reveals a significant shift in spending patterns, with a notable decrease in expenditure on housing and a corresponding increase in spending on food, while other categories remained relatively stable.}}",
-        "Task Response/Task Achievement: The introduction is adequate in stating the purpose of the charts. However, it lacks a brief overview of the main trends. It should mention the overall shifts in spending patterns across the categories. For example, it could mention that spending on housing decreased while spending on food increased.\nCoherence & Cohesion: The introduction is clear and concise, setting the context appropriately. However, adding a brief overview would improve the coherence with the following paragraphs.\nGrammatical Range & Accuracy: The grammar is correct.\nLexical Resource: The vocabulary is appropriate but could be more precise. Instead of \"proportion of the average household expenditures,\" consider using \"average household expenditure distribution\" or a similar phrase."
+        "<div class='section-header'>introduction</div>\n<div class='original-text'>Original text:<br>\n{{c1::The two charts below illustrate the changes in proportion of the average household expenditures over 6 decades from 1950 to 2010.}}</div>\n",
+        "<b>Task Response/Task Achievement:</b>\nThe introduction is adequate in stating the purpose of the charts. However, it lacks a brief overview of the main trends. It should mention the overall shifts in spending patterns across the categories. For example, it could mention that spending on housing decreased while spending on food increased.\n\n<b>Coherence & Cohesion:</b>\nThe introduction is clear and concise, setting the context appropriately. However, adding a brief overview would improve the coherence with the following paragraphs.\n\n<b>Grammatical Range & Accuracy:</b>\nThe grammar is correct.\n\n<b>Lexical Resource:</b>\nThe vocabulary is appropriate but could be more precise. Instead of \"proportion of the average household expenditures,\" consider using \"average household expenditure distribution\" or a similar phrase."
       ],
       "flags": 0,
-      "guid": "e3c60720-9975-4dc7-8763-417e71236785",
-      "note_model_uuid": "3c8898e1-9723-4abc-a967-545731df1b22",
+      "guid": "51820555-6fe4-4934-9ec6-f5aa99d0637f",
+      "note_model_uuid": "b159c54f-71fd-4f29-95cb-d1abac374fbe",
       "tags": [
         "writing_feedback",
+        "original",
         "introduction"
       ]
     },
@@ -75,14 +76,31 @@
       "__type__": "Note",
       "data": "",
       "fields": [
-        "Section: overview\nOriginal: {{c1::The most significant changes can be seen where the average household spends significantly less on housing and more on food over the decades. Meanwhile, the amount of money spent on transportation had also slightly increased. Whereas the proportions of spending on other categories had stayed relatively the same over the course of the decades.}}\nImproved: {{c2::Overall, the charts show a dramatic decrease in the proportion of household expenditure allocated to housing and a substantial increase in spending on food between 1950 and 2010. Expenditure on transportation also rose moderately, while spending on other categories remained relatively constant.}}",
-        "Task Response/Task Achievement: This paragraph attempts an overview but is too detailed. An overview should summarize the main trends, not delve into specific figures. It should highlight the key changes across all categories, not just focus on housing, food, and transportation.\nCoherence & Cohesion: The overview lacks smooth transitions. The use of \"Meanwhile\" and \"Whereas\" is somewhat abrupt.\nGrammatical Range & Accuracy: The grammar is mostly correct, but the sentence structure is repetitive.\nLexical Resource: The vocabulary is simple and lacks precision."
+        "<div class='section-header'>introduction</div>\n<div class='original-text'>Original text:<br>\nThe two charts below illustrate the changes in proportion of the average household expenditures over 6 decades from 1950 to 2010.</div>\n<div class='improved-text'>Improved version:<br>\n{{c1::The two charts illustrate the changes in the distribution of average household expenditures across major categories from 1950 to 2010. The data reveals a significant shift in spending patterns, with a notable decrease in expenditure on housing and a corresponding increase in spending on food, while other categories remained relatively stable.}}</div>",
+        "<b>Task Response/Task Achievement:</b>\nThe introduction is adequate in stating the purpose of the charts. However, it lacks a brief overview of the main trends. It should mention the overall shifts in spending patterns across the categories. For example, it could mention that spending on housing decreased while spending on food increased.\n\n<b>Coherence & Cohesion:</b>\nThe introduction is clear and concise, setting the context appropriately. However, adding a brief overview would improve the coherence with the following paragraphs.\n\n<b>Grammatical Range & Accuracy:</b>\nThe grammar is correct.\n\n<b>Lexical Resource:</b>\nThe vocabulary is appropriate but could be more precise. Instead of \"proportion of the average household expenditures,\" consider using \"average household expenditure distribution\" or a similar phrase."
       ],
       "flags": 0,
-      "guid": "d1314596-7a79-4f0d-8052-5a8c3d318545",
-      "note_model_uuid": "3c8898e1-9723-4abc-a967-545731df1b22",
+      "guid": "312c08b0-d602-4130-9991-ca8c276f3ad5",
+      "note_model_uuid": "b159c54f-71fd-4f29-95cb-d1abac374fbe",
       "tags": [
         "writing_feedback",
+        "improvement",
+        "introduction"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "<div class='section-header'>overview</div>\n<div class='original-text'>Original text:<br>\n{{c1::The most significant changes can be seen where the average household spends significantly less on housing and more on food over the decades. Meanwhile, the amount of money spent on transportation had also slightly increased. Whereas the proportions of spending on other categories had stayed relatively the same over the course of the decades.}}</div>\n",
+        "<b>Task Response/Task Achievement:</b>\nThis paragraph attempts an overview but is too detailed. An overview should summarize the main trends, not delve into specific figures. It should highlight the key changes across all categories, not just focus on housing, food, and transportation.\n\n<b>Coherence & Cohesion:</b>\nThe overview lacks smooth transitions. The use of \"Meanwhile\" and \"Whereas\" is somewhat abrupt.\n\n<b>Grammatical Range & Accuracy:</b>\nThe grammar is mostly correct, but the sentence structure is repetitive.\n\n<b>Lexical Resource:</b>\nThe vocabulary is simple and lacks precision."
+      ],
+      "flags": 0,
+      "guid": "cb26d3ee-353e-4c4d-a183-a9f2e5a0577a",
+      "note_model_uuid": "b159c54f-71fd-4f29-95cb-d1abac374fbe",
+      "tags": [
+        "writing_feedback",
+        "original",
         "overview"
       ]
     },
@@ -90,14 +108,31 @@
       "__type__": "Note",
       "data": "",
       "fields": [
-        "Section: body paragraph 1\nOriginal: {{c1::Looking at the details of the charts, the expenditures of the average families on housing had decreased by one third of it's original portion of 72 percent. While food portion of the spending had increased by one third of its original portion of 11 percent, a slight increase of spending by 10 percent on transportation can also be seen by the families over the years.}}\nImproved: {{c2::A detailed analysis reveals that housing expenditure decreased by approximately one-third from its initial 72% share, while the proportion allocated to food increased by one-third from its original 11%. Transportation costs also saw a modest 10% increase over the period.}}",
-        "Task Response/Task Achievement: This paragraph provides some detail but lacks clarity and precision. The phrasing is awkward, and the comparisons are not clearly structured. The use of percentages is unclear – are these percentage point changes or percentage changes relative to the total expenditure?\nCoherence & Cohesion: The paragraph is poorly structured. The transitions between the different categories are not smooth.\nGrammatical Range & Accuracy: There are grammatical errors (\"it's\" should be \"its\"). The sentence structure is clumsy.\nLexical Resource: The vocabulary is repetitive and imprecise. The phrase \"portion of the spending\" is awkward."
+        "<div class='section-header'>overview</div>\n<div class='original-text'>Original text:<br>\nThe most significant changes can be seen where the average household spends significantly less on housing and more on food over the decades. Meanwhile, the amount of money spent on transportation had also slightly increased. Whereas the proportions of spending on other categories had stayed relatively the same over the course of the decades.</div>\n<div class='improved-text'>Improved version:<br>\n{{c1::Overall, the charts show a dramatic decrease in the proportion of household expenditure allocated to housing and a substantial increase in spending on food between 1950 and 2010. Expenditure on transportation also rose moderately, while spending on other categories remained relatively constant.}}</div>",
+        "<b>Task Response/Task Achievement:</b>\nThis paragraph attempts an overview but is too detailed. An overview should summarize the main trends, not delve into specific figures. It should highlight the key changes across all categories, not just focus on housing, food, and transportation.\n\n<b>Coherence & Cohesion:</b>\nThe overview lacks smooth transitions. The use of \"Meanwhile\" and \"Whereas\" is somewhat abrupt.\n\n<b>Grammatical Range & Accuracy:</b>\nThe grammar is mostly correct, but the sentence structure is repetitive.\n\n<b>Lexical Resource:</b>\nThe vocabulary is simple and lacks precision."
       ],
       "flags": 0,
-      "guid": "31ee19a4-9ace-4955-a43d-64d5ed08ed24",
-      "note_model_uuid": "3c8898e1-9723-4abc-a967-545731df1b22",
+      "guid": "d7331deb-a64e-401b-9fc0-a6a994b1d42f",
+      "note_model_uuid": "b159c54f-71fd-4f29-95cb-d1abac374fbe",
       "tags": [
         "writing_feedback",
+        "improvement",
+        "overview"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "<div class='section-header'>body paragraph 1</div>\n<div class='original-text'>Original text:<br>\n{{c1::Looking at the details of the charts, the expenditures of the average families on housing had decreased by one third of it's original portion of 72 percent. While food portion of the spending had increased by one third of its original portion of 11 percent, a slight increase of spending by 10 percent on transportation can also be seen by the families over the years.}}</div>\n",
+        "<b>Task Response/Task Achievement:</b>\nThis paragraph provides some detail but lacks clarity and precision. The phrasing is awkward, and the comparisons are not clearly structured. The use of percentages is unclear – are these percentage point changes or percentage changes relative to the total expenditure?\n\n<b>Coherence & Cohesion:</b>\nThe paragraph is poorly structured. The transitions between the different categories are not smooth.\n\n<b>Grammatical Range & Accuracy:</b>\nThere are grammatical errors (\"it's\" should be \"its\"). The sentence structure is clumsy.\n\n<b>Lexical Resource:</b>\nThe vocabulary is repetitive and imprecise. The phrase \"portion of the spending\" is awkward."
+      ],
+      "flags": 0,
+      "guid": "c2f61ddf-9a65-4cdc-9b62-59994c9ed991",
+      "note_model_uuid": "b159c54f-71fd-4f29-95cb-d1abac374fbe",
+      "tags": [
+        "writing_feedback",
+        "original",
         "body_paragraph_1"
       ]
     },
@@ -105,14 +140,31 @@
       "__type__": "Note",
       "data": "",
       "fields": [
-        "Section: body paragraph 2\nOriginal: {{c1::While the housing, food and portion had undergone changes, the chart shows that the other categories like health care, education has stayed relatively unchanged.}}\nImproved: {{c2::In contrast to the significant changes in housing and food expenditures, the remaining categories, including healthcare and education, showed relatively little change in their share of total household spending throughout the period. Further detailed analysis would be required to confirm the exact percentage changes in these areas.}}",
-        "Task Response/Task Achievement: This paragraph is too brief and lacks supporting data. It should specify which other categories remained unchanged and ideally provide some numerical information to support the claim.\nCoherence & Cohesion: The transition from the previous paragraph is weak. The use of \"While\" is not very effective.\nGrammatical Range & Accuracy: There is a subject-verb agreement error (\"has stayed\" should be \"have stayed\").\nLexical Resource: The vocabulary is limited."
+        "<div class='section-header'>body paragraph 1</div>\n<div class='original-text'>Original text:<br>\nLooking at the details of the charts, the expenditures of the average families on housing had decreased by one third of it's original portion of 72 percent. While food portion of the spending had increased by one third of its original portion of 11 percent, a slight increase of spending by 10 percent on transportation can also be seen by the families over the years.</div>\n<div class='improved-text'>Improved version:<br>\n{{c1::A detailed analysis reveals that housing expenditure decreased by approximately one-third from its initial 72% share, while the proportion allocated to food increased by one-third from its original 11%. Transportation costs also saw a modest 10% increase over the period.}}</div>",
+        "<b>Task Response/Task Achievement:</b>\nThis paragraph provides some detail but lacks clarity and precision. The phrasing is awkward, and the comparisons are not clearly structured. The use of percentages is unclear – are these percentage point changes or percentage changes relative to the total expenditure?\n\n<b>Coherence & Cohesion:</b>\nThe paragraph is poorly structured. The transitions between the different categories are not smooth.\n\n<b>Grammatical Range & Accuracy:</b>\nThere are grammatical errors (\"it's\" should be \"its\"). The sentence structure is clumsy.\n\n<b>Lexical Resource:</b>\nThe vocabulary is repetitive and imprecise. The phrase \"portion of the spending\" is awkward."
       ],
       "flags": 0,
-      "guid": "10277df1-ffb3-45d2-9258-cfea4b066920",
-      "note_model_uuid": "3c8898e1-9723-4abc-a967-545731df1b22",
+      "guid": "5bac03df-258e-4018-8505-b8236ddaa8e6",
+      "note_model_uuid": "b159c54f-71fd-4f29-95cb-d1abac374fbe",
       "tags": [
         "writing_feedback",
+        "improvement",
+        "body_paragraph_1"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "<div class='section-header'>body paragraph 2</div>\n<div class='original-text'>Original text:<br>\n{{c1::While the housing, food and portion had undergone changes, the chart shows that the other categories like health care, education has stayed relatively unchanged.}}</div>\n",
+        "<b>Task Response/Task Achievement:</b>\nThis paragraph is too brief and lacks supporting data. It should specify which other categories remained unchanged and ideally provide some numerical information to support the claim.\n\n<b>Coherence & Cohesion:</b>\nThe transition from the previous paragraph is weak. The use of \"While\" is not very effective.\n\n<b>Grammatical Range & Accuracy:</b>\nThere is a subject-verb agreement error (\"has stayed\" should be \"have stayed\").\n\n<b>Lexical Resource:</b>\nThe vocabulary is limited."
+      ],
+      "flags": 0,
+      "guid": "78c1a048-e037-468a-bba5-e1a9ed256012",
+      "note_model_uuid": "b159c54f-71fd-4f29-95cb-d1abac374fbe",
+      "tags": [
+        "writing_feedback",
+        "original",
         "body_paragraph_2"
       ]
     },
@@ -120,12 +172,28 @@
       "__type__": "Note",
       "data": "",
       "fields": [
-        "Original: {{c1::...the average household spends significantly less on housing and more on food...}}\nCorrected: {{c2::...the average household spent significantly less on housing and more on food...}}",
-        "Explanation: The original tense is inconsistent. Since the charts show a trend over time, the past tense is more appropriate."
+        "<div class='section-header'>body paragraph 2</div>\n<div class='original-text'>Original text:<br>\nWhile the housing, food and portion had undergone changes, the chart shows that the other categories like health care, education has stayed relatively unchanged.</div>\n<div class='improved-text'>Improved version:<br>\n{{c1::In contrast to the significant changes in housing and food expenditures, the remaining categories, including healthcare and education, showed relatively little change in their share of total household spending throughout the period. Further detailed analysis would be required to confirm the exact percentage changes in these areas.}}</div>",
+        "<b>Task Response/Task Achievement:</b>\nThis paragraph is too brief and lacks supporting data. It should specify which other categories remained unchanged and ideally provide some numerical information to support the claim.\n\n<b>Coherence & Cohesion:</b>\nThe transition from the previous paragraph is weak. The use of \"While\" is not very effective.\n\n<b>Grammatical Range & Accuracy:</b>\nThere is a subject-verb agreement error (\"has stayed\" should be \"have stayed\").\n\n<b>Lexical Resource:</b>\nThe vocabulary is limited."
       ],
       "flags": 0,
-      "guid": "346f1e25-374e-40db-a1c8-a2a9803e7af5",
-      "note_model_uuid": "3c8898e1-9723-4abc-a967-545731df1b22",
+      "guid": "347f9d9d-9d87-458f-a062-9d23816f729e",
+      "note_model_uuid": "b159c54f-71fd-4f29-95cb-d1abac374fbe",
+      "tags": [
+        "writing_feedback",
+        "improvement",
+        "body_paragraph_2"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "<div class='original-text'>Original text:<br>\n{{c1::...the average household spends significantly less on housing and more on food...}}</div>\n<div class='improved-text'>Corrected version:<br>\n{{c2::...the average household spent significantly less on housing and more on food...}}</div>",
+        "<b>Explanation:</b><br>The original tense is inconsistent. Since the charts show a trend over time, the past tense is more appropriate."
+      ],
+      "flags": 0,
+      "guid": "6a791d47-d1ea-4111-b880-651cfd387e55",
+      "note_model_uuid": "b159c54f-71fd-4f29-95cb-d1abac374fbe",
       "tags": [
         "grammar_vocabulary"
       ]
@@ -134,12 +202,12 @@
       "__type__": "Note",
       "data": "",
       "fields": [
-        "Original: {{c1::...the amount of money spent on transportation had also slightly increased.}}\nCorrected: {{c2::...the amount of money spent on transportation also slightly increased.}}",
-        "Explanation: Avoid unnecessary auxiliary verb \"had\"."
+        "<div class='original-text'>Original text:<br>\n{{c1::...the amount of money spent on transportation had also slightly increased.}}</div>\n<div class='improved-text'>Corrected version:<br>\n{{c2::...the amount of money spent on transportation also slightly increased.}}</div>",
+        "<b>Explanation:</b><br>Avoid unnecessary auxiliary verb \"had\"."
       ],
       "flags": 0,
-      "guid": "8f064ef4-34c3-4b13-8565-92535ae88f4e",
-      "note_model_uuid": "3c8898e1-9723-4abc-a967-545731df1b22",
+      "guid": "647af93c-241b-4f01-b1e6-716c86e03169",
+      "note_model_uuid": "b159c54f-71fd-4f29-95cb-d1abac374fbe",
       "tags": [
         "grammar_vocabulary"
       ]
@@ -148,12 +216,12 @@
       "__type__": "Note",
       "data": "",
       "fields": [
-        "Original: {{c1::...the expenditures of the average families on housing had decreased by one third of it's original portion...}}\nCorrected: {{c2::...the expenditures of average families on housing had decreased by one-third of its original portion...}}",
-        "Explanation: \"It's\" is a contraction of \"it is\"; \"its\" is the possessive pronoun."
+        "<div class='original-text'>Original text:<br>\n{{c1::...the expenditures of the average families on housing had decreased by one third of it's original portion...}}</div>\n<div class='improved-text'>Corrected version:<br>\n{{c2::...the expenditures of average families on housing had decreased by one-third of its original portion...}}</div>",
+        "<b>Explanation:</b><br>\"It's\" is a contraction of \"it is\"; \"its\" is the possessive pronoun."
       ],
       "flags": 0,
-      "guid": "a6fca3df-90b0-48ad-94c3-1aac96e66573",
-      "note_model_uuid": "3c8898e1-9723-4abc-a967-545731df1b22",
+      "guid": "34252acc-6d0c-44bb-8006-49a151313b8d",
+      "note_model_uuid": "b159c54f-71fd-4f29-95cb-d1abac374fbe",
       "tags": [
         "grammar_vocabulary"
       ]
@@ -162,12 +230,12 @@
       "__type__": "Note",
       "data": "",
       "fields": [
-        "Original: {{c1::...While food portion of the spending had increased by one third of its original portion of 11 percent,...}}\nCorrected: {{c2::...While the proportion of spending on food increased by one-third from its original 11 percent,...}}",
-        "Explanation: Improve phrasing for clarity and precision."
+        "<div class='original-text'>Original text:<br>\n{{c1::...While food portion of the spending had increased by one third of its original portion of 11 percent,...}}</div>\n<div class='improved-text'>Corrected version:<br>\n{{c2::...While the proportion of spending on food increased by one-third from its original 11 percent,...}}</div>",
+        "<b>Explanation:</b><br>Improve phrasing for clarity and precision."
       ],
       "flags": 0,
-      "guid": "4dcb8f1b-3b71-41cc-8103-4ecba1e788a0",
-      "note_model_uuid": "3c8898e1-9723-4abc-a967-545731df1b22",
+      "guid": "9c2d571a-4405-44fa-ad8a-04727a6d08f0",
+      "note_model_uuid": "b159c54f-71fd-4f29-95cb-d1abac374fbe",
       "tags": [
         "grammar_vocabulary"
       ]
@@ -176,12 +244,12 @@
       "__type__": "Note",
       "data": "",
       "fields": [
-        "Original: {{c1::...a slight increase of spending by 10 percent on transportation can also be seen by the families over the years.}}\nCorrected: {{c2::...a slight 10% increase in transportation spending is also evident over the years.}}",
-        "Explanation: Rephrasing for conciseness and better word choice."
+        "<div class='original-text'>Original text:<br>\n{{c1::...a slight increase of spending by 10 percent on transportation can also be seen by the families over the years.}}</div>\n<div class='improved-text'>Corrected version:<br>\n{{c2::...a slight 10% increase in transportation spending is also evident over the years.}}</div>",
+        "<b>Explanation:</b><br>Rephrasing for conciseness and better word choice."
       ],
       "flags": 0,
-      "guid": "0a09a753-b19a-4ab3-a2d5-db2cf5d9ac7d",
-      "note_model_uuid": "3c8898e1-9723-4abc-a967-545731df1b22",
+      "guid": "4012b29d-2fe3-4993-998f-b64d4b3d276a",
+      "note_model_uuid": "b159c54f-71fd-4f29-95cb-d1abac374fbe",
       "tags": [
         "grammar_vocabulary"
       ]
@@ -190,12 +258,12 @@
       "__type__": "Note",
       "data": "",
       "fields": [
-        "Original: {{c1::...While the housing, food and portion had undergone changes,...}}\nCorrected: {{c2::...While spending on housing and food had undergone changes,...}}",
-        "Explanation: \"Portion\" is redundant here."
+        "<div class='original-text'>Original text:<br>\n{{c1::...While the housing, food and portion had undergone changes,...}}</div>\n<div class='improved-text'>Corrected version:<br>\n{{c2::...While spending on housing and food had undergone changes,...}}</div>",
+        "<b>Explanation:</b><br>\"Portion\" is redundant here."
       ],
       "flags": 0,
-      "guid": "efa86c32-9ef4-45fa-8948-1c04c3e3ce84",
-      "note_model_uuid": "3c8898e1-9723-4abc-a967-545731df1b22",
+      "guid": "49b39a5d-7e73-47ea-8b1e-c88a3809b64d",
+      "note_model_uuid": "b159c54f-71fd-4f29-95cb-d1abac374fbe",
       "tags": [
         "grammar_vocabulary"
       ]
@@ -204,12 +272,12 @@
       "__type__": "Note",
       "data": "",
       "fields": [
-        "Original: {{c1::...the chart shows that the other categories like health care, education has stayed relatively unchanged.}}\nCorrected: {{c2::...the charts show that other categories, such as healthcare and education, have stayed relatively unchanged.}}",
-        "Explanation: Subject-verb agreement error; \"categories\" is plural, requiring \"have\". Also, improve style by using \"such as\" instead of \"like\"."
+        "<div class='original-text'>Original text:<br>\n{{c1::...the chart shows that the other categories like health care, education has stayed relatively unchanged.}}</div>\n<div class='improved-text'>Corrected version:<br>\n{{c2::...the charts show that other categories, such as healthcare and education, have stayed relatively unchanged.}}</div>",
+        "<b>Explanation:</b><br>Subject-verb agreement error; \"categories\" is plural, requiring \"have\". Also, improve style by using \"such as\" instead of \"like\"."
       ],
       "flags": 0,
-      "guid": "89365410-5cfe-4ce7-8571-4b41e3e37556",
-      "note_model_uuid": "3c8898e1-9723-4abc-a967-545731df1b22",
+      "guid": "481480c6-c71f-486a-b4d8-eee150c7be02",
+      "note_model_uuid": "b159c54f-71fd-4f29-95cb-d1abac374fbe",
       "tags": [
         "grammar_vocabulary"
       ]
@@ -218,12 +286,12 @@
       "__type__": "Note",
       "data": "",
       "fields": [
-        "Original: {{c1::...decreased by one third of it's original portion...}}\nCorrected: {{c2::...decreased by one-third of its original portion...}}",
-        "Explanation: Correct the apostrophe and improve the phrasing. Hyphenate \"one-third\"."
+        "<div class='original-text'>Original text:<br>\n{{c1::...decreased by one third of it's original portion...}}</div>\n<div class='improved-text'>Corrected version:<br>\n{{c2::...decreased by one-third of its original portion...}}</div>",
+        "<b>Explanation:</b><br>Correct the apostrophe and improve the phrasing. Hyphenate \"one-third\"."
       ],
       "flags": 0,
-      "guid": "15ad48a9-53c3-4908-8e81-aada788236de",
-      "note_model_uuid": "3c8898e1-9723-4abc-a967-545731df1b22",
+      "guid": "5c7387aa-1f43-4c74-ae81-5f607b1191bd",
+      "note_model_uuid": "b159c54f-71fd-4f29-95cb-d1abac374fbe",
       "tags": [
         "grammar_vocabulary"
       ]
@@ -232,12 +300,12 @@
       "__type__": "Note",
       "data": "",
       "fields": [
-        "Original: {{c1::...increased by one third of its original portion...}}\nCorrected: {{c2::...increased by one-third of its original portion...}}",
-        "Explanation: Hyphenate \"one-third\"."
+        "<div class='original-text'>Original text:<br>\n{{c1::...increased by one third of its original portion...}}</div>\n<div class='improved-text'>Corrected version:<br>\n{{c2::...increased by one-third of its original portion...}}</div>",
+        "<b>Explanation:</b><br>Hyphenate \"one-third\"."
       ],
       "flags": 0,
-      "guid": "e7e55c2d-6b05-4b07-97a6-9169b7671a02",
-      "note_model_uuid": "3c8898e1-9723-4abc-a967-545731df1b22",
+      "guid": "75c1f0de-7db3-45c2-9ef5-b6001dc700bc",
+      "note_model_uuid": "b159c54f-71fd-4f29-95cb-d1abac374fbe",
       "tags": [
         "grammar_vocabulary"
       ]
@@ -246,12 +314,12 @@
       "__type__": "Note",
       "data": "",
       "fields": [
-        "Original: {{c1::...the amount of money spent on transportation...}}\nCorrected: {{c2::...spending on transportation...}}",
-        "Explanation: More concise phrasing."
+        "<div class='original-text'>Original text:<br>\n{{c1::...the amount of money spent on transportation...}}</div>\n<div class='improved-text'>Corrected version:<br>\n{{c2::...spending on transportation...}}</div>",
+        "<b>Explanation:</b><br>More concise phrasing."
       ],
       "flags": 0,
-      "guid": "16507743-35d8-4a97-b249-59c6e8fa4976",
-      "note_model_uuid": "3c8898e1-9723-4abc-a967-545731df1b22",
+      "guid": "d56d34dd-3930-40a5-b1ab-49ed00a2464d",
+      "note_model_uuid": "b159c54f-71fd-4f29-95cb-d1abac374fbe",
       "tags": [
         "grammar_vocabulary"
       ]
@@ -260,12 +328,12 @@
       "__type__": "Note",
       "data": "",
       "fields": [
-        "Original: {{c1::...the proportions of spending on other categories...}}\nCorrected: {{c2::...the proportion of spending on other categories...}}",
-        "Explanation: \"Proportions\" is slightly redundant when referring to multiple categories."
+        "<div class='original-text'>Original text:<br>\n{{c1::...the proportions of spending on other categories...}}</div>\n<div class='improved-text'>Corrected version:<br>\n{{c2::...the proportion of spending on other categories...}}</div>",
+        "<b>Explanation:</b><br>\"Proportions\" is slightly redundant when referring to multiple categories."
       ],
       "flags": 0,
-      "guid": "a7441385-b125-47a0-abf0-de9f2ae9d63e",
-      "note_model_uuid": "3c8898e1-9723-4abc-a967-545731df1b22",
+      "guid": "cce985f1-b5f3-4ea3-8df6-e5d81ad7defa",
+      "note_model_uuid": "b159c54f-71fd-4f29-95cb-d1abac374fbe",
       "tags": [
         "grammar_vocabulary"
       ]
@@ -274,12 +342,12 @@
       "__type__": "Note",
       "data": "",
       "fields": [
-        "Original: {{c1::...over the course of the decades.}}\nCorrected: {{c2::...over the decades.}}",
-        "Explanation: More concise phrasing."
+        "<div class='original-text'>Original text:<br>\n{{c1::...over the course of the decades.}}</div>\n<div class='improved-text'>Corrected version:<br>\n{{c2::...over the decades.}}</div>",
+        "<b>Explanation:</b><br>More concise phrasing."
       ],
       "flags": 0,
-      "guid": "c5773cd0-ce7c-4173-9ab8-2d4e246d71f6",
-      "note_model_uuid": "3c8898e1-9723-4abc-a967-545731df1b22",
+      "guid": "22e038af-be13-433a-90f2-095ad28bee88",
+      "note_model_uuid": "b159c54f-71fd-4f29-95cb-d1abac374fbe",
       "tags": [
         "grammar_vocabulary"
       ]
@@ -288,12 +356,12 @@
       "__type__": "Note",
       "data": "",
       "fields": [
-        "Original: {{c1::...the expenditures of the average families on housing...}}\nCorrected: {{c2::...the average household expenditure on housing...}}",
-        "Explanation: More precise and concise phrasing."
+        "<div class='original-text'>Original text:<br>\n{{c1::...the expenditures of the average families on housing...}}</div>\n<div class='improved-text'>Corrected version:<br>\n{{c2::...the average household expenditure on housing...}}</div>",
+        "<b>Explanation:</b><br>More precise and concise phrasing."
       ],
       "flags": 0,
-      "guid": "f54ce62f-4a12-4587-ba63-b37b8ec7dae1",
-      "note_model_uuid": "3c8898e1-9723-4abc-a967-545731df1b22",
+      "guid": "700235a1-cd77-47e9-887f-87e04ca8bd04",
+      "note_model_uuid": "b159c54f-71fd-4f29-95cb-d1abac374fbe",
       "tags": [
         "grammar_vocabulary"
       ]
@@ -302,12 +370,12 @@
       "__type__": "Note",
       "data": "",
       "fields": [
-        "Original: {{c1::...the chart shows...}}\nCorrected: {{c2::...the charts show...}}",
-        "Explanation: There are two charts, so use the plural form."
+        "<div class='original-text'>Original text:<br>\n{{c1::...the chart shows...}}</div>\n<div class='improved-text'>Corrected version:<br>\n{{c2::...the charts show...}}</div>",
+        "<b>Explanation:</b><br>There are two charts, so use the plural form."
       ],
       "flags": 0,
-      "guid": "d097de57-092a-40ab-a90c-67fd3a80f74e",
-      "note_model_uuid": "3c8898e1-9723-4abc-a967-545731df1b22",
+      "guid": "e19b6e48-bd2b-44c5-9526-b88d03fbf801",
+      "note_model_uuid": "b159c54f-71fd-4f29-95cb-d1abac374fbe",
       "tags": [
         "grammar_vocabulary"
       ]
@@ -316,12 +384,12 @@
       "__type__": "Note",
       "data": "",
       "fields": [
-        "Original: {{c1::...had undergone changes...}}\nCorrected: {{c2::...underwent changes...}}",
-        "Explanation: Past simple is more concise and fits the context better."
+        "<div class='original-text'>Original text:<br>\n{{c1::...had undergone changes...}}</div>\n<div class='improved-text'>Corrected version:<br>\n{{c2::...underwent changes...}}</div>",
+        "<b>Explanation:</b><br>Past simple is more concise and fits the context better."
       ],
       "flags": 0,
-      "guid": "b5311368-9e0a-436c-bc1f-88c72e7e32f9",
-      "note_model_uuid": "3c8898e1-9723-4abc-a967-545731df1b22",
+      "guid": "3fa50930-c2da-49ae-a891-76711d8f8ed0",
+      "note_model_uuid": "b159c54f-71fd-4f29-95cb-d1abac374fbe",
       "tags": [
         "grammar_vocabulary"
       ]
@@ -330,12 +398,12 @@
       "__type__": "Note",
       "data": "",
       "fields": [
-        "{{c1::Allocation}} (Noun)\nDefinition: {{c2::The action of setting something aside for a purpose}}",
-        "Word Type: Noun"
+        "<div class='section-header'>Vocabulary Term</div>\nWord: {{c1::Allocation}} (Noun)<br>\nDefinition: {{c2::The action of setting something aside for a purpose}}",
+        "<b>Word Type:</b> Noun"
       ],
       "flags": 0,
-      "guid": "4e04d5fc-6178-4934-944a-82d42d23d1c2",
-      "note_model_uuid": "3c8898e1-9723-4abc-a967-545731df1b22",
+      "guid": "54356f80-c320-4512-b187-8d87ff9684b9",
+      "note_model_uuid": "b159c54f-71fd-4f29-95cb-d1abac374fbe",
       "tags": [
         "vocabulary"
       ]
@@ -344,12 +412,12 @@
       "__type__": "Note",
       "data": "",
       "fields": [
-        "{{c1::Expenditure}} (Noun)\nDefinition: {{c2::The act of spending or using money}}",
-        "Word Type: Noun"
+        "<div class='section-header'>Vocabulary Term</div>\nWord: {{c1::Expenditure}} (Noun)<br>\nDefinition: {{c2::The act of spending or using money}}",
+        "<b>Word Type:</b> Noun"
       ],
       "flags": 0,
-      "guid": "a23a7492-c17d-4cfc-b4eb-c533733d01ee",
-      "note_model_uuid": "3c8898e1-9723-4abc-a967-545731df1b22",
+      "guid": "9ee8fcae-1c94-4cc4-bfc3-fd1c8915eefe",
+      "note_model_uuid": "b159c54f-71fd-4f29-95cb-d1abac374fbe",
       "tags": [
         "vocabulary"
       ]
@@ -358,12 +426,12 @@
       "__type__": "Note",
       "data": "",
       "fields": [
-        "{{c1::Consumption}} (Noun)\nDefinition: {{c2::The using up of goods and services}}",
-        "Word Type: Noun"
+        "<div class='section-header'>Vocabulary Term</div>\nWord: {{c1::Consumption}} (Noun)<br>\nDefinition: {{c2::The using up of goods and services}}",
+        "<b>Word Type:</b> Noun"
       ],
       "flags": 0,
-      "guid": "f56b9718-e721-45c4-876c-36cf631dcc31",
-      "note_model_uuid": "3c8898e1-9723-4abc-a967-545731df1b22",
+      "guid": "02dd0b7d-336f-450b-be8c-847d1444d30f",
+      "note_model_uuid": "b159c54f-71fd-4f29-95cb-d1abac374fbe",
       "tags": [
         "vocabulary"
       ]
@@ -372,12 +440,12 @@
       "__type__": "Note",
       "data": "",
       "fields": [
-        "{{c1::Disbursement}} (Noun)\nDefinition: {{c2::The payment of money}}",
-        "Word Type: Noun"
+        "<div class='section-header'>Vocabulary Term</div>\nWord: {{c1::Disbursement}} (Noun)<br>\nDefinition: {{c2::The payment of money}}",
+        "<b>Word Type:</b> Noun"
       ],
       "flags": 0,
-      "guid": "628da06e-f443-4bfa-be5b-992fd8361cf9",
-      "note_model_uuid": "3c8898e1-9723-4abc-a967-545731df1b22",
+      "guid": "b175e217-13b5-4ca7-87ed-a940a60716cf",
+      "note_model_uuid": "b159c54f-71fd-4f29-95cb-d1abac374fbe",
       "tags": [
         "vocabulary"
       ]
@@ -386,12 +454,12 @@
       "__type__": "Note",
       "data": "",
       "fields": [
-        "{{c1::Discretionary}} (Adjective)\nDefinition: {{c2::Available for spending at one's own choice}}",
-        "Word Type: Adjective"
+        "<div class='section-header'>Vocabulary Term</div>\nWord: {{c1::Discretionary}} (Adjective)<br>\nDefinition: {{c2::Available for spending at one's own choice}}",
+        "<b>Word Type:</b> Adjective"
       ],
       "flags": 0,
-      "guid": "594d96ba-a206-40a7-9848-5b49a3183662",
-      "note_model_uuid": "3c8898e1-9723-4abc-a967-545731df1b22",
+      "guid": "381be581-aad6-4ed5-bd08-fd41b6f1a57e",
+      "note_model_uuid": "b159c54f-71fd-4f29-95cb-d1abac374fbe",
       "tags": [
         "vocabulary"
       ]
@@ -400,12 +468,12 @@
       "__type__": "Note",
       "data": "",
       "fields": [
-        "{{c1::Essential}} (Adjective)\nDefinition: {{c2::Absolutely necessary}}",
-        "Word Type: Adjective"
+        "<div class='section-header'>Vocabulary Term</div>\nWord: {{c1::Essential}} (Adjective)<br>\nDefinition: {{c2::Absolutely necessary}}",
+        "<b>Word Type:</b> Adjective"
       ],
       "flags": 0,
-      "guid": "30c5d9f6-5771-43f4-93b1-0e9840d52d4d",
-      "note_model_uuid": "3c8898e1-9723-4abc-a967-545731df1b22",
+      "guid": "d55859e7-4ed6-4ea1-b39e-d7073b77b6de",
+      "note_model_uuid": "b159c54f-71fd-4f29-95cb-d1abac374fbe",
       "tags": [
         "vocabulary"
       ]
@@ -414,12 +482,12 @@
       "__type__": "Note",
       "data": "",
       "fields": [
-        "{{c1::Fluctuation}} (Noun)\nDefinition: {{c2::A variation in amount or level}}",
-        "Word Type: Noun"
+        "<div class='section-header'>Vocabulary Term</div>\nWord: {{c1::Fluctuation}} (Noun)<br>\nDefinition: {{c2::A variation in amount or level}}",
+        "<b>Word Type:</b> Noun"
       ],
       "flags": 0,
-      "guid": "0a6a9127-e605-4b13-bd78-bd8163eb9765",
-      "note_model_uuid": "3c8898e1-9723-4abc-a967-545731df1b22",
+      "guid": "aa12ee31-80ac-48fb-844a-cedf4312dd83",
+      "note_model_uuid": "b159c54f-71fd-4f29-95cb-d1abac374fbe",
       "tags": [
         "vocabulary"
       ]
@@ -428,12 +496,12 @@
       "__type__": "Note",
       "data": "",
       "fields": [
-        "{{c1::Trend}} (Noun)\nDefinition: {{c2::A general direction in which something is developing}}",
-        "Word Type: Noun"
+        "<div class='section-header'>Vocabulary Term</div>\nWord: {{c1::Trend}} (Noun)<br>\nDefinition: {{c2::A general direction in which something is developing}}",
+        "<b>Word Type:</b> Noun"
       ],
       "flags": 0,
-      "guid": "1a815d3a-cac5-4cba-9405-ded562d6b80c",
-      "note_model_uuid": "3c8898e1-9723-4abc-a967-545731df1b22",
+      "guid": "6289e8de-41bd-4775-9518-2ca06fd8dfa2",
+      "note_model_uuid": "b159c54f-71fd-4f29-95cb-d1abac374fbe",
       "tags": [
         "vocabulary"
       ]
@@ -442,12 +510,12 @@
       "__type__": "Note",
       "data": "",
       "fields": [
-        "{{c1::Proportionate}} (Adjective)\nDefinition: {{c2::Having a correct or appropriate relationship}}",
-        "Word Type: Adjective"
+        "<div class='section-header'>Vocabulary Term</div>\nWord: {{c1::Proportionate}} (Adjective)<br>\nDefinition: {{c2::Having a correct or appropriate relationship}}",
+        "<b>Word Type:</b> Adjective"
       ],
       "flags": 0,
-      "guid": "3696d944-8d29-4823-86ed-2d3875912486",
-      "note_model_uuid": "3c8898e1-9723-4abc-a967-545731df1b22",
+      "guid": "f43e54f6-95e4-4254-8ef5-ea5888b82e28",
+      "note_model_uuid": "b159c54f-71fd-4f29-95cb-d1abac374fbe",
       "tags": [
         "vocabulary"
       ]
@@ -456,12 +524,12 @@
       "__type__": "Note",
       "data": "",
       "fields": [
-        "{{c1::Substantially}} (Adverb)\nDefinition: {{c2::To a great extent}}",
-        "Word Type: Adverb"
+        "<div class='section-header'>Vocabulary Term</div>\nWord: {{c1::Substantially}} (Adverb)<br>\nDefinition: {{c2::To a great extent}}",
+        "<b>Word Type:</b> Adverb"
       ],
       "flags": 0,
-      "guid": "2553bb1a-ef00-40d9-b689-1929852ab978",
-      "note_model_uuid": "3c8898e1-9723-4abc-a967-545731df1b22",
+      "guid": "f0b7d074-a8a3-4fe0-aa76-76367d49ba33",
+      "note_model_uuid": "b159c54f-71fd-4f29-95cb-d1abac374fbe",
       "tags": [
         "vocabulary"
       ]
@@ -470,12 +538,12 @@
       "__type__": "Note",
       "data": "",
       "fields": [
-        "{{c1::Marginally}} (Adverb)\nDefinition: {{c2::To a small extent}}",
-        "Word Type: Adverb"
+        "<div class='section-header'>Vocabulary Term</div>\nWord: {{c1::Marginally}} (Adverb)<br>\nDefinition: {{c2::To a small extent}}",
+        "<b>Word Type:</b> Adverb"
       ],
       "flags": 0,
-      "guid": "8222ac2a-ed90-4787-a9e5-f77b73ad4a6d",
-      "note_model_uuid": "3c8898e1-9723-4abc-a967-545731df1b22",
+      "guid": "b9702b25-cdc8-4033-8462-be4f3087bf56",
+      "note_model_uuid": "b159c54f-71fd-4f29-95cb-d1abac374fbe",
       "tags": [
         "vocabulary"
       ]
@@ -484,12 +552,12 @@
       "__type__": "Note",
       "data": "",
       "fields": [
-        "{{c1::Commensurate}} (Adjective)\nDefinition: {{c2::Corresponding in size or degree}}",
-        "Word Type: Adjective"
+        "<div class='section-header'>Vocabulary Term</div>\nWord: {{c1::Commensurate}} (Adjective)<br>\nDefinition: {{c2::Corresponding in size or degree}}",
+        "<b>Word Type:</b> Adjective"
       ],
       "flags": 0,
-      "guid": "1ccb577a-2119-4442-a6eb-951fe921086e",
-      "note_model_uuid": "3c8898e1-9723-4abc-a967-545731df1b22",
+      "guid": "9e770523-9554-40c0-a8b5-4249c26cde02",
+      "note_model_uuid": "b159c54f-71fd-4f29-95cb-d1abac374fbe",
       "tags": [
         "vocabulary"
       ]
@@ -498,12 +566,12 @@
       "__type__": "Note",
       "data": "",
       "fields": [
-        "{{c1::Incremental}} (Adjective)\nDefinition: {{c2::Increasing gradually by regular steps}}",
-        "Word Type: Adjective"
+        "<div class='section-header'>Vocabulary Term</div>\nWord: {{c1::Incremental}} (Adjective)<br>\nDefinition: {{c2::Increasing gradually by regular steps}}",
+        "<b>Word Type:</b> Adjective"
       ],
       "flags": 0,
-      "guid": "8cfafd3d-e24d-43d0-ab4b-2738acf5de72",
-      "note_model_uuid": "3c8898e1-9723-4abc-a967-545731df1b22",
+      "guid": "9a00ec92-519f-46c2-825f-5c3fd40bf924",
+      "note_model_uuid": "b159c54f-71fd-4f29-95cb-d1abac374fbe",
       "tags": [
         "vocabulary"
       ]
@@ -512,12 +580,12 @@
       "__type__": "Note",
       "data": "",
       "fields": [
-        "{{c1::Stagflation}} (Noun)\nDefinition: {{c2::Persistent high inflation combined with high unemployment and slow economic growth}}",
-        "Word Type: Noun"
+        "<div class='section-header'>Vocabulary Term</div>\nWord: {{c1::Stagflation}} (Noun)<br>\nDefinition: {{c2::Persistent high inflation combined with high unemployment and slow economic growth}}",
+        "<b>Word Type:</b> Noun"
       ],
       "flags": 0,
-      "guid": "980bddfc-b564-4401-b7ec-b4b605ca9487",
-      "note_model_uuid": "3c8898e1-9723-4abc-a967-545731df1b22",
+      "guid": "9d66f505-cfdc-4480-9278-604e478bfcdc",
+      "note_model_uuid": "b159c54f-71fd-4f29-95cb-d1abac374fbe",
       "tags": [
         "vocabulary"
       ]
@@ -526,12 +594,12 @@
       "__type__": "Note",
       "data": "",
       "fields": [
-        "{{c1::Demographics}} (Noun)\nDefinition: {{c2::Relating to the structure of populations}}",
-        "Word Type: Noun"
+        "<div class='section-header'>Vocabulary Term</div>\nWord: {{c1::Demographics}} (Noun)<br>\nDefinition: {{c2::Relating to the structure of populations}}",
+        "<b>Word Type:</b> Noun"
       ],
       "flags": 0,
-      "guid": "c00b5fdd-4205-43f2-9314-2158e459fb33",
-      "note_model_uuid": "3c8898e1-9723-4abc-a967-545731df1b22",
+      "guid": "5a7a6772-c9a7-4cdc-ad6a-535da09557e9",
+      "note_model_uuid": "b159c54f-71fd-4f29-95cb-d1abac374fbe",
       "tags": [
         "vocabulary"
       ]
@@ -540,12 +608,12 @@
       "__type__": "Note",
       "data": "",
       "fields": [
-        "Writing Tip - Clear Overview: {{c1::Begin with a concise overview summarizing the main trends.}}",
-        "Category: Clear Overview"
+        "<div class='section-header'>Writing Tip</div>\n<b>Clear Overview</b><br>\n{{c1::Begin with a concise overview summarizing the main trends.}}",
+        "<b>Category:</b> Clear Overview"
       ],
       "flags": 0,
-      "guid": "21c85fe7-5f97-42b3-b953-8232ac75f76b",
-      "note_model_uuid": "3c8898e1-9723-4abc-a967-545731df1b22",
+      "guid": "235d2c11-2c31-4c84-832e-68a2711b578f",
+      "note_model_uuid": "b159c54f-71fd-4f29-95cb-d1abac374fbe",
       "tags": [
         "writing_tips"
       ]
@@ -554,12 +622,12 @@
       "__type__": "Note",
       "data": "",
       "fields": [
-        "Writing Tip - Data-Driven Analysis: {{c1::Support your descriptions with specific data points from the charts.}}",
-        "Category: Data-Driven Analysis"
+        "<div class='section-header'>Writing Tip</div>\n<b>Data-Driven Analysis</b><br>\n{{c1::Support your descriptions with specific data points from the charts.}}",
+        "<b>Category:</b> Data-Driven Analysis"
       ],
       "flags": 0,
-      "guid": "96134d90-e6c0-45f2-b5b3-35afb305a517",
-      "note_model_uuid": "3c8898e1-9723-4abc-a967-545731df1b22",
+      "guid": "ae77d6b4-718f-4ee3-825f-a5c3d453a842",
+      "note_model_uuid": "b159c54f-71fd-4f29-95cb-d1abac374fbe",
       "tags": [
         "writing_tips"
       ]
@@ -568,12 +636,12 @@
       "__type__": "Note",
       "data": "",
       "fields": [
-        "Writing Tip - Precise Language: {{c1::Use precise vocabulary to describe changes (e.g., \"substantial increase,\" \"marginal decrease\").}}",
-        "Category: Precise Language"
+        "<div class='section-header'>Writing Tip</div>\n<b>Precise Language</b><br>\n{{c1::Use precise vocabulary to describe changes (e.g., \"substantial increase,\" \"marginal decrease\").}}",
+        "<b>Category:</b> Precise Language"
       ],
       "flags": 0,
-      "guid": "0e21feda-de86-4f35-b5c3-1274f5e6f091",
-      "note_model_uuid": "3c8898e1-9723-4abc-a967-545731df1b22",
+      "guid": "ed4b7f63-3032-4ccc-82af-3a73384c2a7c",
+      "note_model_uuid": "b159c54f-71fd-4f29-95cb-d1abac374fbe",
       "tags": [
         "writing_tips"
       ]
@@ -582,12 +650,12 @@
       "__type__": "Note",
       "data": "",
       "fields": [
-        "Section: Introduction\nContent: {{c1::Introduction: Briefly introduce the charts and state their purpose. Example: \"The\n                provided charts illustrate the shift in average household spending patterns across several key\n                categories between 1950 and 2010.\"}}",
-        "Writing Section: Introduction"
+        "<div class='section-header'>Writing Structure</div>\n<b>Introduction</b><br>\n{{c1::Introduction: Briefly introduce the charts and state their purpose. Example: \"The\n                provided charts illustrate the shift in average household spending patterns across several key\n                categories between 1950 and 2010.\"}}",
+        "<b>Section:</b> Introduction"
       ],
       "flags": 0,
-      "guid": "39ffee98-1b04-4e73-93ff-affce56258e3",
-      "note_model_uuid": "3c8898e1-9723-4abc-a967-545731df1b22",
+      "guid": "ba6d6ef1-4ff4-47da-9c5e-74c9269ea812",
+      "note_model_uuid": "b159c54f-71fd-4f29-95cb-d1abac374fbe",
       "tags": [
         "writing_structure"
       ]
@@ -596,12 +664,12 @@
       "__type__": "Note",
       "data": "",
       "fields": [
-        "Section: Overview\nContent: {{c1::Overview: Summarize the main trends. Example: \"Overall, the data reveals a significant\n                decrease in the proportion of household income spent on housing, a substantial increase in food\n                expenditure, and relatively minor changes in other categories.\"}}",
-        "Writing Section: Overview"
+        "<div class='section-header'>Writing Structure</div>\n<b>Overview</b><br>\n{{c1::Overview: Summarize the main trends. Example: \"Overall, the data reveals a significant\n                decrease in the proportion of household income spent on housing, a substantial increase in food\n                expenditure, and relatively minor changes in other categories.\"}}",
+        "<b>Section:</b> Overview"
       ],
       "flags": 0,
-      "guid": "707b31ee-4916-4181-a816-ab2f57a987e6",
-      "note_model_uuid": "3c8898e1-9723-4abc-a967-545731df1b22",
+      "guid": "4d397273-c276-4f8b-87e7-85e074bff71e",
+      "note_model_uuid": "b159c54f-71fd-4f29-95cb-d1abac374fbe",
       "tags": [
         "writing_structure"
       ]
@@ -610,12 +678,12 @@
       "__type__": "Note",
       "data": "",
       "fields": [
-        "Section: Body Paragraph 1\nContent: {{c1::Body Paragraph 1: Focus on the most significant changes. Example: \"The most dramatic\n                shift is observed in housing expenditure, which declined from [original percentage]% in 1950 to [final\n                percentage]% in 2010, representing a decrease of approximately [percentage]% points. Conversely,\n                spending on food increased significantly from [original percentage]% to [final percentage]%,\n                representing a rise of approximately [percentage]% points.\"}}",
-        "Writing Section: Body Paragraph 1"
+        "<div class='section-header'>Writing Structure</div>\n<b>Body Paragraph 1</b><br>\n{{c1::Body Paragraph 1: Focus on the most significant changes. Example: \"The most dramatic\n                shift is observed in housing expenditure, which declined from [original percentage]% in 1950 to [final\n                percentage]% in 2010, representing a decrease of approximately [percentage]% points. Conversely,\n                spending on food increased significantly from [original percentage]% to [final percentage]%,\n                representing a rise of approximately [percentage]% points.\"}}",
+        "<b>Section:</b> Body Paragraph 1"
       ],
       "flags": 0,
-      "guid": "7826af84-c5c0-49c9-a055-24cc9eeeabd9",
-      "note_model_uuid": "3c8898e1-9723-4abc-a967-545731df1b22",
+      "guid": "75c6ed5e-54dd-46be-8656-c1a18caeaf48",
+      "note_model_uuid": "b159c54f-71fd-4f29-95cb-d1abac374fbe",
       "tags": [
         "writing_structure"
       ]
@@ -624,12 +692,12 @@
       "__type__": "Note",
       "data": "",
       "fields": [
-        "Section: Body Paragraph 2\nContent: {{c1::Body Paragraph 2: Discuss the less significant changes or remaining categories. Example:\n                \"In contrast to the substantial changes in housing and food, expenditure on transportation experienced a\n                more modest increase, rising from [original percentage]% to [final percentage]%. Other categories, such\n                as healthcare and education, showed relatively little change over the six decades.\"}}",
-        "Writing Section: Body Paragraph 2"
+        "<div class='section-header'>Writing Structure</div>\n<b>Body Paragraph 2</b><br>\n{{c1::Body Paragraph 2: Discuss the less significant changes or remaining categories. Example:\n                \"In contrast to the substantial changes in housing and food, expenditure on transportation experienced a\n                more modest increase, rising from [original percentage]% to [final percentage]%. Other categories, such\n                as healthcare and education, showed relatively little change over the six decades.\"}}",
+        "<b>Section:</b> Body Paragraph 2"
       ],
       "flags": 0,
-      "guid": "37747f19-8f09-478a-8bac-c2a4a241cf5f",
-      "note_model_uuid": "3c8898e1-9723-4abc-a967-545731df1b22",
+      "guid": "7e1d22cb-4441-4aff-b04e-276278ce9c2f",
+      "note_model_uuid": "b159c54f-71fd-4f29-95cb-d1abac374fbe",
       "tags": [
         "writing_structure"
       ]
@@ -638,8 +706,8 @@
   "note_models": [
     {
       "__type__": "NoteModel",
-      "crowdanki_uuid": "3c8898e1-9723-4abc-a967-545731df1b22",
-      "css": "",
+      "crowdanki_uuid": "b159c54f-71fd-4f29-95cb-d1abac374fbe",
+      "css": ".card {\n font-family: Arial;\n font-size: 20px;\n text-align: left;\n color: black;\n background-color: white;\n}\n\n.cloze {\n font-weight: bold;\n color: blue;\n}\n\n.nightMode .cloze {\n color: lightblue;\n}\n\n.section-header {\n font-weight: bold;\n margin-top: 15px;\n margin-bottom: 5px;\n}\n\n.original-text, .improved-text {\n margin: 10px 0;\n padding: 10px;\n background-color: #f5f5f5;\n border-radius: 5px;\n}\n\n.feedback {\n margin-top: 15px;\n padding: 10px;\n background-color: #e8f4f8;\n border-radius: 5px;\n}\n",
       "flds": [
         {
           "font": "Arial",
@@ -676,7 +744,7 @@
       "tags": [],
       "tmpls": [
         {
-          "afmt": "{{cloze:Text}}<br><br>{{Back Extra}}",
+          "afmt": "{{cloze:Text}}<br><br><div class='feedback'>{{Back Extra}}</div>",
           "bafmt": "",
           "bqfmt": "",
           "did": null,

@@ -1,7 +1,11 @@
 from pathlib import Path
 from src.anki import generate_anki_deck
 import json
+import os
 
+from dotenv import load_dotenv
+
+load_dotenv()
 
 if __name__ == "__main__":
 	json_files = Path("raw").glob("*.json")
@@ -13,7 +17,7 @@ if __name__ == "__main__":
 		input_data = json.loads(filepath.read_text(encoding="utf-8"))
 
 		# Generate deck
-		deck = generate_anki_deck(input_data)
+		deck = generate_anki_deck(input_data, os.getenv("DECK_UUID"))
 		assert deck
 
 		# Create output directory if needed
