@@ -1,0 +1,52 @@
+[
+	{
+		"data_paths": ["body_paragraph_1.feedback.grammatical_range", "body_paragraph_1.content"],
+		"instruction": "Identify and correct the grammatical error in this sentence",
+		"type_of_anki_card": "Cloze deletion"
+	},
+	{
+		"data_paths": ["body_paragraph_2.feedback.lexical_resource", "body_paragraph_2.rewrite_suggestion"],
+		"instruction": "Rewrite this sentence using more advanced vocabulary",
+		"type_of_anki_card": "Basic"
+	},
+	{
+		"data_paths": ["overview.feedback.coherence_cohesion", "overview.content", "overview.rewrite_suggestion"],
+		"instruction": "Improve the transitions in this paragraph",
+		"type_of_anki_card": "Basic"
+	},
+	{
+		"data_paths": ["introduction.content", "introduction.rewrite_suggestion"],
+		"instruction": "Compare the original and improved versions. What specific improvements were made?",
+		"type_of_anki_card": "Basic"
+	},
+	{
+		"data_paths": ["body_paragraph_1.feedback.task_response"],
+		"instruction": "What specific issues does this feedback highlight about task response?",
+		"type_of_anki_card": "Basic"
+	},
+	{
+		"data_paths": ["body_paragraph_2.feedback"],
+		"instruction": "Categorize what type of errors are being identified in this feedback",
+		"type_of_anki_card": "Basic"
+	},
+	{
+		"data_paths": ["introduction.feedback.task_response", "introduction.rewrite_suggestion"],
+		"instruction": "What elements make the rewritten introduction more effective?",
+		"type_of_anki_card": "Basic"
+	},
+	{
+		"data_paths": ["body_paragraph_1.content", "body_paragraph_1.feedback.grammatical_range"],
+		"instruction": "Fix the grammatical errors in this paragraph",
+		"type_of_anki_card": "Cloze deletion"
+	},
+	{
+		"data_paths": ["overview.feedback.coherence_cohesion", "overview.rewrite_suggestion"],
+		"instruction": "Identify the transition words used in the improved paragraph and explain why they're effective",
+		"type_of_anki_card": "Basic"
+	},
+	{
+		"data_paths": ["body_paragraph_2.content", "body_paragraph_2.rewrite_suggestion"],
+		"instruction": "Identify the more advanced vocabulary used in the rewritten version",
+		"type_of_anki_card": "Basic"
+	}
+]

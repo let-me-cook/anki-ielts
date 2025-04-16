@@ -6,7 +6,12 @@ readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
     "beautifulsoup4>=4.13.3",
+    "logger>=1.4",
+    "loguru>=0.7.3",
+    "openai>=1.69.0",
+    "pydantic>=2.11.1",
     "python-dotenv>=1.0.1",
+    "result>=0.17.0",
 ]
 
 
