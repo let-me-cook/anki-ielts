@@ -1,0 +1,77 @@
+[[Card]]
+Front = """
+You started with:
+"The 2 maps below **displays** the state of a harbor in the 2000 and today."
+What is the grammatical error with the verb "**displays**"?
+"""
+Back = """
+The subject is "The 2 maps", which is plural. The verb must agree with the subject.
+**Error:** Subject-verb agreement.
+**Correction:** Use the plural verb "display".
+(The 2 maps below **display**...)
+"""
+
+[[Card]]
+Front = """
+Your sentence included the phrase:
+"...a harbor **in the 2000** and today."
+How should you correctly phrase the year "2000"?
+"""
+Back = """
+When referring to a specific year, you usually just use "in" followed by the year.
+**Error:** Incorrect article/preposition usage.
+**Correction:** Use "in 2000" or "in the year 2000".
+(...a harbor **in 2000** and today.)
+"""
+
+[[Card]]
+Front = """
+You used the phrase "**the state of a harbor**" to describe what the maps show.
+How could you make this description more specific for an IELTS map task, and what key piece of information from the map should you include?
+"""
+Back = """
+Instead of a general term like "state", use a more specific word that reflects the task, such as "layout", "configuration", or "changes".
+You should also name the specific place shown in the map.
+**Improvement:** Make it specific and name the place.
+(...display the **changes in Porth Harbour**...)
+(...display the **layout of Porth Harbour**...)
+(...display **how Porth Harbour changed**...)
+"""
+
+[[Card]]
+Front = """
+After some corrections, you wrote:
+"The 2 maps below **displays** the changes of the Porth Harbour in 2000 and today."
+What is the error here? (Hint: Look closely at the subject and verb again).
+"""
+Back = """
+This is the same subject-verb agreement error from before!
+**Error:** Subject-verb agreement. The subject "2 maps" is plural, requires "display".
+**Correction:** Use the plural verb "display".
+(The 2 maps below **display** the changes...)
+"""
+
+[[Card]]
+Front = """
+Your sentence now was:
+"The 2 maps below display **the changes of the Porth Harbour** in 2000 and today."
+How can you phrase "**the changes of the Porth Harbour**" more naturally in English?
+"""
+Back = """
+The phrasing "changes of" is less natural in this context.
+**Improvement:** Use prepositions like "in" or "to", or rephrase with "how... changed".
+(...display the **changes in** Porth Harbour...)
+(...display the **changes to** Porth Harbour...)
+(...display **how Porth Harbour changed**...)
+"""
+
+[[Card]]
+Front = """
+You chose to use "how Porth Harbour changed". Now, how do you correctly connect this idea of change with the timeframe "**2000 and today**"?
+"...display how Porth Harbour **changed** __________ **2000 and today**."
+"""
+Back = """
+When you talk about something changing between two specific points in time, you use the structure "between... and...".
+**Improvement:** Use "between... and..." to connect the change with the timeframe.
+(...display how Porth Harbour changed **between** 2000 **and** today.)
+"""

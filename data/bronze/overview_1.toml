@@ -1,0 +1,287 @@
+[[Card]]
+Front = """
+How can you make the start of this overview sentence more formal and precise for IELTS Task 1?
+"Overall, **there's not a lot of important changes** that happened in the harbour."
+"""
+Back = """
+**Issues:**
+1.  "there's not a lot" is informal and vague.
+2.  "important changes" is subjective; better to state the degree or list the changes.
+
+**Improvement:** Use formal vocabulary to summarise the scale of change.
+- Overall, the harbour underwent **moderate/significant/several changes**.
+- Overall, **there were few/several/many changes** to the harbour.
+"""
+
+[[Card]]
+Front = """
+Correct the informal language in this sentence part:
+"**There's** a new dock that has been built."
+"""
+Back = """
+**Issue:** "There's" is an informal contraction ("there is").
+
+**Improvement:** Avoid contractions in formal writing.
+- **There was** a new dock... (if describing a completed past addition)
+- **A new dock has been built**... (rephrased sentence)
+"""
+
+[[Card]]
+Front = """
+Correct the verb tense in this sentence describing a change visible in the 'today' map:
+"A disused castle **had been converted** to a hotel."
+"""
+Back = """
+**Issue:** "had been converted" (past perfect passive) is for an action before *another* past action.
+
+**Improvement:** Use simple past passive or present perfect passive for completed changes relevant now.
+- A disused castle **was converted** to a hotel.
+- A disused castle **has been converted** to a hotel. (Links the past action to the present result)
+"""
+
+[[Card]]
+Front = """
+Explain the difference in meaning between:
+"**few** new roads"
+"**a few** new roads"
+"""
+Back = """
+**Difference:**
+- **Few** (without 'a'): Means 'almost none'; implies a scarcity (negative).
+- **A few** (with 'a'): Means 'some' or 'a small number' (more neutral).
+
+**Application:** If you see a small number (e.g., 2 or 3), use "a few". Use "few" only if there are very, very few, almost zero.
+"""
+
+[[Card]]
+Front = """
+Correct the subject-verb agreement error:
+"...a few new roads **has been introduced**."
+"""
+Back = """
+**Issue:** Subject "roads" is plural, but the verb "has been introduced" uses the singular "has".
+
+**Correction:** The verb must be plural to agree with the subject.
+-...a few new roads **have been introduced**.
+-...a few changes were made to the road layout. (Often better phrasing)
+"""
+
+[[Card]]
+Front = """
+Is it appropriate to start a sentence in an IELTS Task 1 overview paragraph with "**And**"?
+"""
+Back = """
+**Rule:** Avoid starting sentences with "And" in formal academic writing.
+
+**Improvement:**
+- Remove "And" if listing points.
+- Use a more formal connector like "Furthermore,", "In addition,", or rephrase to link ideas differently.
+"""
+
+[[Card]]
+Front = """
+Improve the phrasing for describing road changes, avoiding redundancy:
+"a few changes on the road **where the road layout was altered**."
+"""
+Back = """
+**Issue:** This phrasing is wordy and redundant ("changes on the road where the layout was altered").
+
+**Improvement:** State the change directly and concisely.
+- **A few changes were made to the road layout**.
+- The road layout underwent a few alterations.
+"""
+
+[[Card]]
+Front = """
+What types of **major changes or new features** should definitely be considered for inclusion in an IELTS map Task 1 overview?
+"""
+Back = """
+Look for:
+- **Major constructions:** new buildings (hotel, cafe, shops), new dock, new roads.
+- **Expansion or Reduction:** of areas (marina, beach, car parks).
+- **Change in Function:** (public to private beach, disused building to hotel).
+- **Removal of Features:** (showers, old buildings).
+- **Significant shifts in layout:** (major road alterations, relocation of main areas - *check map carefully!*)
+"""
+
+[[Card]]
+Front = """
+Why is **factual accuracy** essential when describing the map in IELTS Task 1, especially in the overview? (Example: Describing a marina *expansion* vs a marina/fishing boat *swap*).
+"""
+Back = """
+**Importance:** Describing the visual accurately is critical for your **Task Achievement** score.
+
+**Principle:** Your description must match the diagram provided. Misinterpreting labels or relative positions (like confusing expansion with a swap, or claiming a whole area was privatized when only a part was) leads to factual errors and lowers your score. Always double-check the visual evidence.
+"""
+
+[[Card]]
+Front = """
+Why is the phrase "**in the map**" often redundant when describing features or changes in an IELTS Task 1 response?
+(e.g., "...a part of the public beach **in the map** is now private...")
+"""
+Back = """
+**Issue:** You are already describing information taken *from* the map. Stating "in the map" or "shown in the map" is usually unnecessary unless you need to distinguish it from information *not* in the map.
+
+**Improvement:** Describe the feature or change directly.
+- ...a part of the public beach is now a private beach...
+"""
+
+[[Card]]
+Front = """
+In an IELTS map Task 1 overview, what is the difference between **excessive detail** (to avoid) and describing a **major spatial or functional transformation** (to include)?
+"""
+Back = """
+- **Excessive Detail:** Specific relative locations (e.g., "to the east of the old dock"), precise measurements, exact numbers (beyond "a few"). Keep these for body paragraphs.
+- **Major Transformation:** Describing that a key area (like the beach or marina) underwent a significant change in its layout, size, or function (e.g., beach divided into public/private, marina greatly expanded). These are major changes *of location/space/function* and should be summarised in the overview.
+"""
+
+[[Card]]
+Front = """
+In an IELTS Task 1 overview or body paragraph, how can you use formal connectors to introduce additional points or changes?
+(e.g., adding the cafe/showers change after listing others)
+"""
+Back = """
+Use formal transition words at the start of the sentence, followed by a comma:
+- **Furthermore,** ...
+- **In addition,** ...
+- **Moreover,** ...
+- **Also,** ... (Slightly less formal but acceptable)
+"""
+
+[[Card]]
+Front = """
+How can the word "**while**" be used to connect two changes happening at the same time or in related locations in a map description?
+(e.g., describing a construction and a removal in the same area)
+"""
+Back = """
+Use "while" to link two actions or states that occur concurrently or are related spatially/thematically, often to show a slight contrast or parallel:
+- A new cafe has been constructed **while** the showers and toilet building has been removed.
+- The marina was expanded **while** the fishing boats area remained unchanged.
+"""
+
+[[Card]]
+Front = """
+Why is the **passive voice** (e.g., "has been built", "was converted", "were removed") used so frequently when describing changes in an IELTS map Task 1?
+"""
+Back = """
+The passive voice is common because the **focus is on the action/change and its result**, not on who performed the action (which is unknown or irrelevant in a map).
+
+Structure: Subject + be (correct tense) + Past Participle
+- A new dock **has been built**.
+- A castle **was converted**.
+- Changes **were made**.
+"""
+
+[[Card]]
+Front = """
+What are some good alternative verbs for describing the addition or creation of new structures like docks, buildings, or roads, other than just "built" or "constructed"?
+"""
+Back = """
+Consider these verbs depending on the context:
+- **added:** A new dock was **added**.
+- **constructed:** A cafe was **constructed**.
+- **erected:** New buildings were **erected**. (Often for taller structures)
+- **developed:** New facilities were **developed**. (More general)
+- **laid:** New roads were **laid**. (Specific for roads)
+- **installed:** New facilities were **installed**. (For equipment/features)
+"""
+
+[[Card]]
+Front = """
+What are some ways to describe features that were **removed** or **no longer exist** in the 'today' map compared to the past map?
+(e.g., the showers and toilet building)
+"""
+Back = """
+Use passive voice or phrases indicating absence:
+- The building **was removed**.
+- The building **was demolished**.
+- The building **no longer exists**.
+- The original feature **was replaced** by...
+- The area **was cleared**.
+"""
+
+[[Card]]
+Front = """
+Throughout our chat, I often made this grammatical error:
+Using a singular verb form when the subject was plural.
+
+Correct these examples:
+- "The 2 maps below **displays**..."
+- "...a few new roads **has** been introduced."
+"""
+Back = """
+**My Common Mistake:** Subject-Verb Agreement (with plural subjects).
+
+**Rule:** A plural subject (like "The 2 maps", "few new roads", "changes") requires a plural verb form ("display", "have been introduced", "were made").
+
+**Corrected:**
+- "The 2 maps below **display**..."
+- "...a few new roads **have** been introduced."
+"""
+
+[[Card]]
+Front = """
+I consistently used informal language and contractions.
+
+How should I make these examples formal for IELTS Academic Writing?
+- "**There's** not a lot..."
+- "**There's** a new dock..."
+"""
+Back = """
+**My Common Mistake:** Using informal language and contractions.
+
+**Rule:** Avoid contractions (like "there's", "it's", "isn't") and informal phrases ("not a lot", "barely") in formal writing.
+
+**Improvement:**
+- Overall, the harbour underwent **few/moderate/significant changes**. (Formal summary)
+- **A new dock has been built**... OR **There was/is a new dock**... (Rephrased for formality)
+"""
+
+[[Card]]
+Front = """
+I was unsure about the difference between "**few**" and "**a few**" when describing numbers of items or changes.
+
+What is the meaning difference, and when should I use each?
+"""
+Back = """
+**My Common Mistake:** Confusing "few" and "a few".
+
+**Rule:**
+- **Few** (without 'a'): Means 'almost none'; very small number (implies scarcity/negative).
+- **A few** (with 'a'): Means 'some'; a small, but existing, number.
+
+**Use:** If you see a small, countable number (like 2 or 3 changes/items), use "**a few**". Use "few" only if the number is extremely low, almost zero.
+"""
+
+[[Card]]
+Front = """
+I struggled with creating concise and natural-sounding phrases for descriptions.
+
+How can I improve phrasing like:
+- "the changes **of the Porth Harbour**"
+- "a few changes on the road **where the road layout was altered**"
+"""
+Back = """
+**My Common Mistake:** Wordy, awkward, or unnatural phrasing.
+
+**Rule:** Aim for directness and use natural prepositions. Avoid redundancy.
+
+**Improvement:**
+- Use "changes **in**" or "changes **to**". Specify the place name directly ("...changes **in Porth Harbour**...").
+- Combine ideas concisely: "**A few changes were made to the road layout**". Don't explain a change by repeating the idea awkwardly.
+"""
+
+[[Card]]
+Front = """
+I had difficulty accurately interpreting parts of the map based on labels and positions, particularly regarding the marina and fishing boats, leading to a potential factual error (thinking they swapped).
+
+For IELTS, how can I ensure factual accuracy when describing map changes?
+"""
+Back = """
+**My Common Mistake:** Potential misinterpretation of map details.
+
+**Rule:**
+- **Look very closely at all labels** in *both* time periods.
+- Compare the **relative positions** of features in both maps.
+- Describe exactly what the labels and positions show, rather than making assumptions based on size or general appearance alone. The labels are definitive.
+"""
