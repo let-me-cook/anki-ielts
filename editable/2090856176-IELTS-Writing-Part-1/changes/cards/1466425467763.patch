@@ -1,0 +1,5 @@
+--- a/text
++++ b/text
+@@ -1 +1 @@
+-<div>Q: Vocabulary to show the changes: <b>Steadiness</b></div><div><b><br /></b></div><div>A: {{c1::unchanged}} / {{c2::level out}} / {{c3::remain constant}} / {{c4::remain steady}} / {{c5::remain stable}} / {{c6::remain static}}</div><div><br /></div>
++<div><b>No-change phrases</b></div><div>1. The figure can {{c1::remain stable}} throughout the period.</div><div>2. The value can {{c2::remain constant}} for several years.</div><div>3. The share can {{c3::remain steady}} over time.</div><div>4. The rate can {{c4::stay the same}} from 2000 to 2010.</div><div>5. The trend can {{c5::show no change}} across the period.</div><div>6. The total can {{c6::remain unchanged}} despite changes elsewhere.</div>

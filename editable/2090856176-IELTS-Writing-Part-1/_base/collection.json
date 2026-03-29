@@ -1,0 +1,183 @@
+{
+  "id": 1,
+  "created": 1456977600,
+  "modified": 1572119385377,
+  "schema_modified": 1572119385357,
+  "version": 11,
+  "dirty": 0,
+  "update_sequence_number": 0,
+  "last_sync": 0,
+  "config": {
+    "activeDecks": [
+      1
+    ],
+    "curDeck": 1,
+    "newSpread": 0,
+    "collapseTime": 1200,
+    "timeLim": 0,
+    "estTimes": true,
+    "dueCounts": true,
+    "curModel": "1572119385358",
+    "nextPos": 1,
+    "sortType": "noteFld",
+    "sortBackwards": false,
+    "addToCur": true,
+    "dayLearnFirst": false,
+    "newBury": true
+  },
+  "models": {
+    "1457031991333": {
+      "tmpls": [
+        {
+          "afmt": "{{cloze:Text}}<br>\n{{Extra}}",
+          "name": "Cloze",
+          "qfmt": "{{cloze:Text}}",
+          "did": null,
+          "ord": 0,
+          "bafmt": "",
+          "bqfmt": ""
+        }
+      ],
+      "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n\n.cloze {\n font-weight: bold;\n color: blue;\n}",
+      "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+      "did": 1549103560500,
+      "tags": [],
+      "flds": [
+        {
+          "font": "Arial",
+          "media": [],
+          "name": "Text",
+          "rtl": false,
+          "ord": 0,
+          "sticky": false,
+          "size": 20
+        },
+        {
+          "font": "Arial",
+          "media": [],
+          "name": "Extra",
+          "rtl": false,
+          "ord": 1,
+          "sticky": false,
+          "size": 20
+        }
+      ],
+      "id": "1457031991333",
+      "name": "Cloze",
+      "type": 1,
+      "latexPost": "\\end{document}",
+      "sortf": 0,
+      "vers": [],
+      "usn": 93,
+      "mod": 1549224230
+    }
+  },
+  "decks": {
+    "1": {
+      "newToday": [
+        0,
+        0
+      ],
+      "revToday": [
+        0,
+        0
+      ],
+      "lrnToday": [
+        0,
+        0
+      ],
+      "timeToday": [
+        0,
+        0
+      ],
+      "conf": 1,
+      "usn": 0,
+      "desc": "",
+      "dyn": 0,
+      "collapsed": false,
+      "extendNew": 10,
+      "extendRev": 50,
+      "id": 1,
+      "name": "Default",
+      "mod": 1572119385
+    },
+    "1466416331727": {
+      "desc": "Please see the <a href='https://ankiweb.net/shared/info/2090856176'>shared deck page</a> for more info.",
+      "name": "IELTS Writing part 1 ",
+      "extendRev": 50,
+      "usn": -1,
+      "collapsed": false,
+      "browserCollapsed": true,
+      "newToday": [
+        1332,
+        0
+      ],
+      "mid": "1457031991333",
+      "dyn": 0,
+      "extendNew": 10,
+      "lrnToday": [
+        1332,
+        0
+      ],
+      "conf": 1,
+      "revToday": [
+        1332,
+        0
+      ],
+      "timeToday": [
+        1332,
+        0
+      ],
+      "id": 1466416331727,
+      "mod": 1572119385
+    }
+  },
+  "deck_config": {
+    "1": {
+      "name": "Default",
+      "new": {
+        "delays": [
+          1,
+          10
+        ],
+        "ints": [
+          1,
+          4,
+          7
+        ],
+        "initialFactor": 2500,
+        "separate": true,
+        "order": 1,
+        "perDay": 20,
+        "bury": false
+      },
+      "lapse": {
+        "delays": [
+          10
+        ],
+        "mult": 0,
+        "minInt": 1,
+        "leechFails": 8,
+        "leechAction": 0
+      },
+      "rev": {
+        "perDay": 200,
+        "ease4": 1.3,
+        "fuzz": 0.05,
+        "minSpace": 1,
+        "ivlFct": 1,
+        "maxIvl": 36500,
+        "bury": false,
+        "hardFactor": 1.2
+      },
+      "maxTaken": 60,
+      "timer": 0,
+      "autoplay": true,
+      "replayq": true,
+      "mod": 0,
+      "usn": 0,
+      "id": 1
+    }
+  },
+  "tags": {}
+}

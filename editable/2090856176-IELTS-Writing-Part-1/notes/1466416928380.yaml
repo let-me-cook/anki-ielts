@@ -1,0 +1,17 @@
+id: 1466416928380
+guid: Nc%U|i<3:V
+model_id: 1457031991333
+model_name: Cloze
+tags:
+- CommonNetworkPorts
+expected_card_ords:
+- 0
+fields:
+  Text: 'Q: While most water in Egypt is used for agriculture, in Canada it is {{c1::predominantly}} (преимущественно)
+    used for industry. &nbsp;'
+  Extra: ''
+plain_fields:
+  Text: 'Q: While most water in Egypt is used for agriculture, in Canada it is {{c1::predominantly}} (преимущественно)
+    used for industry.'
+  Extra: ''
+media_refs: []

@@ -1,0 +1,5 @@
+--- a/text
++++ b/text
+@@ -1 +1 @@
+-Q: “B” is {{c1::located}} / {{c2::situated}} / {{c3::lies}} north east of Dartford.&nbsp;
++<div><b>Map language</b></div><div>1. B is {{c1::located}} to the northeast of Dartford.</div><div>2. B is {{c2::situated}} to the northeast of Dartford.</div><div>3. B {{c3::lies}} to the northeast of Dartford.</div>

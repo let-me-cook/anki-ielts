@@ -1,0 +1,5 @@
+--- a/text
++++ b/text
+@@ -1 +1 @@
+-Q: The chart {{c1::shows}} / {{c2::illustrates}} / {{c3::gives information about.}}&nbsp;
++<div><b>Introduction verbs</b></div><div>1. The chart {{c1::shows}} the overall trend.</div><div>2. The chart {{c2::illustrates}} the overall trend.</div><div>3. The chart {{c3::provides information about}} the overall trend.</div>

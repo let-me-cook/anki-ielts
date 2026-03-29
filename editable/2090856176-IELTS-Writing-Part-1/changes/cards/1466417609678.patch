@@ -1,0 +1,5 @@
+--- a/text
++++ b/text
+@@ -1 +1 @@
+-<div>Q: Name the adjectives describing amount a lot less than certain figure.</div><div><br /></div><div>A: {{c1::Well under}} 30 / {{c2::considerably less than}} 30.</div><div><br /></div>
++<div><b>Well below 30</b></div><div>1. Sales were {{c1::well under}} 30%.</div><div>2. The figure was {{c2::considerably less than}} 30.</div>

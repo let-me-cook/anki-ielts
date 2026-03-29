@@ -1,0 +1,15 @@
+id: 1466417425652
+guid: ts/u/MEcZe
+model_id: 1457031991333
+model_name: Cloze
+tags: []
+expected_card_ords:
+- 0
+- 1
+fields:
+  Text: 'Q: {{c1::Much}} and {{c2::little}} are used with<b> uncountable nouns.&nbsp;</b>'
+  Extra: ''
+plain_fields:
+  Text: 'Q: {{c1::Much}} and {{c2::little}} are used with uncountable nouns.'
+  Extra: ''
+media_refs: []

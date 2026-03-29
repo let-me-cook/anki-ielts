@@ -1,0 +1,5 @@
+--- a/text
++++ b/text
+@@ -1 +1 @@
+-Q: While there was a significant {{c1::rise}} / {{c2::increase}} / {{c3::growth}} in spending on rent there was {{c4::little change}} in the amount spent on the two other items.&nbsp;
++<div><b>Change language</b></div><div>1. There was a significant {{c1::rise}} in rent spending.</div><div>2. There was a significant {{c2::increase}} in rent spending.</div><div>3. There was significant {{c3::growth}} in rent spending.</div><div>4. The other two items showed {{c4::little change}}.</div>

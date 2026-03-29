@@ -1,0 +1,19 @@
+id: 1466417271378
+guid: uA=JXD[62I
+model_id: 1457031991333
+model_name: Cloze
+tags: []
+expected_card_ords:
+- 0
+- 1
+- 2
+fields:
+  Text: '<div>Q: The amount of energy produced by oil in the USA <b>was</b> 42% in 1980.&nbsp;</div><div><br
+    /></div><div>A: {{c1::accounted for}} / {{c2::comprised of}} / {{c3::made up &nbsp;}}</div><div><br
+    /></div>'
+  Extra: ''
+plain_fields:
+  Text: "Q: The amount of energy produced by oil in the USA was 42% in 1980. \nA: {{c1::accounted for}}\
+    \ / {{c2::comprised of}} / {{c3::made up  }}"
+  Extra: ''
+media_refs: []

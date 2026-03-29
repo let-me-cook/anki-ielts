@@ -1,0 +1,5 @@
+--- a/text
++++ b/text
+@@ -1 +1 @@
+-<div>Q: The amount of energy produced by oil in the USA <b>was</b> 42% in 1980.&nbsp;</div><div><br /></div><div>A: {{c1::accounted for}} / {{c2::comprised of}} / {{c3::made up &nbsp;}}</div><div><br /></div>
++<div><b>Describing proportions</b></div><div>1. Oil {{c1::accounted for}} 42% of US energy production in 1980.</div><div>2. Oil {{c2::made up}} 42% of US energy production in 1980.</div><div>3. Oil {{c3::constituted}} 42% of US energy production in 1980.</div>

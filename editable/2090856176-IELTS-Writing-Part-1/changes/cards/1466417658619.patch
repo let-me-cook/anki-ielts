@@ -1,0 +1,5 @@
+--- a/text
++++ b/text
+@@ -1 +1 @@
+-<div>Q: Name the adjectives describing amount “almost the same” certain figure.</div><div><br /></div><div>A: {{c1::approximately}} / {{c2::around}} / {{c3::more or less.}}&nbsp;</div><div><br /></div>
++<div><b>Close to 30</b></div><div>1. The figure was {{c1::approximately}} 30%.</div><div>2. The share was {{c2::around}} 30%.</div><div>3. The result was {{c3::more or less}} 30.</div>

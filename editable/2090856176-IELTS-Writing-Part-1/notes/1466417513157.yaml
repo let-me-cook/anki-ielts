@@ -1,0 +1,16 @@
+id: 1466417513157
+guid: f|%#aU}7GO
+model_id: 1457031991333
+model_name: Cloze
+tags: []
+expected_card_ords:
+- 0
+fields:
+  Text: '&nbsp;Q: There was a {{c1::steady increase}} (постепенное увеличение) in the number of people
+    becoming vegetarian from about 75 to 200 between 2004 and 2007.&nbsp;'
+  Extra: ''
+plain_fields:
+  Text: 'Q: There was a {{c1::steady increase}} (постепенное увеличение) in the number of people becoming
+    vegetarian from about 75 to 200 between 2004 and 2007.'
+  Extra: ''
+media_refs: []

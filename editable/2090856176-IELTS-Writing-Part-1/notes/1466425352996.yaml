@@ -1,0 +1,21 @@
+id: 1466425352996
+guid: b-=&*i:5}7
+model_id: 1457031991333
+model_name: Cloze
+tags: []
+expected_card_ords:
+- 0
+- 1
+- 2
+- 3
+- 4
+fields:
+  Text: '<div>Q: Vocabulary for the General Trends Part:&nbsp;</div><div><br /></div><div>A: {{c1::in
+    general}} / {{c2::in common}} / {{c3::as is presented}} / {{c4::generally speaking}} / {{c5::as is
+    observed}}</div><div><br /></div>'
+  Extra: ''
+plain_fields:
+  Text: "Q: Vocabulary for the General Trends Part: \nA: {{c1::in general}} / {{c2::in common}} / {{c3::as\
+    \ is presented}} / {{c4::generally speaking}} / {{c5::as is observed}}"
+  Extra: ''
+media_refs: []

@@ -1,0 +1,17 @@
+id: 1466416812508
+guid: P%l[98%7~L
+model_id: 1457031991333
+model_name: Cloze
+tags:
+- CommonNetworkPorts
+expected_card_ords:
+- 0
+fields:
+  Text: 'Q: Overall, salt water {{c1::makes up}} (составляет) an overwhelming majority of the world`s
+    water. &nbsp;'
+  Extra: ''
+plain_fields:
+  Text: 'Q: Overall, salt water {{c1::makes up}} (составляет) an overwhelming majority of the world`s
+    water.'
+  Extra: ''
+media_refs: []

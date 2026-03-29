@@ -1,0 +1,21 @@
+id: 1466417306792
+guid: N9TR0ZQf1T
+model_id: 1457031991333
+model_name: Cloze
+tags: []
+expected_card_ords:
+- 0
+- 1
+- 2
+- 3
+fields:
+  Text: '<div>Q: The amount of energy produced by oil in the USA was 42% in 1980 and this, then, <b>fell</b>
+    to a third (33%) in 1990.&nbsp;</div><div><br /></div><div>A: {{c1::declined}} / {{c2::dropped}} /
+    {{c3::went down}} / {{c4::decreased&nbsp;}}</div><div><br /></div>'
+  Extra: ''
+plain_fields:
+  Text: "Q: The amount of energy produced by oil in the USA was 42% in 1980 and this, then, fell to a\
+    \ third (33%) in 1990. \nA: {{c1::declined}} / {{c2::dropped}} / {{c3::went down}} / {{c4::decreased\
+    \ }}"
+  Extra: ''
+media_refs: []

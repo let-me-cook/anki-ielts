@@ -1,0 +1,5 @@
+--- a/text
++++ b/text
+@@ -1 +1 @@
+-<div>Q: Vocabulary for the Introduction Part: <b>Description</b></div><div><br /></div><div>A: {{c1::the comparison of}} / {{c2::the differences}} / {{c3::the number of}} / {{c4::information on}} / {{c5::data on}} / {{c6::the proportion of}} / {{c7::the amount of}} / {{c8::information on}}</div><div><br /></div>
++<div><b>Description phrases</b></div><div>1. the {{c1::comparison of}} spending in two countries</div><div>2. the {{c2::differences between}} urban and rural areas</div><div>3. the {{c3::number of}} cars sold each year</div><div>4. the {{c4::percentage of}} households with internet access</div><div>5. the {{c5::proportion of}} energy from renewables</div><div>6. the {{c6::amount of}} water used in agriculture</div><div>7. the {{c7::changes in}} population size</div><div>8. the {{c8::data on}} monthly rainfall</div>

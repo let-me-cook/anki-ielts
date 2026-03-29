@@ -1,0 +1,24 @@
+id: 1466425421136
+guid: NjH]?SDfN(
+model_id: 1457031991333
+model_name: Cloze
+tags: []
+expected_card_ords:
+- 0
+- 1
+- 2
+- 3
+- 4
+- 5
+- 6
+fields:
+  Text: '<div>Q: Vocabulary to show the changes: <b>Decrease</b></div><div><br /></div><div>A: {{c1::fall}}
+    / {{c2::decrease}} / {{c3::decline}} / {{c4::plummet}} / {{c5::plunge}} / {{c6::drop}} / {{c7::reduce}}</div><div>&nbsp;</div>'
+  Extra: ''
+plain_fields:
+  Text: 'Q: Vocabulary to show the changes: Decrease
+
+    A: {{c1::fall}} / {{c2::decrease}} / {{c3::decline}} / {{c4::plummet}} / {{c5::plunge}} / {{c6::drop}}
+    / {{c7::reduce}}'
+  Extra: ''
+media_refs: []

@@ -1,29 +1,11 @@
 [project]
 name = "anki-ielts"
 version = "0.1.0"
-description = "Add your description here"
-readme = "README.md"
-requires-python = ">=3.12"
+description = "Utilities for fetching shared Anki decks into raw/"
+requires-python = ">=3.9"
 dependencies = [
-    "beautifulsoup4>=4.13.3",
-    "logger>=1.4",
-    "loguru>=0.7.3",
-    "openai>=1.69.0",
-    "pydantic>=2.11.1",
-    "python-dotenv>=1.0.1",
-    "result>=0.17.0",
+  "PyYAML>=6.0,<7",
 ]
 
-
-[tool.hatch.build.targets.wheel]
-packages = ["src"]
-
-[build-system]
-requires = ["hatchling"]
-build-backend = "hatchling.build"
-
-[tool.ruff]
-indent-width = 4
-
-[tool.ruff.format]
-indent-style = "tab"
+[tool.uv]
+package = false

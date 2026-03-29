@@ -1,0 +1,18 @@
+id: 1466416397068
+guid: Es$5DQ:!lC
+model_id: 1457031991333
+model_name: Cloze
+tags:
+- CommonNetworkPorts
+expected_card_ords:
+- 0
+- 1
+fields:
+  Text: 'Q: {{c1::In terms of cars}}, the UK spent around £450k on this {{c2::as opposed to}} exactly
+    £400k in France.'
+  Extra: ''
+plain_fields:
+  Text: 'Q: {{c1::In terms of cars}}, the UK spent around £450k on this {{c2::as opposed to}} exactly
+    £400k in France.'
+  Extra: ''
+media_refs: []

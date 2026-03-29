@@ -1,0 +1,26 @@
+id: 1466425198222
+guid: x#sFBpy-Dn
+model_id: 1457031991333
+model_name: Cloze
+tags: []
+expected_card_ords:
+- 0
+- 1
+- 2
+- 3
+- 4
+- 5
+- 6
+- 7
+fields:
+  Text: '<div>Q: Vocabulary for the Introduction Part: <b>Verb</b></div><div><br /></div><div>A: {{c1::represents}}
+    / {{c2::depicts}} / {{c3::presents}}/ {{c4::gives}} / {{c5::compares}}/ {{c6::gives information on}}/
+    {{c7::presents information about}} / {{c8::shows data about}}</div><div><br /></div>'
+  Extra: ''
+plain_fields:
+  Text: 'Q: Vocabulary for the Introduction Part: Verb
+
+    A: {{c1::represents}} / {{c2::depicts}} / {{c3::presents}}/ {{c4::gives}} / {{c5::compares}}/ {{c6::gives
+    information on}}/ {{c7::presents information about}} / {{c8::shows data about}}'
+  Extra: ''
+media_refs: []

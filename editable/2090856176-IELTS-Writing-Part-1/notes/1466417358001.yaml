@@ -1,0 +1,19 @@
+id: 1466417358001
+guid: uK9<r:/.{D
+model_id: 1457031991333
+model_name: Cloze
+tags: []
+expected_card_ords:
+- 0
+- 1
+- 2
+fields:
+  Text: '<div>Q: The proportion of energy from hydroelectric power, <b>…</b> remained constant in both
+    years at a mere 5%.&nbsp;</div><div><br /></div><div>A: {{c1::on the other hand}} / {{c2::by contrast}}
+    / {{c3::in contrast}}</div><div><br /></div>'
+  Extra: ''
+plain_fields:
+  Text: "Q: The proportion of energy from hydroelectric power, … remained constant in both years at a\
+    \ mere 5%. \nA: {{c1::on the other hand}} / {{c2::by contrast}} / {{c3::in contrast}}"
+  Extra: ''
+media_refs: []

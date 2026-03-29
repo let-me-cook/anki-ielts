@@ -1,0 +1,18 @@
+id: 1466417609678
+guid: DxTd&*M-v,
+model_id: 1457031991333
+model_name: Cloze
+tags: []
+expected_card_ords:
+- 0
+- 1
+fields:
+  Text: '<div>Q: Name the adjectives describing amount a lot less than certain figure.</div><div><br /></div><div>A:
+    {{c1::Well under}} 30 / {{c2::considerably less than}} 30.</div><div><br /></div>'
+  Extra: ''
+plain_fields:
+  Text: 'Q: Name the adjectives describing amount a lot less than certain figure.
+
+    A: {{c1::Well under}} 30 / {{c2::considerably less than}} 30.'
+  Extra: ''
+media_refs: []

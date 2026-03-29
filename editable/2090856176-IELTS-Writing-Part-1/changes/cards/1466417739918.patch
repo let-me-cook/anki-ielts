@@ -1,0 +1,5 @@
+--- a/text
++++ b/text
+@@ -1 +1 @@
+-<div>Q: Name the adjectives describing amount well over certain figure.</div><div><br /></div><div>A: {{c1::Well over 20}} / {{c2::considerably more than 20}}.</div><div><br /></div>
++<div><b>Well above 20</b></div><div>1. Sales were {{c1::well over}} 20 units.</div><div>2. The figure was {{c2::considerably more than}} 20.</div>

@@ -1,0 +1,5 @@
+--- a/text
++++ b/text
+@@ -1 +1 @@
+-<div>Q: The amount of energy produced by oil in the USA was 42% in 1980 and this, then, <b>fell</b> to a third (33%) in 1990.&nbsp;</div><div><br /></div><div>A: {{c1::declined}} / {{c2::dropped}} / {{c3::went down}} / {{c4::decreased&nbsp;}}</div><div><br /></div>
++<div><b>Describing a fall</b></div><div>1. The share of oil {{c1::declined}} from 42% in 1980 to 33% in 1990.</div><div>2. The share of oil {{c2::dropped}} from 42% in 1980 to 33% in 1990.</div><div>3. The share of oil {{c3::went down}} from 42% in 1980 to 33% in 1990.</div><div>4. The share of oil {{c4::decreased}} from 42% in 1980 to 33% in 1990.</div>

@@ -1,0 +1,18 @@
+id: 1466417225445
+guid: I^X4@qB(Mr
+model_id: 1457031991333
+model_name: Cloze
+tags: []
+expected_card_ords:
+- 0
+- 1
+- 2
+fields:
+  Text: 'Q: Regarding the table, the value of imports {{c1::started at}} $6 billion in the first year,
+    {{c2::increasing to}} $8 in 1992 and {{c3::reaching}} $10 in the last year.&nbsp;'
+  Extra: ''
+plain_fields:
+  Text: 'Q: Regarding the table, the value of imports {{c1::started at}} $6 billion in the first year,
+    {{c2::increasing to}} $8 in 1992 and {{c3::reaching}} $10 in the last year.'
+  Extra: ''
+media_refs: []

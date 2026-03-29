@@ -1,0 +1,15 @@
+id: 1466416734961
+guid: P1}iE>rHi9
+model_id: 1457031991333
+model_name: Cloze
+tags:
+- CommonNetworkPorts
+expected_card_ords:
+- 0
+fields:
+  Text: 'Q: Overall, the expenditure of the UK was higher {{c1::than that}} of the France.&nbsp;'
+  Extra: ''
+plain_fields:
+  Text: 'Q: Overall, the expenditure of the UK was higher {{c1::than that}} of the France.'
+  Extra: ''
+media_refs: []

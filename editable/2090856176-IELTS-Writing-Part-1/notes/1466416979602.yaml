@@ -1,0 +1,20 @@
+id: 1466416979602
+guid: f_L3@%-4&K
+model_id: 1457031991333
+model_name: Cloze
+tags: []
+expected_card_ords:
+- 0
+- 1
+- 2
+fields:
+  Text: 'Q: In terms of the use of water, Egypt uses almost 80% of its water for agriculture {{c1::in
+    comparison}} (в сравнении) to domestic usage which {{c2::account for}} approximately 15% and 10% {{c3::respectively}}
+    (соответственно).&nbsp;'
+  Extra: ''
+plain_fields:
+  Text: 'Q: In terms of the use of water, Egypt uses almost 80% of its water for agriculture {{c1::in
+    comparison}} (в сравнении) to domestic usage which {{c2::account for}} approximately 15% and 10% {{c3::respectively}}
+    (соответственно).'
+  Extra: ''
+media_refs: []

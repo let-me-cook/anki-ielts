@@ -1,0 +1,5 @@
+--- a/text
++++ b/text
+@@ -1 +1 @@
+-<div>Q: Vocabulary for the Introduction Part: <b>Verb</b></div><div><br /></div><div>A: {{c1::represents}} / {{c2::depicts}} / {{c3::presents}}/ {{c4::gives}} / {{c5::compares}}/ {{c6::gives information on}}/ {{c7::presents information about}} / {{c8::shows data about}}</div><div><br /></div>
++<div><b>Introduction verbs</b></div><div>1. The chart {{c1::shows}} the overall trend.</div><div>2. The graph {{c2::illustrates}} the yearly change.</div><div>3. The table {{c3::presents}} the latest figures.</div><div>4. The diagram {{c4::depicts}} the process clearly.</div><div>5. The two charts {{c5::compare}} urban and rural spending.</div><div>6. The overview {{c6::outlines}} the main stages.</div><div>7. The chart {{c7::provides information about}} household energy use.</div><div>8. The table {{c8::gives data on}} exports by year.</div>

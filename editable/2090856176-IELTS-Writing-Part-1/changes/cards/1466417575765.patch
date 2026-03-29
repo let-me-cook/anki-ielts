@@ -1,0 +1,5 @@
+--- a/text
++++ b/text
+@@ -1 +1 @@
+-<div>Q: Name the adjectives describing amount a little under certain figure.</div><div><br /></div><div>A: {{c1::just under}} 30 / {{c2::slightly under}} 30 / {{c3::almost}} 30 / {{c4::nearly}} 30 / {{c5::close to}} 30</div><div><br /></div>
++<div><b>Slightly below 30</b></div><div>1. Sales were {{c1::just under}} 30%.</div><div>2. The share was {{c2::slightly under}} 30%.</div><div>3. The figure was {{c3::almost}} 30%.</div><div>4. The value was {{c4::nearly}} 30%.</div><div>5. The total was {{c5::close to}} 30%.</div>

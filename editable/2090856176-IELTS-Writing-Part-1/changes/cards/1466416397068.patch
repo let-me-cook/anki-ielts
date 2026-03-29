@@ -1,0 +1,5 @@
+--- a/text
++++ b/text
+@@ -1 +1 @@
+-Q: {{c1::In terms of cars}}, the UK spent around £450k on this {{c2::as opposed to}} exactly £400k in France.
++Use comparison language: {{c1::In terms of car spending}}, the UK spent around £450k, {{c2::compared with}} exactly £400k in France.

@@ -1,0 +1,19 @@
+id: 1466417543471
+guid: Ly[}p;f19~
+model_id: 1457031991333
+model_name: Cloze
+tags: []
+expected_card_ords:
+- 0
+- 1
+- 2
+fields:
+  Text: '<div>Q: Name the adjectives describing amount below certain figure.</div><div><br /></div><div>A:
+    {{c1::under}} 30 / {{c2::less than}} 30 / {{c3::below}} 30</div><div><br /></div>'
+  Extra: ''
+plain_fields:
+  Text: 'Q: Name the adjectives describing amount below certain figure.
+
+    A: {{c1::under}} 30 / {{c2::less than}} 30 / {{c3::below}} 30'
+  Extra: ''
+media_refs: []

@@ -1,0 +1,5 @@
+--- a/text
++++ b/text
+@@ -1 +1 @@
+-<div>Q: Name the adjectives describing amount below certain figure.</div><div><br /></div><div>A: {{c1::under}} 30 / {{c2::less than}} 30 / {{c3::below}} 30</div><div><br /></div>
++<div><b>Below 30</b></div><div>1. Sales stayed {{c1::under}} 30 units.</div><div>2. Exports were {{c2::less than}} 30%.</div><div>3. The figure remained {{c3::below}} 30.</div>

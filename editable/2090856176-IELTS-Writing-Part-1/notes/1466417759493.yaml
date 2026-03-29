@@ -1,0 +1,23 @@
+id: 1466417759493
+guid: El-y#8QVq}
+model_id: 1457031991333
+model_name: Cloze
+tags: []
+expected_card_ords:
+- 0
+- 1
+- 2
+- 3
+- 4
+fields:
+  Text: '<div>Q: Vocabulary for the Introduction Part: <b>Starting</b></div><div><br /></div><div>A: {{c1::The
+    given}} / {{c2::The supplied}} / {{c3::The presented}} / {{c4::The shown}} / {{c5::The provided}}</div><div><br
+    /></div>'
+  Extra: ''
+plain_fields:
+  Text: 'Q: Vocabulary for the Introduction Part: Starting
+
+    A: {{c1::The given}} / {{c2::The supplied}} / {{c3::The presented}} / {{c4::The shown}} / {{c5::The
+    provided}}'
+  Extra: ''
+media_refs: []

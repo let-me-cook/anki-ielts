@@ -1,0 +1,5 @@
+--- a/text
++++ b/text
+@@ -1 +1 @@
+-<div>Q: Name the adjectives describing amount above certain figure.</div><div><br /></div><div>A: {{c1::over}} / {{c2::above}} / {{c3::more than}}</div><div><br /></div>
++<div><b>Above 30</b></div><div>1. Sales were {{c1::over}} 30 units.</div><div>2. The figure was {{c2::above}} 30%.</div><div>3. The total was {{c3::more than}} 30.</div>

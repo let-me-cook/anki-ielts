@@ -1,0 +1,5 @@
+--- a/text
++++ b/text
+@@ -1 +1 @@
+-<div>Q: Name the adjectives describing amount a little over certain figure.</div><div><br /></div><div>A: {{c1::just over 20}} / {{c2::slightly over 20}} / {{c3::marginally above 20}}</div><div><br /></div>
++<div><b>Slightly above 20</b></div><div>1. Sales were {{c1::just over}} 20 units.</div><div>2. The share was {{c2::slightly over}} 20%.</div><div>3. The figure was {{c3::marginally above}} 20.</div>

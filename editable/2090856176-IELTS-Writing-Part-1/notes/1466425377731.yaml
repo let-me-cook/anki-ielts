@@ -1,0 +1,25 @@
+id: 1466425377731
+guid: OE8(X$}NYI
+model_id: 1457031991333
+model_name: Cloze
+tags: []
+expected_card_ords:
+- 0
+- 1
+- 2
+- 3
+- 4
+- 5
+- 6
+fields:
+  Text: '<div>Q: Vocabulary to show the changes:<b> Increase</b></div><div><b><br /></b></div><div>A:
+    {{c1::rise}} / {{c2::increase}} / {{c3::go up}} / {{c4::uplift}} / {{c5::rocketed}} / {{c6::climb}}
+    / {{c7::soar}}</div><div><br /></div>'
+  Extra: ''
+plain_fields:
+  Text: 'Q: Vocabulary to show the changes: Increase
+
+    A: {{c1::rise}} / {{c2::increase}} / {{c3::go up}} / {{c4::uplift}} / {{c5::rocketed}} / {{c6::climb}}
+    / {{c7::soar}}'
+  Extra: ''
+media_refs: []

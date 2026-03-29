@@ -1,0 +1,845 @@
+[
+  {
+    "id": 1466416397068,
+    "guid": "Es$5DQ:!lC",
+    "model_id": 1457031991333,
+    "model_name": "Cloze",
+    "modified": 1466416662,
+    "update_sequence_number": 26,
+    "tags": [
+      "CommonNetworkPorts"
+    ],
+    "sort_field": "Q: {{c1::In terms of cars}}, the UK spent around £450k on this {{c2::as opposed to}} exactly £400k in France.",
+    "checksum": 2104323264,
+    "flags": 0,
+    "data": "",
+    "raw_fields": [
+      "Q: {{c1::In terms of cars}}, the UK spent around £450k on this {{c2::as opposed to}} exactly £400k in France.",
+      ""
+    ],
+    "fields_by_name": {
+      "Text": "Q: {{c1::In terms of cars}}, the UK spent around £450k on this {{c2::as opposed to}} exactly £400k in France.",
+      "Extra": ""
+    },
+    "plain_fields_by_name": {
+      "Text": "Q: {{c1::In terms of cars}}, the UK spent around £450k on this {{c2::as opposed to}} exactly £400k in France.",
+      "Extra": ""
+    }
+  },
+  {
+    "id": 1466416662457,
+    "guid": "qy-q{@!Fes",
+    "model_id": 1457031991333,
+    "model_name": "Cloze",
+    "modified": 1466416686,
+    "update_sequence_number": 26,
+    "tags": [
+      "CommonNetworkPorts"
+    ],
+    "sort_field": "Q: The chart {{c1::shows}} / {{c2::illustrates}} / {{c3::gives information about.}} ",
+    "checksum": 865637535,
+    "flags": 0,
+    "data": "",
+    "raw_fields": [
+      "Q: The chart {{c1::shows}} / {{c2::illustrates}} / {{c3::gives information about.}}&nbsp;",
+      ""
+    ],
+    "fields_by_name": {
+      "Text": "Q: The chart {{c1::shows}} / {{c2::illustrates}} / {{c3::gives information about.}}&nbsp;",
+      "Extra": ""
+    },
+    "plain_fields_by_name": {
+      "Text": "Q: The chart {{c1::shows}} / {{c2::illustrates}} / {{c3::gives information about.}}",
+      "Extra": ""
+    }
+  },
+  {
+    "id": 1466416686354,
+    "guid": "AZCUzM:_E9",
+    "model_id": 1457031991333,
+    "model_name": "Cloze",
+    "modified": 1466416734,
+    "update_sequence_number": 26,
+    "tags": [
+      "CommonNetworkPorts"
+    ],
+    "sort_field": "Q: While there was a significant {{c1::rise}} / {{c2::increase}} / {{c3::growth}} in spending on rent there was {{c4::little change}} in the amount spent on the two other items. ",
+    "checksum": 3975067284,
+    "flags": 0,
+    "data": "",
+    "raw_fields": [
+      "Q: While there was a significant {{c1::rise}} / {{c2::increase}} / {{c3::growth}} in spending on rent there was {{c4::little change}} in the amount spent on the two other items.&nbsp;",
+      ""
+    ],
+    "fields_by_name": {
+      "Text": "Q: While there was a significant {{c1::rise}} / {{c2::increase}} / {{c3::growth}} in spending on rent there was {{c4::little change}} in the amount spent on the two other items.&nbsp;",
+      "Extra": ""
+    },
+    "plain_fields_by_name": {
+      "Text": "Q: While there was a significant {{c1::rise}} / {{c2::increase}} / {{c3::growth}} in spending on rent there was {{c4::little change}} in the amount spent on the two other items.",
+      "Extra": ""
+    }
+  },
+  {
+    "id": 1466416734961,
+    "guid": "P1}iE>rHi9",
+    "model_id": 1457031991333,
+    "model_name": "Cloze",
+    "modified": 1466416752,
+    "update_sequence_number": 26,
+    "tags": [
+      "CommonNetworkPorts"
+    ],
+    "sort_field": "Q: Overall, the expenditure of the UK was higher {{c1::than that}} of the France. ",
+    "checksum": 3161314832,
+    "flags": 0,
+    "data": "",
+    "raw_fields": [
+      "Q: Overall, the expenditure of the UK was higher {{c1::than that}} of the France.&nbsp;",
+      ""
+    ],
+    "fields_by_name": {
+      "Text": "Q: Overall, the expenditure of the UK was higher {{c1::than that}} of the France.&nbsp;",
+      "Extra": ""
+    },
+    "plain_fields_by_name": {
+      "Text": "Q: Overall, the expenditure of the UK was higher {{c1::than that}} of the France.",
+      "Extra": ""
+    }
+  },
+  {
+    "id": 1466416752221,
+    "guid": "D1m8aWLI0T",
+    "model_id": 1457031991333,
+    "model_name": "Cloze",
+    "modified": 1466416780,
+    "update_sequence_number": 26,
+    "tags": [
+      "CommonNetworkPorts"
+    ],
+    "sort_field": "Q: “B” is {{c1::located}} / {{c2::situated}} / {{c3::lies}} north east of Dartford. ",
+    "checksum": 454934836,
+    "flags": 0,
+    "data": "",
+    "raw_fields": [
+      "Q: “B” is {{c1::located}} / {{c2::situated}} / {{c3::lies}} north east of Dartford.&nbsp;",
+      ""
+    ],
+    "fields_by_name": {
+      "Text": "Q: “B” is {{c1::located}} / {{c2::situated}} / {{c3::lies}} north east of Dartford.&nbsp;",
+      "Extra": ""
+    },
+    "plain_fields_by_name": {
+      "Text": "Q: “B” is {{c1::located}} / {{c2::situated}} / {{c3::lies}} north east of Dartford.",
+      "Extra": ""
+    }
+  },
+  {
+    "id": 1466416780025,
+    "guid": "zVfMx0Li>T",
+    "model_id": 1457031991333,
+    "model_name": "Cloze",
+    "modified": 1466416812,
+    "update_sequence_number": 26,
+    "tags": [
+      "CommonNetworkPorts"
+    ],
+    "sort_field": "Q: The pie charts give information about how the worlds water is distributed, {{c1::whereas}} (в то время как) the bar chart illustrates the percentage of water used in agriculture. ",
+    "checksum": 2749022050,
+    "flags": 0,
+    "data": "",
+    "raw_fields": [
+      "Q: The pie charts give information about how the worlds water is distributed, {{c1::whereas}} (в то время как) the bar chart illustrates the percentage of water used in agriculture.&nbsp;",
+      ""
+    ],
+    "fields_by_name": {
+      "Text": "Q: The pie charts give information about how the worlds water is distributed, {{c1::whereas}} (в то время как) the bar chart illustrates the percentage of water used in agriculture.&nbsp;",
+      "Extra": ""
+    },
+    "plain_fields_by_name": {
+      "Text": "Q: The pie charts give information about how the worlds water is distributed, {{c1::whereas}} (в то время как) the bar chart illustrates the percentage of water used in agriculture.",
+      "Extra": ""
+    }
+  },
+  {
+    "id": 1466416812508,
+    "guid": "P%l[98%7~L",
+    "model_id": 1457031991333,
+    "model_name": "Cloze",
+    "modified": 1466416876,
+    "update_sequence_number": 26,
+    "tags": [
+      "CommonNetworkPorts"
+    ],
+    "sort_field": "Q: Overall, salt water {{c1::makes up}} (составляет) an overwhelming majority of the world`s water.  ",
+    "checksum": 3289596825,
+    "flags": 0,
+    "data": "",
+    "raw_fields": [
+      "Q: Overall, salt water {{c1::makes up}} (составляет) an overwhelming majority of the world`s water. &nbsp;",
+      ""
+    ],
+    "fields_by_name": {
+      "Text": "Q: Overall, salt water {{c1::makes up}} (составляет) an overwhelming majority of the world`s water. &nbsp;",
+      "Extra": ""
+    },
+    "plain_fields_by_name": {
+      "Text": "Q: Overall, salt water {{c1::makes up}} (составляет) an overwhelming majority of the world`s water.",
+      "Extra": ""
+    }
+  },
+  {
+    "id": 1466416876963,
+    "guid": "n$uftjxjz{",
+    "model_id": 1457031991333,
+    "model_name": "Cloze",
+    "modified": 1466416928,
+    "update_sequence_number": 26,
+    "tags": [
+      "CommonNetworkPorts"
+    ],
+    "sort_field": "Q: Overall, salt water makes up an {{c1::overwhelming majority}} (подавляющее большинство) of the world`s water.",
+    "checksum": 314718005,
+    "flags": 0,
+    "data": "",
+    "raw_fields": [
+      "Q: Overall, salt water makes up an {{c1::overwhelming majority}} (подавляющее большинство) of the world`s water.",
+      "<div><br /></div>"
+    ],
+    "fields_by_name": {
+      "Text": "Q: Overall, salt water makes up an {{c1::overwhelming majority}} (подавляющее большинство) of the world`s water.",
+      "Extra": "<div><br /></div>"
+    },
+    "plain_fields_by_name": {
+      "Text": "Q: Overall, salt water makes up an {{c1::overwhelming majority}} (подавляющее большинство) of the world`s water.",
+      "Extra": ""
+    }
+  },
+  {
+    "id": 1466416928380,
+    "guid": "Nc%U|i<3:V",
+    "model_id": 1457031991333,
+    "model_name": "Cloze",
+    "modified": 1466416979,
+    "update_sequence_number": 26,
+    "tags": [
+      "CommonNetworkPorts"
+    ],
+    "sort_field": "Q: While most water in Egypt is used for agriculture, in Canada it is {{c1::predominantly}} (преимущественно) used for industry.  ",
+    "checksum": 2683146943,
+    "flags": 0,
+    "data": "",
+    "raw_fields": [
+      "Q: While most water in Egypt is used for agriculture, in Canada it is {{c1::predominantly}} (преимущественно) used for industry. &nbsp;",
+      ""
+    ],
+    "fields_by_name": {
+      "Text": "Q: While most water in Egypt is used for agriculture, in Canada it is {{c1::predominantly}} (преимущественно) used for industry. &nbsp;",
+      "Extra": ""
+    },
+    "plain_fields_by_name": {
+      "Text": "Q: While most water in Egypt is used for agriculture, in Canada it is {{c1::predominantly}} (преимущественно) used for industry.",
+      "Extra": ""
+    }
+  },
+  {
+    "id": 1466416979602,
+    "guid": "f_L3@%-4&K",
+    "model_id": 1457031991333,
+    "model_name": "Cloze",
+    "modified": 1466417166,
+    "update_sequence_number": 26,
+    "tags": [],
+    "sort_field": "Q: In terms of the use of water, Egypt uses almost 80% of its water for agriculture {{c1::in comparison}} (в сравнении) to domestic usage which {{c2::account for}} approximately 15% and 10% {{c3::respectively}} (соответственно). ",
+    "checksum": 3170057749,
+    "flags": 0,
+    "data": "",
+    "raw_fields": [
+      "Q: In terms of the use of water, Egypt uses almost 80% of its water for agriculture {{c1::in comparison}} (в сравнении) to domestic usage which {{c2::account for}} approximately 15% and 10% {{c3::respectively}} (соответственно).&nbsp;",
+      ""
+    ],
+    "fields_by_name": {
+      "Text": "Q: In terms of the use of water, Egypt uses almost 80% of its water for agriculture {{c1::in comparison}} (в сравнении) to domestic usage which {{c2::account for}} approximately 15% and 10% {{c3::respectively}} (соответственно).&nbsp;",
+      "Extra": ""
+    },
+    "plain_fields_by_name": {
+      "Text": "Q: In terms of the use of water, Egypt uses almost 80% of its water for agriculture {{c1::in comparison}} (в сравнении) to domestic usage which {{c2::account for}} approximately 15% and 10% {{c3::respectively}} (соответственно).",
+      "Extra": ""
+    }
+  },
+  {
+    "id": 1466417166397,
+    "guid": "pEwqPt!Fc]",
+    "model_id": 1457031991333,
+    "model_name": "Cloze",
+    "modified": 1466417225,
+    "update_sequence_number": 26,
+    "tags": [],
+    "sort_field": "Q: {{c1::The reverse}} (обратное) is seen in Canada where only 10% of water is used for agriculture in {{c2::contrast to}} (по контрасту) industry, which uses 80%. ",
+    "checksum": 2498248599,
+    "flags": 0,
+    "data": "",
+    "raw_fields": [
+      "Q: {{c1::The reverse}} (обратное) is seen in Canada where only 10% of water is used for agriculture in {{c2::contrast to}} (по контрасту) industry, which uses 80%.&nbsp;",
+      ""
+    ],
+    "fields_by_name": {
+      "Text": "Q: {{c1::The reverse}} (обратное) is seen in Canada where only 10% of water is used for agriculture in {{c2::contrast to}} (по контрасту) industry, which uses 80%.&nbsp;",
+      "Extra": ""
+    },
+    "plain_fields_by_name": {
+      "Text": "Q: {{c1::The reverse}} (обратное) is seen in Canada where only 10% of water is used for agriculture in {{c2::contrast to}} (по контрасту) industry, which uses 80%.",
+      "Extra": ""
+    }
+  },
+  {
+    "id": 1466417225445,
+    "guid": "I^X4@qB(Mr",
+    "model_id": 1457031991333,
+    "model_name": "Cloze",
+    "modified": 1466417271,
+    "update_sequence_number": 26,
+    "tags": [],
+    "sort_field": "Q: Regarding the table, the value of imports {{c1::started at}} $6 billion in the first year, {{c2::increasing to}} $8 in 1992 and {{c3::reaching}} $10 in the last year. ",
+    "checksum": 4247631576,
+    "flags": 0,
+    "data": "",
+    "raw_fields": [
+      "Q: Regarding the table, the value of imports {{c1::started at}} $6 billion in the first year, {{c2::increasing to}} $8 in 1992 and {{c3::reaching}} $10 in the last year.&nbsp;",
+      ""
+    ],
+    "fields_by_name": {
+      "Text": "Q: Regarding the table, the value of imports {{c1::started at}} $6 billion in the first year, {{c2::increasing to}} $8 in 1992 and {{c3::reaching}} $10 in the last year.&nbsp;",
+      "Extra": ""
+    },
+    "plain_fields_by_name": {
+      "Text": "Q: Regarding the table, the value of imports {{c1::started at}} $6 billion in the first year, {{c2::increasing to}} $8 in 1992 and {{c3::reaching}} $10 in the last year.",
+      "Extra": ""
+    }
+  },
+  {
+    "id": 1466417271378,
+    "guid": "uA=JXD[62I",
+    "model_id": 1457031991333,
+    "model_name": "Cloze",
+    "modified": 1466417306,
+    "update_sequence_number": 26,
+    "tags": [],
+    "sort_field": "Q: The amount of energy produced by oil in the USA was 42% in 1980. A: {{c1::accounted for}} / {{c2::comprised of}} / {{c3::made up  }}",
+    "checksum": 1284443974,
+    "flags": 0,
+    "data": "",
+    "raw_fields": [
+      "<div>Q: The amount of energy produced by oil in the USA <b>was</b> 42% in 1980.&nbsp;</div><div><br /></div><div>A: {{c1::accounted for}} / {{c2::comprised of}} / {{c3::made up &nbsp;}}</div><div><br /></div>",
+      ""
+    ],
+    "fields_by_name": {
+      "Text": "<div>Q: The amount of energy produced by oil in the USA <b>was</b> 42% in 1980.&nbsp;</div><div><br /></div><div>A: {{c1::accounted for}} / {{c2::comprised of}} / {{c3::made up &nbsp;}}</div><div><br /></div>",
+      "Extra": ""
+    },
+    "plain_fields_by_name": {
+      "Text": "Q: The amount of energy produced by oil in the USA was 42% in 1980. \nA: {{c1::accounted for}} / {{c2::comprised of}} / {{c3::made up  }}",
+      "Extra": ""
+    }
+  },
+  {
+    "id": 1466417306792,
+    "guid": "N9TR0ZQf1T",
+    "model_id": 1457031991333,
+    "model_name": "Cloze",
+    "modified": 1466417357,
+    "update_sequence_number": 26,
+    "tags": [],
+    "sort_field": "Q: The amount of energy produced by oil in the USA was 42% in 1980 and this, then, fell to a third (33%) in 1990. A: {{c1::declined}} / {{c2::dropped}} / {{c3::went down}} / {{c4::decreased }}",
+    "checksum": 1803653827,
+    "flags": 0,
+    "data": "",
+    "raw_fields": [
+      "<div>Q: The amount of energy produced by oil in the USA was 42% in 1980 and this, then, <b>fell</b> to a third (33%) in 1990.&nbsp;</div><div><br /></div><div>A: {{c1::declined}} / {{c2::dropped}} / {{c3::went down}} / {{c4::decreased&nbsp;}}</div><div><br /></div>",
+      ""
+    ],
+    "fields_by_name": {
+      "Text": "<div>Q: The amount of energy produced by oil in the USA was 42% in 1980 and this, then, <b>fell</b> to a third (33%) in 1990.&nbsp;</div><div><br /></div><div>A: {{c1::declined}} / {{c2::dropped}} / {{c3::went down}} / {{c4::decreased&nbsp;}}</div><div><br /></div>",
+      "Extra": ""
+    },
+    "plain_fields_by_name": {
+      "Text": "Q: The amount of energy produced by oil in the USA was 42% in 1980 and this, then, fell to a third (33%) in 1990. \nA: {{c1::declined}} / {{c2::dropped}} / {{c3::went down}} / {{c4::decreased }}",
+      "Extra": ""
+    }
+  },
+  {
+    "id": 1466417358001,
+    "guid": "uK9<r:/.{D",
+    "model_id": 1457031991333,
+    "model_name": "Cloze",
+    "modified": 1466417396,
+    "update_sequence_number": 26,
+    "tags": [],
+    "sort_field": "Q: The proportion of energy from hydroelectric power, … remained constant in both years at a mere 5%. A: {{c1::on the other hand}} / {{c2::by contrast}} / {{c3::in contrast}}",
+    "checksum": 2917078827,
+    "flags": 0,
+    "data": "",
+    "raw_fields": [
+      "<div>Q: The proportion of energy from hydroelectric power, <b>…</b> remained constant in both years at a mere 5%.&nbsp;</div><div><br /></div><div>A: {{c1::on the other hand}} / {{c2::by contrast}} / {{c3::in contrast}}</div><div><br /></div>",
+      ""
+    ],
+    "fields_by_name": {
+      "Text": "<div>Q: The proportion of energy from hydroelectric power, <b>…</b> remained constant in both years at a mere 5%.&nbsp;</div><div><br /></div><div>A: {{c1::on the other hand}} / {{c2::by contrast}} / {{c3::in contrast}}</div><div><br /></div>",
+      "Extra": ""
+    },
+    "plain_fields_by_name": {
+      "Text": "Q: The proportion of energy from hydroelectric power, … remained constant in both years at a mere 5%. \nA: {{c1::on the other hand}} / {{c2::by contrast}} / {{c3::in contrast}}",
+      "Extra": ""
+    }
+  },
+  {
+    "id": 1466417396054,
+    "guid": "kM7,KWe;Du",
+    "model_id": 1457031991333,
+    "model_name": "Cloze",
+    "modified": 1466417425,
+    "update_sequence_number": 26,
+    "tags": [],
+    "sort_field": "Q: {{c1::Much}} and {{c2::few}} are used with plural countable nouns. ",
+    "checksum": 405962518,
+    "flags": 0,
+    "data": "",
+    "raw_fields": [
+      "Q: {{c1::Much}} and {{c2::few}} are used with <b>plural countable nouns.</b>&nbsp;",
+      ""
+    ],
+    "fields_by_name": {
+      "Text": "Q: {{c1::Much}} and {{c2::few}} are used with <b>plural countable nouns.</b>&nbsp;",
+      "Extra": ""
+    },
+    "plain_fields_by_name": {
+      "Text": "Q: {{c1::Much}} and {{c2::few}} are used with plural countable nouns.",
+      "Extra": ""
+    }
+  },
+  {
+    "id": 1466417425652,
+    "guid": "ts/u/MEcZe",
+    "model_id": 1457031991333,
+    "model_name": "Cloze",
+    "modified": 1466417460,
+    "update_sequence_number": 26,
+    "tags": [],
+    "sort_field": "Q: {{c1::Much}} and {{c2::little}} are used with uncountable nouns. ",
+    "checksum": 3379349294,
+    "flags": 0,
+    "data": "",
+    "raw_fields": [
+      "Q: {{c1::Much}} and {{c2::little}} are used with<b> uncountable nouns.&nbsp;</b>",
+      ""
+    ],
+    "fields_by_name": {
+      "Text": "Q: {{c1::Much}} and {{c2::little}} are used with<b> uncountable nouns.&nbsp;</b>",
+      "Extra": ""
+    },
+    "plain_fields_by_name": {
+      "Text": "Q: {{c1::Much}} and {{c2::little}} are used with uncountable nouns.",
+      "Extra": ""
+    }
+  },
+  {
+    "id": 1466417460543,
+    "guid": "x2/ySa&2uq",
+    "model_id": 1457031991333,
+    "model_name": "Cloze",
+    "modified": 1466417513,
+    "update_sequence_number": 26,
+    "tags": [],
+    "sort_field": "Q: The number of people becoming vegetarian {{c1::increased steadily}} (постепенно увеличелось) from about 75 to 200 between 2004 and 2007.  ",
+    "checksum": 4115495433,
+    "flags": 0,
+    "data": "",
+    "raw_fields": [
+      "Q: The number of people becoming vegetarian {{c1::increased steadily}} (постепенно увеличелось) from about 75 to 200 between 2004 and 2007. &nbsp;",
+      ""
+    ],
+    "fields_by_name": {
+      "Text": "Q: The number of people becoming vegetarian {{c1::increased steadily}} (постепенно увеличелось) from about 75 to 200 between 2004 and 2007. &nbsp;",
+      "Extra": ""
+    },
+    "plain_fields_by_name": {
+      "Text": "Q: The number of people becoming vegetarian {{c1::increased steadily}} (постепенно увеличелось) from about 75 to 200 between 2004 and 2007.",
+      "Extra": ""
+    }
+  },
+  {
+    "id": 1466417513157,
+    "guid": "f|%#aU}7GO",
+    "model_id": 1457031991333,
+    "model_name": "Cloze",
+    "modified": 1466417543,
+    "update_sequence_number": 26,
+    "tags": [],
+    "sort_field": " Q: There was a {{c1::steady increase}} (постепенное увеличение) in the number of people becoming vegetarian from about 75 to 200 between 2004 and 2007. ",
+    "checksum": 1996822076,
+    "flags": 0,
+    "data": "",
+    "raw_fields": [
+      "&nbsp;Q: There was a {{c1::steady increase}} (постепенное увеличение) in the number of people becoming vegetarian from about 75 to 200 between 2004 and 2007.&nbsp;",
+      ""
+    ],
+    "fields_by_name": {
+      "Text": "&nbsp;Q: There was a {{c1::steady increase}} (постепенное увеличение) in the number of people becoming vegetarian from about 75 to 200 between 2004 and 2007.&nbsp;",
+      "Extra": ""
+    },
+    "plain_fields_by_name": {
+      "Text": "Q: There was a {{c1::steady increase}} (постепенное увеличение) in the number of people becoming vegetarian from about 75 to 200 between 2004 and 2007.",
+      "Extra": ""
+    }
+  },
+  {
+    "id": 1466417543471,
+    "guid": "Ly[}p;f19~",
+    "model_id": 1457031991333,
+    "model_name": "Cloze",
+    "modified": 1466417575,
+    "update_sequence_number": 26,
+    "tags": [],
+    "sort_field": "Q: Name the adjectives describing amount below certain figure.A: {{c1::under}} 30 / {{c2::less than}} 30 / {{c3::below}} 30",
+    "checksum": 1186329886,
+    "flags": 0,
+    "data": "",
+    "raw_fields": [
+      "<div>Q: Name the adjectives describing amount below certain figure.</div><div><br /></div><div>A: {{c1::under}} 30 / {{c2::less than}} 30 / {{c3::below}} 30</div><div><br /></div>",
+      ""
+    ],
+    "fields_by_name": {
+      "Text": "<div>Q: Name the adjectives describing amount below certain figure.</div><div><br /></div><div>A: {{c1::under}} 30 / {{c2::less than}} 30 / {{c3::below}} 30</div><div><br /></div>",
+      "Extra": ""
+    },
+    "plain_fields_by_name": {
+      "Text": "Q: Name the adjectives describing amount below certain figure.\nA: {{c1::under}} 30 / {{c2::less than}} 30 / {{c3::below}} 30",
+      "Extra": ""
+    }
+  },
+  {
+    "id": 1466417575765,
+    "guid": "qLja^_]3fQ",
+    "model_id": 1457031991333,
+    "model_name": "Cloze",
+    "modified": 1466417609,
+    "update_sequence_number": 26,
+    "tags": [],
+    "sort_field": "Q: Name the adjectives describing amount a little under certain figure.A: {{c1::just under}} 30 / {{c2::slightly under}} 30 / {{c3::almost}} 30 / {{c4::nearly}} 30 / {{c5::close to}} 30",
+    "checksum": 1756673008,
+    "flags": 0,
+    "data": "",
+    "raw_fields": [
+      "<div>Q: Name the adjectives describing amount a little under certain figure.</div><div><br /></div><div>A: {{c1::just under}} 30 / {{c2::slightly under}} 30 / {{c3::almost}} 30 / {{c4::nearly}} 30 / {{c5::close to}} 30</div><div><br /></div>",
+      ""
+    ],
+    "fields_by_name": {
+      "Text": "<div>Q: Name the adjectives describing amount a little under certain figure.</div><div><br /></div><div>A: {{c1::just under}} 30 / {{c2::slightly under}} 30 / {{c3::almost}} 30 / {{c4::nearly}} 30 / {{c5::close to}} 30</div><div><br /></div>",
+      "Extra": ""
+    },
+    "plain_fields_by_name": {
+      "Text": "Q: Name the adjectives describing amount a little under certain figure.\nA: {{c1::just under}} 30 / {{c2::slightly under}} 30 / {{c3::almost}} 30 / {{c4::nearly}} 30 / {{c5::close to}} 30",
+      "Extra": ""
+    }
+  },
+  {
+    "id": 1466417609678,
+    "guid": "DxTd&*M-v,",
+    "model_id": 1457031991333,
+    "model_name": "Cloze",
+    "modified": 1466417658,
+    "update_sequence_number": 26,
+    "tags": [],
+    "sort_field": "Q: Name the adjectives describing amount a lot less than certain figure.A: {{c1::Well under}} 30 / {{c2::considerably less than}} 30.",
+    "checksum": 3338574042,
+    "flags": 0,
+    "data": "",
+    "raw_fields": [
+      "<div>Q: Name the adjectives describing amount a lot less than certain figure.</div><div><br /></div><div>A: {{c1::Well under}} 30 / {{c2::considerably less than}} 30.</div><div><br /></div>",
+      ""
+    ],
+    "fields_by_name": {
+      "Text": "<div>Q: Name the adjectives describing amount a lot less than certain figure.</div><div><br /></div><div>A: {{c1::Well under}} 30 / {{c2::considerably less than}} 30.</div><div><br /></div>",
+      "Extra": ""
+    },
+    "plain_fields_by_name": {
+      "Text": "Q: Name the adjectives describing amount a lot less than certain figure.\nA: {{c1::Well under}} 30 / {{c2::considerably less than}} 30.",
+      "Extra": ""
+    }
+  },
+  {
+    "id": 1466417658619,
+    "guid": "AO*$pZA[qm",
+    "model_id": 1457031991333,
+    "model_name": "Cloze",
+    "modified": 1466417695,
+    "update_sequence_number": 26,
+    "tags": [],
+    "sort_field": "Q: Name the adjectives describing amount “almost the same” certain figure.A: {{c1::approximately}} / {{c2::around}} / {{c3::more or less.}} ",
+    "checksum": 3229719675,
+    "flags": 0,
+    "data": "",
+    "raw_fields": [
+      "<div>Q: Name the adjectives describing amount “almost the same” certain figure.</div><div><br /></div><div>A: {{c1::approximately}} / {{c2::around}} / {{c3::more or less.}}&nbsp;</div><div><br /></div>",
+      ""
+    ],
+    "fields_by_name": {
+      "Text": "<div>Q: Name the adjectives describing amount “almost the same” certain figure.</div><div><br /></div><div>A: {{c1::approximately}} / {{c2::around}} / {{c3::more or less.}}&nbsp;</div><div><br /></div>",
+      "Extra": ""
+    },
+    "plain_fields_by_name": {
+      "Text": "Q: Name the adjectives describing amount “almost the same” certain figure.\nA: {{c1::approximately}} / {{c2::around}} / {{c3::more or less.}}",
+      "Extra": ""
+    }
+  },
+  {
+    "id": 1466417695050,
+    "guid": "fDC0rcrZx7",
+    "model_id": 1457031991333,
+    "model_name": "Cloze",
+    "modified": 1466417716,
+    "update_sequence_number": 26,
+    "tags": [],
+    "sort_field": "Q: Name the adjectives describing amount above certain figure.A: {{c1::over}} / {{c2::above}} / {{c3::more than}}",
+    "checksum": 800777454,
+    "flags": 0,
+    "data": "",
+    "raw_fields": [
+      "<div>Q: Name the adjectives describing amount above certain figure.</div><div><br /></div><div>A: {{c1::over}} / {{c2::above}} / {{c3::more than}}</div><div><br /></div>",
+      ""
+    ],
+    "fields_by_name": {
+      "Text": "<div>Q: Name the adjectives describing amount above certain figure.</div><div><br /></div><div>A: {{c1::over}} / {{c2::above}} / {{c3::more than}}</div><div><br /></div>",
+      "Extra": ""
+    },
+    "plain_fields_by_name": {
+      "Text": "Q: Name the adjectives describing amount above certain figure.\nA: {{c1::over}} / {{c2::above}} / {{c3::more than}}",
+      "Extra": ""
+    }
+  },
+  {
+    "id": 1466417716368,
+    "guid": "Oeg`1#ea2?",
+    "model_id": 1457031991333,
+    "model_name": "Cloze",
+    "modified": 1466417739,
+    "update_sequence_number": 26,
+    "tags": [],
+    "sort_field": "Q: Name the adjectives describing amount a little over certain figure.A: {{c1::just over 20}} / {{c2::slightly over 20}} / {{c3::marginally above 20}}",
+    "checksum": 933963809,
+    "flags": 0,
+    "data": "",
+    "raw_fields": [
+      "<div>Q: Name the adjectives describing amount a little over certain figure.</div><div><br /></div><div>A: {{c1::just over 20}} / {{c2::slightly over 20}} / {{c3::marginally above 20}}</div><div><br /></div>",
+      ""
+    ],
+    "fields_by_name": {
+      "Text": "<div>Q: Name the adjectives describing amount a little over certain figure.</div><div><br /></div><div>A: {{c1::just over 20}} / {{c2::slightly over 20}} / {{c3::marginally above 20}}</div><div><br /></div>",
+      "Extra": ""
+    },
+    "plain_fields_by_name": {
+      "Text": "Q: Name the adjectives describing amount a little over certain figure.\nA: {{c1::just over 20}} / {{c2::slightly over 20}} / {{c3::marginally above 20}}",
+      "Extra": ""
+    }
+  },
+  {
+    "id": 1466417739918,
+    "guid": "ofiI&8k5eL",
+    "model_id": 1457031991333,
+    "model_name": "Cloze",
+    "modified": 1466417759,
+    "update_sequence_number": 26,
+    "tags": [],
+    "sort_field": "Q: Name the adjectives describing amount well over certain figure.A: {{c1::Well over 20}} / {{c2::considerably more than 20}}.",
+    "checksum": 204027750,
+    "flags": 0,
+    "data": "",
+    "raw_fields": [
+      "<div>Q: Name the adjectives describing amount well over certain figure.</div><div><br /></div><div>A: {{c1::Well over 20}} / {{c2::considerably more than 20}}.</div><div><br /></div>",
+      ""
+    ],
+    "fields_by_name": {
+      "Text": "<div>Q: Name the adjectives describing amount well over certain figure.</div><div><br /></div><div>A: {{c1::Well over 20}} / {{c2::considerably more than 20}}.</div><div><br /></div>",
+      "Extra": ""
+    },
+    "plain_fields_by_name": {
+      "Text": "Q: Name the adjectives describing amount well over certain figure.\nA: {{c1::Well over 20}} / {{c2::considerably more than 20}}.",
+      "Extra": ""
+    }
+  },
+  {
+    "id": 1466417759493,
+    "guid": "El-y#8QVq}",
+    "model_id": 1457031991333,
+    "model_name": "Cloze",
+    "modified": 1466425198,
+    "update_sequence_number": 26,
+    "tags": [],
+    "sort_field": "Q: Vocabulary for the Introduction Part: StartingA: {{c1::The given}} / {{c2::The supplied}} / {{c3::The presented}} / {{c4::The shown}} / {{c5::The provided}}",
+    "checksum": 2524339261,
+    "flags": 0,
+    "data": "",
+    "raw_fields": [
+      "<div>Q: Vocabulary for the Introduction Part: <b>Starting</b></div><div><br /></div><div>A: {{c1::The given}} / {{c2::The supplied}} / {{c3::The presented}} / {{c4::The shown}} / {{c5::The provided}}</div><div><br /></div>",
+      ""
+    ],
+    "fields_by_name": {
+      "Text": "<div>Q: Vocabulary for the Introduction Part: <b>Starting</b></div><div><br /></div><div>A: {{c1::The given}} / {{c2::The supplied}} / {{c3::The presented}} / {{c4::The shown}} / {{c5::The provided}}</div><div><br /></div>",
+      "Extra": ""
+    },
+    "plain_fields_by_name": {
+      "Text": "Q: Vocabulary for the Introduction Part: Starting\nA: {{c1::The given}} / {{c2::The supplied}} / {{c3::The presented}} / {{c4::The shown}} / {{c5::The provided}}",
+      "Extra": ""
+    }
+  },
+  {
+    "id": 1466425198222,
+    "guid": "x#sFBpy-Dn",
+    "model_id": 1457031991333,
+    "model_name": "Cloze",
+    "modified": 1466425270,
+    "update_sequence_number": 26,
+    "tags": [],
+    "sort_field": "Q: Vocabulary for the Introduction Part: VerbA: {{c1::represents}} / {{c2::depicts}} / {{c3::presents}}/ {{c4::gives}} / {{c5::compares}}/ {{c6::gives information on}}/ {{c7::presents information about}} / {{c8::shows data about}}",
+    "checksum": 91713744,
+    "flags": 0,
+    "data": "",
+    "raw_fields": [
+      "<div>Q: Vocabulary for the Introduction Part: <b>Verb</b></div><div><br /></div><div>A: {{c1::represents}} / {{c2::depicts}} / {{c3::presents}}/ {{c4::gives}} / {{c5::compares}}/ {{c6::gives information on}}/ {{c7::presents information about}} / {{c8::shows data about}}</div><div><br /></div>",
+      ""
+    ],
+    "fields_by_name": {
+      "Text": "<div>Q: Vocabulary for the Introduction Part: <b>Verb</b></div><div><br /></div><div>A: {{c1::represents}} / {{c2::depicts}} / {{c3::presents}}/ {{c4::gives}} / {{c5::compares}}/ {{c6::gives information on}}/ {{c7::presents information about}} / {{c8::shows data about}}</div><div><br /></div>",
+      "Extra": ""
+    },
+    "plain_fields_by_name": {
+      "Text": "Q: Vocabulary for the Introduction Part: Verb\nA: {{c1::represents}} / {{c2::depicts}} / {{c3::presents}}/ {{c4::gives}} / {{c5::compares}}/ {{c6::gives information on}}/ {{c7::presents information about}} / {{c8::shows data about}}",
+      "Extra": ""
+    }
+  },
+  {
+    "id": 1466425270306,
+    "guid": "f:gDe(f/l:",
+    "model_id": 1457031991333,
+    "model_name": "Cloze",
+    "modified": 1466425352,
+    "update_sequence_number": 26,
+    "tags": [],
+    "sort_field": "Q: Vocabulary for the Introduction Part: DescriptionA: {{c1::the comparison of}} / {{c2::the differences}} / {{c3::the number of}} / {{c4::information on}} / {{c5::data on}} / {{c6::the proportion of}} / {{c7::the amount of}} / {{c8::information on}}",
+    "checksum": 981193549,
+    "flags": 0,
+    "data": "",
+    "raw_fields": [
+      "<div>Q: Vocabulary for the Introduction Part: <b>Description</b></div><div><br /></div><div>A: {{c1::the comparison of}} / {{c2::the differences}} / {{c3::the number of}} / {{c4::information on}} / {{c5::data on}} / {{c6::the proportion of}} / {{c7::the amount of}} / {{c8::information on}}</div><div><br /></div>",
+      "The provided pie chart shows data about.."
+    ],
+    "fields_by_name": {
+      "Text": "<div>Q: Vocabulary for the Introduction Part: <b>Description</b></div><div><br /></div><div>A: {{c1::the comparison of}} / {{c2::the differences}} / {{c3::the number of}} / {{c4::information on}} / {{c5::data on}} / {{c6::the proportion of}} / {{c7::the amount of}} / {{c8::information on}}</div><div><br /></div>",
+      "Extra": "The provided pie chart shows data about.."
+    },
+    "plain_fields_by_name": {
+      "Text": "Q: Vocabulary for the Introduction Part: Description\nA: {{c1::the comparison of}} / {{c2::the differences}} / {{c3::the number of}} / {{c4::information on}} / {{c5::data on}} / {{c6::the proportion of}} / {{c7::the amount of}} / {{c8::information on}}",
+      "Extra": "The provided pie chart shows data about.."
+    }
+  },
+  {
+    "id": 1466425352996,
+    "guid": "b-=&*i:5}7",
+    "model_id": 1457031991333,
+    "model_name": "Cloze",
+    "modified": 1466425377,
+    "update_sequence_number": 26,
+    "tags": [],
+    "sort_field": "Q: Vocabulary for the General Trends Part: A: {{c1::in general}} / {{c2::in common}} / {{c3::as is presented}} / {{c4::generally speaking}} / {{c5::as is observed}}",
+    "checksum": 466685718,
+    "flags": 0,
+    "data": "",
+    "raw_fields": [
+      "<div>Q: Vocabulary for the General Trends Part:&nbsp;</div><div><br /></div><div>A: {{c1::in general}} / {{c2::in common}} / {{c3::as is presented}} / {{c4::generally speaking}} / {{c5::as is observed}}</div><div><br /></div>",
+      ""
+    ],
+    "fields_by_name": {
+      "Text": "<div>Q: Vocabulary for the General Trends Part:&nbsp;</div><div><br /></div><div>A: {{c1::in general}} / {{c2::in common}} / {{c3::as is presented}} / {{c4::generally speaking}} / {{c5::as is observed}}</div><div><br /></div>",
+      "Extra": ""
+    },
+    "plain_fields_by_name": {
+      "Text": "Q: Vocabulary for the General Trends Part: \nA: {{c1::in general}} / {{c2::in common}} / {{c3::as is presented}} / {{c4::generally speaking}} / {{c5::as is observed}}",
+      "Extra": ""
+    }
+  },
+  {
+    "id": 1466425377731,
+    "guid": "OE8(X$}NYI",
+    "model_id": 1457031991333,
+    "model_name": "Cloze",
+    "modified": 1466425421,
+    "update_sequence_number": 26,
+    "tags": [],
+    "sort_field": "Q: Vocabulary to show the changes: IncreaseA: {{c1::rise}} / {{c2::increase}} / {{c3::go up}} / {{c4::uplift}} / {{c5::rocketed}} / {{c6::climb}} / {{c7::soar}}",
+    "checksum": 729262117,
+    "flags": 0,
+    "data": "",
+    "raw_fields": [
+      "<div>Q: Vocabulary to show the changes:<b> Increase</b></div><div><b><br /></b></div><div>A: {{c1::rise}} / {{c2::increase}} / {{c3::go up}} / {{c4::uplift}} / {{c5::rocketed}} / {{c6::climb}} / {{c7::soar}}</div><div><br /></div>",
+      ""
+    ],
+    "fields_by_name": {
+      "Text": "<div>Q: Vocabulary to show the changes:<b> Increase</b></div><div><b><br /></b></div><div>A: {{c1::rise}} / {{c2::increase}} / {{c3::go up}} / {{c4::uplift}} / {{c5::rocketed}} / {{c6::climb}} / {{c7::soar}}</div><div><br /></div>",
+      "Extra": ""
+    },
+    "plain_fields_by_name": {
+      "Text": "Q: Vocabulary to show the changes: Increase\nA: {{c1::rise}} / {{c2::increase}} / {{c3::go up}} / {{c4::uplift}} / {{c5::rocketed}} / {{c6::climb}} / {{c7::soar}}",
+      "Extra": ""
+    }
+  },
+  {
+    "id": 1466425421136,
+    "guid": "NjH]?SDfN(",
+    "model_id": 1457031991333,
+    "model_name": "Cloze",
+    "modified": 1466425467,
+    "update_sequence_number": 26,
+    "tags": [],
+    "sort_field": "Q: Vocabulary to show the changes: DecreaseA: {{c1::fall}} / {{c2::decrease}} / {{c3::decline}} / {{c4::plummet}} / {{c5::plunge}} / {{c6::drop}} / {{c7::reduce}} ",
+    "checksum": 2466731428,
+    "flags": 0,
+    "data": "",
+    "raw_fields": [
+      "<div>Q: Vocabulary to show the changes: <b>Decrease</b></div><div><br /></div><div>A: {{c1::fall}} / {{c2::decrease}} / {{c3::decline}} / {{c4::plummet}} / {{c5::plunge}} / {{c6::drop}} / {{c7::reduce}}</div><div>&nbsp;</div>",
+      ""
+    ],
+    "fields_by_name": {
+      "Text": "<div>Q: Vocabulary to show the changes: <b>Decrease</b></div><div><br /></div><div>A: {{c1::fall}} / {{c2::decrease}} / {{c3::decline}} / {{c4::plummet}} / {{c5::plunge}} / {{c6::drop}} / {{c7::reduce}}</div><div>&nbsp;</div>",
+      "Extra": ""
+    },
+    "plain_fields_by_name": {
+      "Text": "Q: Vocabulary to show the changes: Decrease\nA: {{c1::fall}} / {{c2::decrease}} / {{c3::decline}} / {{c4::plummet}} / {{c5::plunge}} / {{c6::drop}} / {{c7::reduce}}",
+      "Extra": ""
+    }
+  },
+  {
+    "id": 1466425467763,
+    "guid": "y),cN(z882",
+    "model_id": 1457031991333,
+    "model_name": "Cloze",
+    "modified": 1466425496,
+    "update_sequence_number": 26,
+    "tags": [],
+    "sort_field": "Q: Vocabulary to show the changes: SteadinessA: {{c1::unchanged}} / {{c2::level out}} / {{c3::remain constant}} / {{c4::remain steady}} / {{c5::remain stable}} / {{c6::remain static}}",
+    "checksum": 1089937685,
+    "flags": 0,
+    "data": "",
+    "raw_fields": [
+      "<div>Q: Vocabulary to show the changes: <b>Steadiness</b></div><div><b><br /></b></div><div>A: {{c1::unchanged}} / {{c2::level out}} / {{c3::remain constant}} / {{c4::remain steady}} / {{c5::remain stable}} / {{c6::remain static}}</div><div><br /></div>",
+      ""
+    ],
+    "fields_by_name": {
+      "Text": "<div>Q: Vocabulary to show the changes: <b>Steadiness</b></div><div><b><br /></b></div><div>A: {{c1::unchanged}} / {{c2::level out}} / {{c3::remain constant}} / {{c4::remain steady}} / {{c5::remain stable}} / {{c6::remain static}}</div><div><br /></div>",
+      "Extra": ""
+    },
+    "plain_fields_by_name": {
+      "Text": "Q: Vocabulary to show the changes: Steadiness\nA: {{c1::unchanged}} / {{c2::level out}} / {{c3::remain constant}} / {{c4::remain steady}} / {{c5::remain stable}} / {{c6::remain static}}",
+      "Extra": ""
+    }
+  }
+]

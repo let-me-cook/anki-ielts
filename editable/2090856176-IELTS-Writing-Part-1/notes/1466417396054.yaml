@@ -1,0 +1,15 @@
+id: 1466417396054
+guid: kM7,KWe;Du
+model_id: 1457031991333
+model_name: Cloze
+tags: []
+expected_card_ords:
+- 0
+- 1
+fields:
+  Text: 'Q: {{c1::Much}} and {{c2::few}} are used with <b>plural countable nouns.</b>&nbsp;'
+  Extra: ''
+plain_fields:
+  Text: 'Q: {{c1::Much}} and {{c2::few}} are used with plural countable nouns.'
+  Extra: ''
+media_refs: []

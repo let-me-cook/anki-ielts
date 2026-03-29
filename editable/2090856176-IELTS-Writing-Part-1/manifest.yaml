@@ -1,0 +1,43 @@
+editable_format_version: 1
+deck_stem: 2090856176-IELTS-Writing-Part-1
+source:
+  decompiled_dir: decompiled/2090856176-IELTS-Writing-Part-1
+  source_apkg: /Users/al/Documents/Projects/anki-ielts/raw/2090856176-IELTS-Writing-Part-1.apkg
+release:
+  repo: let-me-cook/anki-ielts
+  asset_name_template: 2090856176-IELTS-Writing-Part-1-{version}.apkg
+  title_template: 2090856176-IELTS-Writing-Part-1 {version}
+constraints:
+  content_only: true
+  allow_add_remove_notes: false
+  allow_model_changes: false
+  allow_deck_changes: false
+  text_patch_overlay: true
+  allow_card_regeneration_from_text_patches: true
+counts:
+  notes: 33
+  cards: 108
+  media_files: 0
+models:
+- id: 1457031991333
+  name: Cloze
+  type: 1
+  sort_field_index: 0
+  field_names:
+  - Text
+  - Extra
+  template_names:
+  - Cloze
+decks:
+- id: 1
+  name: Default
+- id: 1466416331727
+  name: 'IELTS Writing part 1 '
+paths:
+  notes_dir: notes
+  media_dir: media
+  base_dir: _base
+  changes_cards_dir: changes/cards
+patches:
+  format: unified_diff
+  target_field: Text

@@ -1,0 +1,5 @@
+--- a/text
++++ b/text
+@@ -1 +1 @@
+-<div>Q: Vocabulary for the Introduction Part: <b>Starting</b></div><div><br /></div><div>A: {{c1::The given}} / {{c2::The supplied}} / {{c3::The presented}} / {{c4::The shown}} / {{c5::The provided}}</div><div><br /></div>
++<div><b>Introduction starters</b></div><div>1. {{c1::The given}} chart shows household spending.</div><div>2. {{c2::The supplied}} table compares import values.</div><div>3. {{c3::The presented}} graph illustrates changes over time.</div><div>4. {{c4::The provided}} diagram outlines the process.</div><div>5. {{c5::The accompanying}} bar chart highlights regional differences.</div>
