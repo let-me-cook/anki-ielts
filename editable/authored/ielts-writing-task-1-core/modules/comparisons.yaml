@@ -1,0 +1,46 @@
+module: comparisons
+tags:
+- comparison
+cards:
+- id: compare_car_spending
+  type: contextual_cloze
+  prompt: Compare UK and France car spending in one sentence.
+  sentence: The UK spent around £450k on cars, {{c1::compared with}} exactly £400k in France.
+  extra: Use this when two figures are close enough to compare directly.
+  tags:
+  - data-comparison
+  source_refs:
+  - deck: 2090856176-IELTS-Writing-Part-1
+    note_id: 1466416397068
+- id: contrast_two_visuals
+  type: contextual_cloze
+  prompt: Link two visuals while showing they present different information.
+  sentence: The pie charts show how the world's water is distributed, {{c1::whereas}} the bar chart
+    shows the percentage used for agriculture.
+  extra: Good for combining two chart descriptions in an introduction.
+  tags:
+  - visual-comparison
+  source_refs:
+  - deck: 2090856176-IELTS-Writing-Part-1
+    note_id: 1466416780025
+- id: reverse_pattern_canada
+  type: contextual_cloze
+  prompt: Signal that the second country shows the opposite pattern.
+  sentence: '{{c1::The reverse is true}} in Canada, where only 10% of water is used for agriculture.'
+  extra: Useful when the second category flips the first trend completely.
+  tags:
+  - opposite-pattern
+  source_refs:
+  - deck: 2090856176-IELTS-Writing-Part-1
+    note_id: 1466417166397
+- id: contrast_to_industry
+  type: contextual_cloze
+  prompt: Contrast agriculture with industry in the same sentence.
+  sentence: Only 10% of water is used for agriculture, {{c1::in contrast to}} industry, which
+    accounts for 80%.
+  extra: Keeps the focus on the difference between two sectors.
+  tags:
+  - sector-comparison
+  source_refs:
+  - deck: 2090856176-IELTS-Writing-Part-1
+    note_id: 1466417166397

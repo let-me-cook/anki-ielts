@@ -1,0 +1,35 @@
+module: overview
+tags:
+- overview
+cards:
+- id: overall_higher_than_that
+  type: contextual_cloze
+  prompt: Write a concise overview comparing total expenditure in two countries.
+  sentence: Overall, expenditure in the UK was {{c1::higher than that}} in France.
+  extra: Useful when comparing one national total with another.
+  tags:
+  - overall-comparison
+  source_refs:
+  - deck: 2090856176-IELTS-Writing-Part-1
+    note_id: 1466416734961
+- id: overall_overwhelming_majority
+  type: contextual_cloze
+  prompt: Summarize that one category dominates almost the whole dataset.
+  sentence: Overall, salt water accounts for an {{c1::overwhelming majority}} of the world's
+    water.
+  extra: Stronger than simply saying one part is 'larger'.
+  tags:
+  - dominant-feature
+  source_refs:
+  - deck: 2090856176-IELTS-Writing-Part-1
+    note_id: 1466416876963
+- id: overall_predominantly_industry
+  type: contextual_cloze
+  prompt: Summarize that one use is the main use in a country.
+  sentence: In Canada, water is used {{c1::predominantly}} for industry.
+  extra: Best when one category clearly takes the largest share.
+  tags:
+  - dominant-category
+  source_refs:
+  - deck: 2090856176-IELTS-Writing-Part-1
+    note_id: 1466416928380

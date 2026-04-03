@@ -1,0 +1,24 @@
+module: maps
+tags:
+- map
+cards:
+- id: map_located
+  type: contextual_cloze
+  prompt: Give a precise map location relative to a town.
+  sentence: B is {{c1::located}} to the northeast of Dartford.
+  extra: A neutral option for map descriptions.
+  tags:
+  - relative-location
+  source_refs:
+  - deck: 2090856176-IELTS-Writing-Part-1
+    note_id: 1466416752221
+- id: map_to_the_northeast_of
+  type: contextual_cloze
+  prompt: Use a full directional phrase after a location verb.
+  sentence: B is located {{c1::to the northeast of}} Dartford.
+  extra: This phrasing is clearer than shortened forms like 'north east of'.
+  tags:
+  - direction
+  source_refs:
+  - deck: 2090856176-IELTS-Writing-Part-1
+    note_id: 1466416752221

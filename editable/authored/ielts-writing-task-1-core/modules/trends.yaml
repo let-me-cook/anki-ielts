@@ -1,0 +1,57 @@
+module: trends
+tags:
+- trend
+cards:
+- id: trend_increased_steadily
+  type: contextual_cloze
+  prompt: Describe a gradual upward movement over a period.
+  sentence: The number of vegetarians {{c1::increased steadily}} from about 75 to 200 between
+    2004 and 2007.
+  extra: Use a verb phrase when the chart line keeps moving up at a regular pace.
+  tags:
+  - upward-trend
+  source_refs:
+  - deck: 2090856176-IELTS-Writing-Part-1
+    note_id: 1466417460543
+- id: trend_steady_increase
+  type: contextual_cloze
+  prompt: Describe the same upward movement using a noun phrase.
+  sentence: There was a {{c1::steady increase}} in the number of vegetarians from about 75 to
+    200 between 2004 and 2007.
+  extra: This structure is useful when you want a noun-led sentence.
+  tags:
+  - upward-trend
+  - noun-phrase
+  source_refs:
+  - deck: 2090856176-IELTS-Writing-Part-1
+    note_id: 1466417513157
+- id: trend_rose_to
+  type: contextual_cloze
+  prompt: Describe movement to a higher figure in the middle of a sequence.
+  sentence: The value of imports {{c1::rose to}} $8 billion in 1992.
+  extra: Good for describing an intermediate step before the final figure.
+  tags:
+  - increase
+  source_refs:
+  - deck: 2090856176-IELTS-Writing-Part-1
+    note_id: 1466417225445
+- id: trend_reached
+  type: contextual_cloze
+  prompt: Describe the final figure at the end of a period.
+  sentence: The figure {{c1::reached}} $10 billion in the final year.
+  extra: Use this when the sentence focuses on the endpoint, not the full trend.
+  tags:
+  - end-point
+  source_refs:
+  - deck: 2090856176-IELTS-Writing-Part-1
+    note_id: 1466417225445
+- id: trend_remained_constant
+  type: contextual_cloze
+  prompt: Describe a proportion that stays the same over time.
+  sentence: The share of hydroelectric power {{c1::remained constant}} at 5% in both years.
+  extra: A clean option when there is no visible movement between time points.
+  tags:
+  - no-change
+  source_refs:
+  - deck: 2090856176-IELTS-Writing-Part-1
+    note_id: 1466417358001

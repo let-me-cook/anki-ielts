@@ -6,7 +6,7 @@ import html
 import json
 import re
 from pathlib import Path, PurePosixPath
-from typing import Any, Dict, Iterable, List, Set, Tuple
+from typing import Any, Dict, Iterable, List, Sequence, Set, Tuple
 
 import yaml
 
@@ -51,6 +51,11 @@ def write_yaml(path: Path, payload: Any) -> None:
         ),
         encoding="utf-8",
     )
+
+
+def plain_text_to_html(value: str) -> str:
+    escaped = html.escape(value or "", quote=False)
+    return escaped.replace("\n", "<br />")
 
 
 def html_to_text(value: str) -> str:
@@ -100,9 +105,28 @@ def serialize_tags(tags: List[str]) -> str:
     return f" {' '.join(cleaned)} " if cleaned else ""
 
 
+def merge_tags(*tag_groups: Sequence[str]) -> List[str]:
+    merged: List[str] = []
+    seen: Set[str] = set()
+    for group in tag_groups:
+        for tag in group:
+            cleaned = tag.strip()
+            if not cleaned or cleaned in seen:
+                continue
+            seen.add(cleaned)
+            merged.append(cleaned)
+    return merged
+
+
 def field_checksum(value: str) -> int:
     digest = hashlib.sha1(value.encode("utf-8")).hexdigest()
     return int(digest[:8], 16)
+
+
+def stable_int_id(value: str, hex_chars: int = 15) -> int:
+    digest = hashlib.sha1(value.encode("utf-8")).hexdigest()
+    numeric = int(digest[:hex_chars], 16)
+    return numeric or 1
 
 
 def extract_cloze_ords(values: Iterable[str]) -> List[int]:

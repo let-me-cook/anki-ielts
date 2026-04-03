@@ -1,0 +1,27 @@
+authored_format_version: 1
+deck:
+  slug: ielts-writing-task-1-core
+  title: IELTS Writing Task 1 Core
+  description: Curated authored deck for IELTS Writing Task 1 built from multiple source decks.
+  deck_id: 816674632617571569
+model:
+  id: 198805174918462737
+  name: IELTS Writing Task 1 Core Cloze
+  type: cloze
+  field_names:
+  - Text
+  - Extra
+release:
+  repo: let-me-cook/anki-ielts
+  asset_name_template: ielts-writing-task-1-core-{version}.apkg
+  title_template: IELTS Writing Task 1 Core {version}
+default_tags:
+- ielts
+- writing-task-1
+- authored
+paths:
+  modules_dir: modules
+  media_dir: media
+source_decks:
+- deck_stem: 2090856176-IELTS-Writing-Part-1
+  decompiled_dir: decompiled/2090856176-IELTS-Writing-Part-1
