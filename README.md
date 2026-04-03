@@ -9,6 +9,14 @@ This repo uses `uv` with a local `.venv` to:
 - author one new curated deck in module-based YAML
 - compile that authored deck into a releaseable `.apkg`
 
+## Project Memory
+
+For future recontextualization, read these files first:
+
+- `AGENTS.md`
+- `docs/DECISIONS.md`
+- `docs/WORKFLOWS.md`
+
 ## Setup
 
 Create the environment:
@@ -68,11 +76,14 @@ uv run python scripts/init_authored_deck.py ielts-writing-task-1-core \
 
 This writes a new deck under `editable/authored/<deck-slug>/`.
 
-The repo already includes one example authored deck at:
+The repo already includes two example authored decks at:
 
 ```text
 editable/authored/ielts-writing-task-1-core/
+editable/authored/ielts-writing-1-grammar-structure/
 ```
+
+The grammar deck is organized into topic modules covering articles, comparison grammar, quantity, tense/aspect, prepositions, clauses/linking, agreement/reference, passive/process language, and word form.
 
 ## Author module YAML
 
@@ -111,6 +122,12 @@ Compile the authored module deck into a fresh `.apkg` and local release bundle:
 
 ```bash
 uv run python scripts/build_authored_deck.py editable/authored/ielts-writing-task-1-core --version v0.1.0
+```
+
+Grammar deck example:
+
+```bash
+uv run python scripts/build_authored_deck.py editable/authored/ielts-writing-1-grammar-structure --version v0.2.1
 ```
 
 This writes:

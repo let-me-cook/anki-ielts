@@ -1,0 +1,110 @@
+module: quantity_grammar
+tags:
+- grammar-topic
+- quantity
+cards:
+- id: quantity_many_households
+  type: contextual_cloze
+  prompt: Choose the quantifier for a plural countable noun.
+  sentence: '{{c1::Many}} households relied on electricity as their main energy source.'
+  extra: Use "many" with plural countable nouns.
+  tags:
+  - countable
+  - quantifier
+  source_refs:
+  - deck: 2090856176-IELTS-Writing-Part-1
+    note_id: 1466417396054
+- id: quantity_much_water
+  type: contextual_cloze
+  prompt: Choose the quantifier for an uncountable noun.
+  sentence: '{{c1::Much}} of the water was used for agriculture.'
+  extra: Use "much" with uncountable nouns, especially in formal report language.
+  tags:
+  - uncountable
+  - quantifier
+  source_refs:
+  - deck: 2090856176-IELTS-Writing-Part-1
+    note_id: 1466417425652
+- id: quantity_fewer_people
+  type: contextual_cloze
+  prompt: Compare a smaller number of countable items.
+  sentence: '{{c1::Fewer}} people cycled to work in 2010 than in 2000.'
+  extra: Use "fewer" with countable plural nouns.
+  tags:
+  - countable
+  - comparison
+- id: quantity_less_water
+  type: contextual_cloze
+  prompt: Compare a smaller amount of an uncountable substance.
+  sentence: The city used {{c1::less}} water in 2010 than in 2000.
+  extra: Use "less" with uncountable nouns.
+  tags:
+  - uncountable
+  - comparison
+- id: quantity_amount_of
+  type: contextual_cloze
+  prompt: Refer to an uncountable total in a chart description.
+  sentence: The graph shows the {{c1::amount of}} water used in agriculture.
+  extra: Use "amount of" with uncountable nouns; use "number of" with countable ones.
+  tags:
+  - uncountable
+  - noun-phrase
+  source_refs:
+  - deck: 2090856176-IELTS-Writing-Part-1
+    note_id: 1466425270306
+- id: quantity_number_of
+  type: contextual_cloze
+  prompt: Refer to a total of countable items in a formal sentence.
+  sentence: The {{c1::number of}} private cars rose steadily over the period.
+  extra: Use "number of" with plural countable nouns.
+  tags:
+  - countable
+  - noun-phrase
+- id: quantity_twice_as_many_as
+  type: contextual_cloze
+  prompt: Show that one category had double the count of another.
+  sentence: The UK imported {{c1::twice as many}} cars as France.
+  extra: Use "twice as many ... as" with countable plural nouns.
+  tags:
+  - countable
+  - comparison
+- id: quantity_as_much_as
+  type: contextual_cloze
+  prompt: Compare nearly equal amounts of an uncountable noun.
+  sentence: Industry used almost {{c1::as much}} water as agriculture in 2005.
+  extra: Use "as much ... as" with uncountable nouns.
+  tags:
+  - uncountable
+  - comparison
+- id: quantity_one_third_of
+  type: contextual_cloze
+  prompt: State a fraction of a whole in a formal way.
+  sentence: '{{c1::One third of}} the budget was spent on food.'
+  extra: Use a fraction plus "of" to show a part of a larger total.
+  tags:
+  - fractions
+  - part-whole
+- id: quantity_only_a_small_number_of
+  type: contextual_cloze
+  prompt: Show that very few countable items fit a category.
+  sentence: '{{c1::Only a small number of}} visitors arrived by boat.'
+  extra: Use this phrase for a small countable total in formal writing.
+  tags:
+  - countable
+  - low-quantity
+- id: quantity_half_of
+  type: contextual_cloze
+  prompt: Refer to one equal part of the whole in a concise way.
+  sentence: Almost {{c1::half of}} the respondents preferred travelling by train.
+  extra: Use "half of" before determiners like "the," "these," or "all."
+  tags:
+  - fractions
+  - part-whole
+- id: quantity_the_remaining
+  type: contextual_cloze
+  prompt: Refer to what was left after the main shares had been given.
+  sentence: '{{c1::The remaining}} 20% was spent on leisure activities.'
+  extra: Use "the remaining" before a number or noun phrase to describe the leftover part.
+  tags:
+  - remainder
+  - part-whole

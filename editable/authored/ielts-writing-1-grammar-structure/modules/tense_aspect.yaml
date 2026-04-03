@@ -1,0 +1,117 @@
+module: tense_aspect
+tags:
+- grammar-topic
+- tense
+- aspect
+cards:
+- id: tense_chart_shows
+  type: contextual_cloze
+  prompt: Describe what a visual presents in an introduction.
+  sentence: The bar chart {{c1::shows}} the amount of money spent on food and transport.
+  extra: Use present simple to describe what the chart itself presents.
+  tags:
+  - introduction
+  - present-simple
+  source_refs:
+  - deck: 2090856176-IELTS-Writing-Part-1
+    note_id: 1466416662457
+- id: tense_increased_steadily
+  type: contextual_cloze
+  prompt: Describe a finished upward trend over a past period.
+  sentence: The number of vegetarians {{c1::increased steadily}} between 2004 and 2007.
+  extra: Use past simple for a finished time period shown in the chart.
+  tags:
+  - past-simple
+  - trend-language
+  source_refs:
+  - deck: 2090856176-IELTS-Writing-Part-1
+    note_id: 1466417460543
+- id: tense_was_higher
+  type: contextual_cloze
+  prompt: Compare two dated figures from the past.
+  sentence: In 1990, expenditure in the UK {{c1::was}} higher than in France.
+  extra: Use past simple when the comparison belongs to a past year.
+  tags:
+  - past-simple
+  - comparison
+  source_refs:
+  - deck: 2090856176-IELTS-Writing-Part-1
+    note_id: 1466416734961
+- id: tense_remained_constant
+  type: contextual_cloze
+  prompt: Describe a past figure that did not change across two years.
+  sentence: The share of hydroelectric power {{c1::remained constant}} at 5% in both years.
+  extra: Use past simple for finished comparisons across past dates.
+  tags:
+  - past-simple
+  - no-change
+  source_refs:
+  - deck: 2090856176-IELTS-Writing-Part-1
+    note_id: 1466417358001
+- id: tense_is_used
+  type: contextual_cloze
+  prompt: Describe a general present situation with no past time marker.
+  sentence: In Canada, water {{c1::is used}} mainly for industry.
+  extra: Use present simple when the sentence states a general current pattern rather than a finished past period.
+  tags:
+  - present-simple
+  - static-description
+  source_refs:
+  - deck: 2090856176-IELTS-Writing-Part-1
+    note_id: 1466416928380
+- id: tense_has_risen_since_2000
+  type: contextual_cloze
+  prompt: Describe a change that started in the past and continues to the present.
+  sentence: Since 2000, the percentage of commuters {{c1::has risen}} gradually.
+  extra: Use present perfect when the time period starts in the past and continues now.
+  tags:
+  - present-perfect
+  - trend-language
+- id: tense_is_projected_to_rise
+  type: contextual_cloze
+  prompt: Describe a forecast trend shown for future years.
+  sentence: The proportion of older people {{c1::is projected to rise}} to 30% by 2040.
+  extra: Use "is projected to" for formal forecast descriptions in Task 1.
+  tags:
+  - future
+  - forecast-language
+- id: tense_will_decline
+  type: contextual_cloze
+  prompt: State a simple future prediction after an explicit forecast marker.
+  sentence: According to the forecast, the figure {{c1::will decline}} after 2030.
+  extra: Use future simple for straightforward predictions about later years.
+  tags:
+  - future
+  - forecast-language
+- id: tense_stood_at
+  type: contextual_cloze
+  prompt: Give a past value using a formal reporting verb.
+  sentence: In 2005, the unemployment rate {{c1::stood at}} 7%.
+  extra: '"Stood at" is a fixed past reporting phrase for figures and percentages.'
+  tags:
+  - past-simple
+  - figure-language
+- id: tense_had_fallen
+  type: contextual_cloze
+  prompt: Show that one past change happened before a later past reference point.
+  sentence: By 2010, the figure {{c1::had fallen}} to half its 1990 level.
+  extra: Use past perfect only when you need to mark an earlier past change before another past point.
+  tags:
+  - past-perfect
+  - trend-language
+- id: tense_was_expected_to_reach
+  type: contextual_cloze
+  prompt: Describe a formal forecast tied to a future end point.
+  sentence: The proportion of elderly people {{c1::was expected to reach}} 25% by 2035.
+  extra: Use "was expected to" when you report a forecast from the chart rather than making your own prediction.
+  tags:
+  - future
+  - forecast-language
+- id: tense_has_remained_stable
+  type: contextual_cloze
+  prompt: Describe a pattern that began earlier and still has not changed.
+  sentence: Since 2015, the share of online sales {{c1::has remained stable}} at around 30%.
+  extra: Use present perfect with "since" when a situation started in the past and continues now.
+  tags:
+  - present-perfect
+  - no-change

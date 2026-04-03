@@ -1,0 +1,113 @@
+module: prepositions
+tags:
+- grammar-topic
+- prepositions
+cards:
+- id: prep_to_the_northeast_of
+  type: contextual_cloze
+  prompt: Give a precise map location relative to a town.
+  sentence: The new housing estate is located {{c1::to the northeast of}} the town centre.
+  extra: Use a full directional phrase after location verbs in map descriptions.
+  tags:
+  - map-language
+  - direction
+  source_refs:
+  - deck: 2090856176-IELTS-Writing-Part-1
+    note_id: 1466416752221
+- id: prep_from_to
+  type: contextual_cloze
+  prompt: Show the starting and ending values of a change in one structure.
+  sentence: The share of oil fell {{c1::from 42% in 1980 to 33% in 1990}}.
+  extra: Use "from ... to ..." when you give both the start point and the end point.
+  tags:
+  - trend-language
+  - value-range
+  source_refs:
+  - deck: 2090856176-IELTS-Writing-Part-1
+    note_id: 1466417306792
+- id: prep_at_five_percent
+  type: contextual_cloze
+  prompt: Give a precise fixed level after a no-change verb.
+  sentence: The share of hydroelectric power remained constant {{c1::at}} 5% in both years.
+  extra: Use "at" before a specific figure or level.
+  tags:
+  - figure-language
+  - no-change
+  source_refs:
+  - deck: 2090856176-IELTS-Writing-Part-1
+    note_id: 1466417358001
+- id: prep_by_fifteen_percent
+  type: contextual_cloze
+  prompt: Give the size of a change rather than the final result.
+  sentence: The figure increased {{c1::by}} 15% over the period.
+  extra: Use "by" for the amount of change, not for the final level.
+  tags:
+  - trend-language
+  - amount-of-change
+- id: prep_between_and
+  type: contextual_cloze
+  prompt: Mark a time span with clear start and end points.
+  sentence: The number of vegetarians rose steadily {{c1::between 2004 and 2007}}.
+  extra: Use "between ... and ..." for a period with two explicit endpoints.
+  tags:
+  - time-expression
+  - trend-language
+  source_refs:
+  - deck: 2090856176-IELTS-Writing-Part-1
+    note_id: 1466417460543
+- id: prep_in_1990
+  type: contextual_cloze
+  prompt: Introduce a specific year before a past figure.
+  sentence: '{{c1::In}} 1990, coal was still the main energy source.'
+  extra: Use "in" before years, months, and longer calendar periods.
+  tags:
+  - time-expression
+  - date-language
+- id: prep_over_the_period
+  type: contextual_cloze
+  prompt: Refer to the whole span shown in the chart.
+  sentence: Car ownership changed considerably {{c1::over}} the period.
+  extra: Use "over" to describe something happening across the full time span.
+  tags:
+  - time-expression
+  - trend-language
+- id: prep_at_the_beginning_of
+  type: contextual_cloze
+  prompt: Refer to the opening stage of a period.
+  sentence: '{{c1::At the beginning of}} the period, oil accounted for 52%.'
+  extra: Use this fixed phrase when you point to the starting part of a timeline.
+  tags:
+  - time-expression
+  - sequence
+- id: prep_by_2030
+  type: contextual_cloze
+  prompt: Mark the final time limit for a projected figure.
+  sentence: The share is forecast to reach 70% {{c1::by}} 2030.
+  extra: Use "by" before a deadline or end point in time.
+  tags:
+  - time-expression
+  - forecast-language
+- id: prep_among_the_five_countries
+  type: contextual_cloze
+  prompt: Compare one item within a larger group.
+  sentence: '{{c1::Among the five countries}}, Canada recorded the highest figure.'
+  extra: Use "among" for comparisons inside groups of more than two items.
+  tags:
+  - group-reference
+  - comparison
+- id: prep_by_bus
+  type: contextual_cloze
+  prompt: Describe the transport mode after a travel verb.
+  sentence: Most workers travelled {{c1::by}} bus, while fewer went by train.
+  extra: Use "by" plus a means of transport, with no article, in standard transport phrases.
+  tags:
+  - transport-language
+  - zero-article
+- id: prep_on_the_western_side_of
+  type: contextual_cloze
+  prompt: Give a precise map position on one side of an area.
+  sentence: A new car park was built {{c1::on the western side of}} the river.
+  extra: Use this phrase for clear map descriptions when one feature sits along one side of another.
+  tags:
+  - map-language
+  - direction

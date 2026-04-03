@@ -1,0 +1,78 @@
+module: word_form_and_degree
+tags:
+- grammar-topic
+- word-form
+- degree
+cards:
+- id: wordform_increased_sharply
+  type: contextual_cloze
+  prompt: Modify a trend verb with the correct adverb form.
+  sentence: Car ownership {{c1::increased sharply}} after 2005.
+  extra: Use adverbs with verbs, for example "increased sharply" and "fell slightly."
+  tags:
+  - verb-pattern
+  - adverb
+- id: wordform_a_sharp_increase_in
+  type: contextual_cloze
+  prompt: Express the same trend with a noun-led structure.
+  sentence: There was {{c1::a sharp increase in}} car ownership after 2005.
+  extra: Use adjective plus noun in noun-led trend structures, for example "a sharp increase."
+  tags:
+  - noun-led
+  - adjective
+- id: wordform_fell_slightly
+  type: contextual_cloze
+  prompt: Modify a downward trend verb with a small degree.
+  sentence: Bus use {{c1::fell slightly}} in the final year.
+  extra: Use an adverb after the verb when the trend is verb-led.
+  tags:
+  - verb-pattern
+  - adverb
+- id: wordform_a_slight_fall_in
+  type: contextual_cloze
+  prompt: Express a small decrease with a noun phrase.
+  sentence: The chart shows {{c1::a slight fall in}} spending on clothing.
+  extra: Use adjective plus noun when the sentence is built around a trend noun.
+  tags:
+  - noun-led
+  - adjective
+- id: wordform_significantly_higher
+  type: contextual_cloze
+  prompt: Add a strong degree before a comparative adjective.
+  sentence: The figure for France was {{c1::significantly higher}} than that for Italy.
+  extra: Use an adverb before comparative adjectives, for example "significantly higher."
+  tags:
+  - comparative
+  - adverb
+- id: wordform_a_significant_difference_between
+  type: contextual_cloze
+  prompt: Express a large gap with a noun phrase instead of a comparative adjective.
+  sentence: There was {{c1::a significant difference between}} male and female earnings.
+  extra: Use adjective plus noun when the structure is noun-led rather than adjective-led.
+  tags:
+  - noun-led
+  - comparison
+- id: wordform_marginally_lower
+  type: contextual_cloze
+  prompt: Show that one figure is only slightly below another.
+  sentence: Gas consumption was {{c1::marginally lower}} in 2010 than in 2000.
+  extra: Use an adverb before a comparative adjective to show a small difference.
+  tags:
+  - comparative
+  - adverb
+- id: wordform_remained_relatively_stable
+  type: contextual_cloze
+  prompt: Describe near-stability with a degree adverb.
+  sentence: The percentage of coal use {{c1::remained relatively stable}} throughout the period.
+  extra: Use an adverb like "relatively" before adjectives such as "stable" to soften the claim.
+  tags:
+  - stability
+  - adverb
+- id: wordform_a_dramatic_rise_in
+  type: contextual_cloze
+  prompt: Express a very strong upward change with a noun-led phrase.
+  sentence: The graph shows {{c1::a dramatic rise in}} electricity demand after 2000.
+  extra: Use adjective plus noun in noun-led structures like "a dramatic rise in."
+  tags:
+  - noun-led
+  - adjective

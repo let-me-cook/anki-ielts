@@ -1,0 +1,114 @@
+module: clauses_and_linking
+tags:
+- grammar-topic
+- clauses
+- linking
+cards:
+- id: clause_while_for_contrast
+  type: contextual_cloze
+  prompt: Contrast two full ideas in the same sentence.
+  sentence: '{{c1::While}} most water in Egypt is used for agriculture, in Canada it is used mainly for industry.'
+  extra: Use "while" to connect two contrasting clauses.
+  tags:
+  - contrast
+  - complex-sentence
+  source_refs:
+  - deck: 2090856176-IELTS-Writing-Part-1
+    note_id: 1466416928380
+- id: clause_there_was_a_steady_increase_in
+  type: contextual_cloze
+  prompt: Describe an upward trend with a noun-led structure.
+  sentence: There was {{c1::a steady increase in}} the number of vegetarians over the period.
+  extra: Use "there was" plus a noun phrase when you want a noun-based trend sentence.
+  tags:
+  - trend-structure
+  - noun-led
+  source_refs:
+  - deck: 2090856176-IELTS-Writing-Part-1
+    note_id: 1466417513157
+- id: clause_the_reverse_is_true
+  type: contextual_cloze
+  prompt: Show that the second place follows the opposite pattern.
+  sentence: '{{c1::The reverse is true}} in Canada, where industry accounts for the largest share.'
+  extra: Use this fixed clause when the second case flips the first pattern.
+  tags:
+  - contrast
+  - fixed-structure
+  source_refs:
+  - deck: 2090856176-IELTS-Writing-Part-1
+    note_id: 1466417166397
+- id: clause_which_accounts_for
+  type: contextual_cloze
+  prompt: Add extra data to a noun with a relative clause.
+  sentence: Industry, {{c1::which accounts for}} 80% of water use, is the dominant sector.
+  extra: Use a non-defining relative clause to add supporting data after a noun.
+  tags:
+  - relative-clause
+  - support-detail
+- id: clause_little_change_in
+  type: contextual_cloze
+  prompt: Show that a category stayed almost stable in a noun phrase.
+  sentence: There was {{c1::little change in}} spending on the other two items.
+  extra: Use this fixed pattern for near-stability when you want a noun phrase, not a verb phrase.
+  tags:
+  - stability
+  - noun-led
+  source_refs:
+  - deck: 2090856176-IELTS-Writing-Part-1
+    note_id: 1466416686354
+- id: clause_followed_by
+  type: contextual_cloze
+  prompt: Rank the next category after the biggest one.
+  sentence: Oil was the main source, {{c1::followed by}} natural gas and coal.
+  extra: Use "followed by" after the first ranked item to introduce the next one.
+  tags:
+  - ranking
+  - reduced-clause
+- id: clause_with_gas_at_30_percent
+  type: contextual_cloze
+  prompt: Attach supporting figures to a main clause without a full new sentence.
+  sentence: Coal remained the dominant fuel, {{c1::with}} gas at 30% and oil at 25%.
+  extra: Use "with" plus a noun phrase to add extra data compactly.
+  tags:
+  - support-detail
+  - reduced-clause
+- id: clause_making_it_the_largest_category
+  type: contextual_cloze
+  prompt: Show the result of the previous change in one continuing sentence.
+  sentence: Car use rose to 60%, {{c1::making it}} the most common mode of transport.
+  extra: Use an -ing clause to express the result of the previous fact.
+  tags:
+  - result
+  - reduced-clause
+- id: clause_overall_it_is_clear_that
+  type: contextual_cloze
+  prompt: Start an overview sentence that states the main pattern.
+  sentence: '{{c1::Overall, it is clear that}} car ownership increased while bus use declined.'
+  extra: Use this overview frame when you want one formal clause introducing the main trend.
+  tags:
+  - overview
+  - introduction
+- id: clause_respectively
+  type: contextual_cloze
+  prompt: Match two figures to two categories in the same order.
+  sentence: France and Spain recorded 40% and 35% {{c1::respectively}}.
+  extra: Use "respectively" when the order of the figures matches the order of the earlier nouns.
+  tags:
+  - reference
+  - order
+- id: clause_compared_with_1990
+  type: contextual_cloze
+  prompt: Open a sentence by setting one year against an earlier benchmark.
+  sentence: '{{c1::Compared with 1990}}, the 2010 figure was substantially higher.'
+  extra: Use this reduced comparison opener when the benchmark is clear and you want a compact sentence.
+  tags:
+  - comparison
+  - reduced-clause
+- id: clause_after_which
+  type: contextual_cloze
+  prompt: Link one process step to the next with a relative time clause.
+  sentence: The water passes through a filter, {{c1::after which}} it is stored in a reservoir.
+  extra: Use "after which" to connect two stages without starting a new sentence.
+  tags:
+  - process-diagrams
+  - relative-clause

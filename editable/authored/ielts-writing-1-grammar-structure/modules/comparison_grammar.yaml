@@ -1,0 +1,114 @@
+module: comparison_grammar
+tags:
+- grammar-topic
+- comparison
+cards:
+- id: comparison_compared_with
+  type: contextual_cloze
+  prompt: Introduce the matching figure in another category.
+  sentence: The UK spent around £450k on cars, {{c1::compared with}} exactly £400k in France.
+  extra: Use "compared with" to place the second figure after the first comparison point.
+  tags:
+  - comparison-phrase
+  - data-comparison
+  source_refs:
+  - deck: 2090856176-IELTS-Writing-Part-1
+    note_id: 1466416397068
+- id: comparison_higher_than_that
+  type: contextual_cloze
+  prompt: Compare one overall figure with another without repeating the noun.
+  sentence: Expenditure in the UK was {{c1::higher than that}} in France.
+  extra: Use "that" to avoid repeating a singular noun like "expenditure" or "figure."
+  tags:
+  - comparison-structure
+  - reference-word
+  source_refs:
+  - deck: 2090856176-IELTS-Writing-Part-1
+    note_id: 1466416734961
+- id: comparison_whereas
+  type: contextual_cloze
+  prompt: Join two contrasting clauses in a single sentence.
+  sentence: The pie charts show water distribution, {{c1::whereas}} the bar chart shows agricultural use.
+  extra: Use "whereas" to contrast two full clauses, not just two nouns.
+  tags:
+  - linker
+  - contrast
+  source_refs:
+  - deck: 2090856176-IELTS-Writing-Part-1
+    note_id: 1466416780025
+- id: comparison_in_contrast_to
+  type: contextual_cloze
+  prompt: Contrast one category with another noun phrase.
+  sentence: Only 10% of water is used for agriculture, {{c1::in contrast to}} industry, which accounts
+    for 80%.
+  extra: Use "in contrast to" before a noun phrase, not before a full clause.
+  tags:
+  - linker
+  - noun-phrase
+  source_refs:
+  - deck: 2090856176-IELTS-Writing-Part-1
+    note_id: 1466417166397
+- id: comparison_lower_than_those
+  type: contextual_cloze
+  prompt: Compare plural figures without repeating the plural noun.
+  sentence: The figures for Germany were lower than {{c1::those}} for France and Italy.
+  extra: Use "those" to replace a plural noun like "figures" or "totals."
+  tags:
+  - comparison-structure
+  - reference-word
+- id: comparison_twice_as_high_as
+  type: contextual_cloze
+  prompt: Show that one value is double another.
+  sentence: The unemployment rate in 2010 was {{c1::twice as high as}} the 1990 figure.
+  extra: Use "twice as ... as" for exact double comparisons.
+  tags:
+  - comparison-structure
+  - degree
+- id: comparison_almost_as_many_as
+  type: contextual_cloze
+  prompt: Compare two totals that are nearly equal with a countable noun.
+  sentence: India exported almost {{c1::as many}} cars as Japan in 2005.
+  extra: Use "as many ... as" with plural countable nouns.
+  tags:
+  - comparison-structure
+  - countable
+- id: comparison_similar_to
+  type: contextual_cloze
+  prompt: State that one figure was close to another.
+  sentence: Sales in March were {{c1::similar to}} those recorded in February.
+  extra: Use "similar to" before a noun or reference word, not a full clause.
+  tags:
+  - comparison-phrase
+  - reference-word
+- id: comparison_exceeded_that_of
+  type: contextual_cloze
+  prompt: Compare one singular figure with another in a formal way.
+  sentence: Spending on transport {{c1::exceeded that of}} food in 2010.
+  extra: Use "that of" to replace a repeated singular noun after comparison verbs.
+  tags:
+  - comparison-structure
+  - reference-word
+- id: comparison_the_difference_between
+  type: contextual_cloze
+  prompt: Refer to the gap separating two values.
+  sentence: '{{c1::The difference between}} the two figures narrowed over time.'
+  extra: Use this noun phrase when you want to talk about the size of a gap directly.
+  tags:
+  - noun-phrase
+  - gap-language
+- id: comparison_more_than_double
+  type: contextual_cloze
+  prompt: Show that one value was slightly above twice another.
+  sentence: The figure for cars was {{c1::more than double}} that for bicycles.
+  extra: Use this phrase when the larger value is above, not exactly equal to, twice the smaller one.
+  tags:
+  - comparison-structure
+  - degree
+- id: comparison_the_same_as
+  type: contextual_cloze
+  prompt: State that two categories had identical values.
+  sentence: Spending on rent was {{c1::the same as}} spending on food in May.
+  extra: Use "the same as" when two figures are equal.
+  tags:
+  - comparison-structure
+  - equality

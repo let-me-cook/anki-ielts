@@ -1,0 +1,102 @@
+module: articles
+tags:
+- grammar-topic
+- articles
+cards:
+- id: article_the_number_of
+  type: contextual_cloze
+  prompt: Refer to a total count in a chart introduction.
+  sentence: The chart shows {{c1::the number of}} visitors to three museums.
+  extra: Use "the number of" with countable plural nouns when you mean the total count.
+  tags:
+  - introduction
+  - noun-phrase
+  source_refs:
+  - deck: 2090856176-IELTS-Writing-Part-1
+    note_id: 1466425270306
+- id: article_the_proportion_of
+  type: contextual_cloze
+  prompt: Refer to a share of a whole in a formal report sentence.
+  sentence: The pie chart compares {{c1::the proportion of}} energy from renewable sources.
+  extra: Use "the proportion of" when you describe one share of a total.
+  tags:
+  - percentage-language
+  - noun-phrase
+  source_refs:
+  - deck: 2090856176-IELTS-Writing-Part-1
+    note_id: 1466425270306
+- id: article_an_overwhelming_majority_of
+  type: contextual_cloze
+  prompt: Summarize that one category dominates almost everything.
+  sentence: Salt water accounts for {{c1::an overwhelming majority of}} the world's water.
+  extra: Use "an" because "overwhelming majority" is singular and begins with a vowel sound.
+  tags:
+  - overview
+  - dominant-feature
+  source_refs:
+  - deck: 2090856176-IELTS-Writing-Part-1
+    note_id: 1466416876963
+- id: article_a_small_proportion_of
+  type: contextual_cloze
+  prompt: Describe a minor share without giving the exact percentage first.
+  sentence: Fresh water made up {{c1::a small proportion of}} the total supply.
+  extra: Use "a" before singular summary nouns like "proportion" and "minority."
+  tags:
+  - overview
+  - minority-share
+- id: article_the_figure_for
+  type: contextual_cloze
+  prompt: Refer to one named category without repeating the full description.
+  sentence: '{{c1::The figure for}} car ownership was highest in the UK.'
+  extra: Use "the" when you point to one specific figure attached to a named category.
+  tags:
+  - reference
+  - noun-phrase
+- id: article_a_total_of
+  type: contextual_cloze
+  prompt: Introduce one complete total before a number.
+  sentence: '{{c1::A total of}} 120,000 passengers used the station in July.'
+  extra: Use "a" because "total" is a singular count noun in this pattern.
+  tags:
+  - total
+  - noun-phrase
+- id: article_an_average_of
+  type: contextual_cloze
+  prompt: Introduce a typical value in a formal sentence.
+  sentence: Residents spent {{c1::an average of}} $45 per week on public transport.
+  extra: Use "an average of" before a number when you report a typical amount.
+  tags:
+  - averages
+  - noun-phrase
+- id: article_the_percentage_of
+  type: contextual_cloze
+  prompt: Refer to a measured share for a specific group.
+  sentence: The table shows {{c1::the percentage of}} households with internet access.
+  extra: Use "the percentage of" when one specific measured share is being described.
+  tags:
+  - percentage-language
+  - noun-phrase
+- id: article_the_largest_share_of
+  type: contextual_cloze
+  prompt: Identify the category with the biggest portion.
+  sentence: Coal accounted for {{c1::the largest share of}} electricity generation.
+  extra: Use "the" with superlatives like "largest" and "smallest."
+  tags:
+  - superlative
+  - overview
+- id: article_a_minority_of
+  type: contextual_cloze
+  prompt: Show that only a limited part of the group did something.
+  sentence: Only {{c1::a minority of}} respondents travelled by bicycle.
+  extra: Use "a minority of" for a small but noticeable part of the whole.
+  tags:
+  - overview
+  - minority-share
+- id: article_the_rest_of
+  type: contextual_cloze
+  prompt: Refer to what remains after the main categories have been described.
+  sentence: '{{c1::The rest of}} the electricity was generated from coal and oil.'
+  extra: Use "the rest of" when you mean the remainder of a known total.
+  tags:
+  - remainder
+  - reference

@@ -1,0 +1,94 @@
+module: passive_and_processes
+tags:
+- grammar-topic
+- passive
+- process-diagrams
+cards:
+- id: passive_is_first_collected
+  type: contextual_cloze
+  prompt: Describe the first stage of a process in formal report style.
+  sentence: Raw water {{c1::is first collected}} in a storage tank.
+  extra: Process descriptions usually use present simple passive because the actor is not important.
+  tags:
+  - passive
+  - sequence
+- id: passive_is_then_filtered
+  type: contextual_cloze
+  prompt: Describe a later process stage after the starting step.
+  sentence: The water {{c1::is then filtered}} before entering the main pipe.
+  extra: Use adverbs like "then" between "be" and the past participle in passive process sentences.
+  tags:
+  - passive
+  - sequence
+- id: passive_are_then_sorted
+  type: contextual_cloze
+  prompt: Describe a passive stage with a plural subject.
+  sentence: The bottles {{c1::are then sorted}} by size and colour.
+  extra: Use "are" with plural subjects in the passive.
+  tags:
+  - passive
+  - subject-verb-agreement
+- id: passive_after_being_filtered
+  type: contextual_cloze
+  prompt: Link one stage to the next with a reduced passive clause.
+  sentence: After {{c1::being filtered}}, the water is stored in a large reservoir.
+  extra: Use "after being + past participle" to compress a passive stage link.
+  tags:
+  - passive
+  - reduced-clause
+- id: passive_before_it_is_delivered
+  type: contextual_cloze
+  prompt: Describe the final check before distribution.
+  sentence: The electricity is checked before it {{c1::is delivered}} to homes.
+  extra: Use a full passive clause after "before" when the subject needs to be clear.
+  tags:
+  - passive
+  - subordination
+- id: passive_can_be_recycled
+  type: contextual_cloze
+  prompt: Show that a material is able to go through the process again.
+  sentence: Used glass {{c1::can be recycled}} and turned into new containers.
+  extra: Use modal passive forms like "can be recycled" for possibility or ability.
+  tags:
+  - passive
+  - modal
+- id: passive_is_used_to_generate
+  type: contextual_cloze
+  prompt: Express the purpose of one stage in a process.
+  sentence: The steam {{c1::is used to generate}} electricity.
+  extra: Use "is used to" plus infinitive to show function or purpose.
+  tags:
+  - passive
+  - purpose
+- id: passive_are_connected_to
+  type: contextual_cloze
+  prompt: Describe how places are linked on a map.
+  sentence: The houses {{c1::are connected to}} the main road by a new bridge.
+  extra: Use passive when the thing receiving the connection is the topic of the sentence.
+  tags:
+  - passive
+  - map-language
+- id: passive_is_heated
+  type: contextual_cloze
+  prompt: Describe a middle stage where temperature changes.
+  sentence: In the next stage, the mixture {{c1::is heated}} to a high temperature.
+  extra: Use present simple passive for routine process steps.
+  tags:
+  - passive
+  - process-diagrams
+- id: passive_is_packaged
+  type: contextual_cloze
+  prompt: Describe the final production stage before transport.
+  sentence: Finally, the finished product {{c1::is packaged}} and sent to supermarkets.
+  extra: Use passive to focus on the product rather than the people or machines doing the action.
+  tags:
+  - passive
+  - sequence
+- id: passive_before_being_stored
+  type: contextual_cloze
+  prompt: Describe one passive stage that happens earlier than the next one.
+  sentence: The liquid is cooled before {{c1::being stored}} in large tanks.
+  extra: Use "before being + past participle" for a compact passive sequence.
+  tags:
+  - passive
+  - reduced-clause

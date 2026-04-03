@@ -1,0 +1,102 @@
+module: agreement_and_reference
+tags:
+- grammar-topic
+- agreement
+- reference
+cards:
+- id: agreement_the_number_of_was
+  type: contextual_cloze
+  prompt: Choose the verb form after a singular quantity head noun.
+  sentence: The number of commuters using buses {{c1::was}} higher in 2000.
+  extra: The head noun is "number," so the verb is singular.
+  tags:
+  - subject-verb-agreement
+  - quantity
+- id: agreement_the_proportion_of_was
+  type: contextual_cloze
+  prompt: Choose the verb form after a singular proportion phrase.
+  sentence: The proportion of water used for farming {{c1::was}} far larger in Egypt.
+  extra: The head noun is "proportion," so the verb is singular.
+  tags:
+  - subject-verb-agreement
+  - percentage-language
+- id: agreement_the_figures_for_were
+  type: contextual_cloze
+  prompt: Choose the verb form after a plural reporting noun.
+  sentence: The figures for France and Spain {{c1::were}} almost identical.
+  extra: The head noun is plural, so the verb must also be plural.
+  tags:
+  - subject-verb-agreement
+  - comparison
+- id: agreement_this_figure
+  type: contextual_cloze
+  prompt: Refer back to one earlier number without repeating it.
+  sentence: Car ownership reached 65% in 2010, and {{c1::this figure}} was the highest on the chart.
+  extra: Use "this figure" to refer back to one singular number or percentage.
+  tags:
+  - reference-word
+  - cohesion
+- id: agreement_these_figures
+  type: contextual_cloze
+  prompt: Refer back to two or more earlier numbers together.
+  sentence: Spending on rent and food both increased, and {{c1::these figures}} were well above transport costs.
+  extra: Use "these figures" when you refer back to multiple earlier numbers.
+  tags:
+  - reference-word
+  - cohesion
+- id: agreement_thirty_percent_of_households_were
+  type: contextual_cloze
+  prompt: Choose the verb form after a percentage with a plural countable noun.
+  sentence: Around 30% of households {{c1::were}} connected to the internet in 2001.
+  extra: With percentages, the verb agrees with the noun after "of"; "households" is plural.
+  tags:
+  - subject-verb-agreement
+  - percentage-language
+- id: agreement_thirty_percent_of_water_was
+  type: contextual_cloze
+  prompt: Choose the verb form after a percentage with an uncountable noun.
+  sentence: Approximately 30% of the water {{c1::was}} lost through leakage.
+  extra: With percentages, the verb agrees with the noun after "of"; "water" is uncountable singular.
+  tags:
+  - subject-verb-agreement
+  - percentage-language
+- id: agreement_both_charts_show
+  type: contextual_cloze
+  prompt: Start a sentence about two visuals together.
+  sentence: '{{c1::Both charts show}} a clear upward trend in online shopping.'
+  extra: Use a plural verb after "both" because it refers to two items.
+  tags:
+  - subject-verb-agreement
+  - introduction
+- id: agreement_each_country_recorded
+  type: contextual_cloze
+  prompt: Choose the verb form after a distributive singular subject.
+  sentence: '{{c1::Each country}} recorded growth in household spending.'
+  extra: '"Each" takes a singular verb even when several items are included in the idea.'
+  tags:
+  - subject-verb-agreement
+  - quantifier
+- id: agreement_neither_country_recorded
+  type: contextual_cloze
+  prompt: Choose the verb form after a negative distributive subject.
+  sentence: '{{c1::Neither country}} recorded a fall in car ownership.'
+  extra: '"Neither" is singular in standard formal writing, so use a singular verb.'
+  tags:
+  - subject-verb-agreement
+  - quantifier
+- id: agreement_there_was
+  type: contextual_cloze
+  prompt: Start a sentence about one singular change or trend.
+  sentence: There {{c1::was}} a sharp increase in online spending after 2015.
+  extra: Use "there was" before singular nouns like "increase," "fall," or "change."
+  tags:
+  - subject-verb-agreement
+  - trend-structure
+- id: agreement_there_were
+  type: contextual_cloze
+  prompt: Start a sentence about several separate changes.
+  sentence: There {{c1::were}} significant differences between the four age groups.
+  extra: Use "there were" before plural nouns like "differences," "changes," or "peaks."
+  tags:
+  - subject-verb-agreement
+  - comparison

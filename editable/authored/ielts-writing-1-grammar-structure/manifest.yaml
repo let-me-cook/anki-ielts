@@ -1,0 +1,28 @@
+authored_format_version: 1
+deck:
+  slug: ielts-writing-1-grammar-structure
+  title: IELTS Writing 1 Grammar Structure
+  description: Curated authored grammar deck for IELTS Writing Task 1 structure and sentence patterns.
+  deck_id: 196274518923130643
+model:
+  id: 192171112860369740
+  name: IELTS Writing 1 Grammar Structure Cloze
+  type: cloze
+  field_names:
+  - Text
+  - Extra
+release:
+  repo: let-me-cook/anki-ielts
+  asset_name_template: ielts-writing-1-grammar-structure-{version}.apkg
+  title_template: IELTS Writing 1 Grammar Structure {version}
+default_tags:
+- ielts
+- writing-task-1
+- grammar
+- authored
+paths:
+  modules_dir: modules
+  media_dir: media
+source_decks:
+- deck_stem: 2090856176-IELTS-Writing-Part-1
+  decompiled_dir: decompiled/2090856176-IELTS-Writing-Part-1
